@@ -563,11 +563,15 @@ function main() {
     generateDeviceDataFiles(devices);
     generateMainHTML(devices, totalRoms, totalLinks);
     
+    // 创建.nojekyll文件禁用Jekyll处理
+    fs.writeFileSync('docs/.nojekyll', '');
+    
     console.log('✅ 优化版HTML生成完成！');
     console.log('📁 文件结构:');
     console.log('   - docs/index.html (主页面，约50KB)');
     console.log('   - docs/data/devices.json (设备列表)');
     console.log(`   - docs/data/*.json (${devices.length}个设备数据文件)`);
+    console.log('   - docs/.nojekyll (禁用Jekyll处理)');
 }
 
 main();

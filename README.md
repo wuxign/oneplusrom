@@ -128,8 +128,19 @@ npm run clean
 2. **工作流程**：
    - ✅ 验证30个JSON数据文件
    - ✅ 生成优化的HTML网站 
+   - ✅ 创建`.nojekyll`文件禁用Jekyll处理
    - ✅ 自动部署到GitHub Pages
 3. **权限配置**：已配置所需的Pages权限
+
+### Jekyll处理问题解决
+
+⚠️ **如果遇到Jekyll错误**：项目自动生成`.nojekyll`文件来禁用Jekyll处理，确保纯HTML网站正常工作。
+
+```
+Error: No such file or directory @ dir_chdir0 - /github/workspace/docs
+```
+
+**解决方案**：构建脚本会自动创建`docs/.nojekyll`文件，告诉GitHub Pages不要用Jekyll处理我们的静态HTML。
 
 ### 部署设置
 
