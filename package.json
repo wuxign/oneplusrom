@@ -1,0 +1,29 @@
+{
+    "name": "oneplusrom-database",
+    "version": "1.0.0",
+    "description": "OnePlus ROM 数据库 - GitHub Pages静态网站生成器",
+    "main": "scripts/generate-html-optimized.js",
+    "scripts": {
+        "build": "node scripts/generate-html-optimized.js",
+        "build-optimized": "node scripts/generate-html-optimized.js",
+        "validate": "node scripts/validate-json.js",
+        "test": "node scripts/validate-json.js && node scripts/generate-html-optimized.js",
+        "test-optimized": "node scripts/validate-json.js && node scripts/generate-html-optimized.js",
+        "dev": "node scripts/server.js",
+        "serve": "node scripts/server.js",
+        "clean": "if exist docs rmdir /s /q docs"
+    },
+    "keywords": [
+        "oneplus",
+        "rom",
+        "firmware",
+        "database",
+        "static-site",
+        "github-pages"
+    ],
+    "author": "OnePlus ROM Database",
+    "license": "MIT",
+    "engines": {
+        "node": ">=14.0.0"
+    }
+}

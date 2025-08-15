@@ -1,0 +1,83 @@
+{
+    "model": "一加 Pad",
+    "roms": [
+        {
+            "version": "一加 Pad/ColorOS OPD2407_15.0.0.1001(CN01) A.37",
+            "links": [
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-f05dee4ac314aefecafe8337cc5e924f/component-ota/25/06/12/b80549365ab14719a037536002208fde.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-f05dee4ac314aefecafe8337cc5e924f/component-ota/25/06/12/b80549365ab14719a037536002208fde.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-f05dee4ac314aefecafe8337cc5e924f/component-ota/25/06/12/b80549365ab14719a037536002208fde.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-f05dee4ac314aefecafe8337cc5e924f/component-ota/25/06/12/b80549365ab14719a037536002208fde.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-f05dee4ac314aefecafe8337cc5e924f/component-ota/25/06/12/b80549365ab14719a037536002208fde.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-f05dee4ac314aefecafe8337cc5e924f/component-ota/25/06/12/b80549365ab14719a037536002208fde.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/06/12/b80549365ab14719a037536002208fde.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/06/12/b80549365ab14719a037536002208fde.zip"
+            ]
+        },
+        {
+            "version": "一加 Pad/ColorOS OPD2407_15.0.0.801(CN01) A.36",
+            "links": [
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-714bf9bc842c3299342002539468012c/component-ota/25/04/11/f88572f066714848aceab5091cb8c1ea.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-714bf9bc842c3299342002539468012c/component-ota/25/04/11/f88572f066714848aceab5091cb8c1ea.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-714bf9bc842c3299342002539468012c/component-ota/25/04/11/f88572f066714848aceab5091cb8c1ea.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-714bf9bc842c3299342002539468012c/component-ota/25/04/11/f88572f066714848aceab5091cb8c1ea.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-714bf9bc842c3299342002539468012c/component-ota/25/04/11/f88572f066714848aceab5091cb8c1ea.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-714bf9bc842c3299342002539468012c/component-ota/25/04/11/f88572f066714848aceab5091cb8c1ea.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/04/11/f88572f066714848aceab5091cb8c1ea.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/04/11/f88572f066714848aceab5091cb8c1ea.zip"
+            ]
+        },
+        {
+            "version": "一加 Pad/ColorOS OPD2407_15.0.0.602(CN01) A.33",
+            "links": [
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-b3effb648a5a2191bced9c5609aeaddb/component-ota/25/02/28/9847d9ef89ec414bb057d2fab6d3b7eb.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-b3effb648a5a2191bced9c5609aeaddb/component-ota/25/02/28/9847d9ef89ec414bb057d2fab6d3b7eb.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-b3effb648a5a2191bced9c5609aeaddb/component-ota/25/02/28/9847d9ef89ec414bb057d2fab6d3b7eb.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-b3effb648a5a2191bced9c5609aeaddb/component-ota/25/02/28/9847d9ef89ec414bb057d2fab6d3b7eb.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-b3effb648a5a2191bced9c5609aeaddb/component-ota/25/02/28/9847d9ef89ec414bb057d2fab6d3b7eb.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-b3effb648a5a2191bced9c5609aeaddb/component-ota/25/02/28/9847d9ef89ec414bb057d2fab6d3b7eb.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/02/28/9847d9ef89ec414bb057d2fab6d3b7eb.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/02/28/9847d9ef89ec414bb057d2fab6d3b7eb.zip"
+            ]
+        },
+        {
+            "version": "一加 Pad/ColorOS OPD2407_15.0.0.601(CN01) A.32",
+            "links": [
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-93ebfc1b2c0ee572b86a07524ec3cecb/component-ota/25/02/22/e06b432c5bda45c589c1d74df5134c66.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-93ebfc1b2c0ee572b86a07524ec3cecb/component-ota/25/02/22/e06b432c5bda45c589c1d74df5134c66.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-93ebfc1b2c0ee572b86a07524ec3cecb/component-ota/25/02/22/e06b432c5bda45c589c1d74df5134c66.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-93ebfc1b2c0ee572b86a07524ec3cecb/component-ota/25/02/22/e06b432c5bda45c589c1d74df5134c66.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-93ebfc1b2c0ee572b86a07524ec3cecb/component-ota/25/02/22/e06b432c5bda45c589c1d74df5134c66.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-93ebfc1b2c0ee572b86a07524ec3cecb/component-ota/25/02/22/e06b432c5bda45c589c1d74df5134c66.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/02/22/e06b432c5bda45c589c1d74df5134c66.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/02/22/e06b432c5bda45c589c1d74df5134c66.zip"
+            ]
+        },
+        {
+            "version": "一加 Pad/ColorOS OPD2407_15.0.0.404(CN01) A.31",
+            "links": [
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-57c75c0179e30f1937f6acc079dd5dbb/component-ota/24/12/31/af326332206e472d872aedd7c9189a03.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-57c75c0179e30f1937f6acc079dd5dbb/component-ota/24/12/31/af326332206e472d872aedd7c9189a03.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-57c75c0179e30f1937f6acc079dd5dbb/component-ota/24/12/31/af326332206e472d872aedd7c9189a03.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-57c75c0179e30f1937f6acc079dd5dbb/component-ota/24/12/31/af326332206e472d872aedd7c9189a03.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-57c75c0179e30f1937f6acc079dd5dbb/component-ota/24/12/31/af326332206e472d872aedd7c9189a03.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-57c75c0179e30f1937f6acc079dd5dbb/component-ota/24/12/31/af326332206e472d872aedd7c9189a03.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/12/31/af326332206e472d872aedd7c9189a03.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/12/31/af326332206e472d872aedd7c9189a03.zip"
+            ]
+        },
+        {
+            "version": "一加 Pad/ColorOS OPD2407_15.0.0.402(CN01) A.29",
+            "links": [
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-57c75c0179e30f1937f6acc079dd5dbb/component-ota/24/12/31/af326332206e472d872aedd7c9189a03.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-57c75c0179e30f1937f6acc079dd5dbb/component-ota/24/12/31/af326332206e472d872aedd7c9189a03.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-57c75c0179e30f1937f6acc079dd5dbb/component-ota/24/12/31/af326332206e472d872aedd7c9189a03.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-57c75c0179e30f1937f6acc079dd5dbb/component-ota/24/12/31/af326332206e472d872aedd7c9189a03.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-57c75c0179e30f1937f6acc079dd5dbb/component-ota/24/12/31/af326332206e472d872aedd7c9189a03.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-57c75c0179e30f1937f6acc079dd5dbb/component-ota/24/12/31/af326332206e472d872aedd7c9189a03.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/12/31/af326332206e472d872aedd7c9189a03.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/12/31/af326332206e472d872aedd7c9189a03.zip"
+            ]
+        }
+    ]
+}

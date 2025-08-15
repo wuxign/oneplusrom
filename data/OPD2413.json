@@ -1,0 +1,67 @@
+{
+    "model": "一加 Pad 2 Pro",
+    "roms": [
+        {
+            "version": "一加 Pad 2 Pro/ColorOS OPD2413_15.0.1.601(CN01) A.33",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7e32cda1f51010a8b1614dec49ab93e7/component-ota/25/07/31/a1d4d8e5138d4f5b9abd1f6efa58c43c.zip"
+            ]
+        },
+        {
+            "version": "一加 Pad 2 Pro/ColorOS OPD2413_15.0.1.600(CN01) A.31",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-2a11dd0696b3d7328be728d3a1c510d8/component-ota/25/07/07/452b40cae3f8416a88487ade0660fb47.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-2a11dd0696b3d7328be728d3a1c510d8/component-ota/25/07/07/452b40cae3f8416a88487ade0660fb47.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-2a11dd0696b3d7328be728d3a1c510d8/component-ota/25/07/07/452b40cae3f8416a88487ade0660fb47.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-2a11dd0696b3d7328be728d3a1c510d8/component-ota/25/07/07/452b40cae3f8416a88487ade0660fb47.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-2a11dd0696b3d7328be728d3a1c510d8/component-ota/25/07/07/452b40cae3f8416a88487ade0660fb47.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-2a11dd0696b3d7328be728d3a1c510d8/component-ota/25/07/07/452b40cae3f8416a88487ade0660fb47.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-2a11dd0696b3d7328be728d3a1c510d8/component-ota/25/07/07/452b40cae3f8416a88487ade0660fb47.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/07/07/452b40cae3f8416a88487ade0660fb47.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/07/07/452b40cae3f8416a88487ade0660fb47.zip"
+            ]
+        },
+        {
+            "version": "一加 Pad 2 Pro/OxygenOS OPD2415_15.0.1.500(CN01) A.29_EEA",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-0c8ec4f9f5c01f8409304ff7a608d4e7/component-ota/25/06/09/6e801d75d24d440097da1a9b337cba20.zip",
+                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-0c8ec4f9f5c01f8409304ff7a608d4e7/component-ota/25/06/09/6e801d75d24d440097da1a9b337cba20.zip",
+                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-0c8ec4f9f5c01f8409304ff7a608d4e7/component-ota/25/06/09/6e801d75d24d440097da1a9b337cba20.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-0c8ec4f9f5c01f8409304ff7a608d4e7/component-ota/25/06/09/6e801d75d24d440097da1a9b337cba20.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-0c8ec4f9f5c01f8409304ff7a608d4e7/component-ota/25/06/09/6e801d75d24d440097da1a9b337cba20.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-0c8ec4f9f5c01f8409304ff7a608d4e7/component-ota/25/06/09/6e801d75d24d440097da1a9b337cba20.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-0c8ec4f9f5c01f8409304ff7a608d4e7/component-ota/25/06/09/6e801d75d24d440097da1a9b337cba20.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-0c8ec4f9f5c01f8409304ff7a608d4e7/component-ota/25/06/09/6e801d75d24d440097da1a9b337cba20.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-0c8ec4f9f5c01f8409304ff7a608d4e7/component-ota/25/06/09/6e801d75d24d440097da1a9b337cba20.zip"
+            ]
+        },
+        {
+            "version": "一加 Pad 2 Pro/ColorOS OPD2413_15.0.1.501(CN01) A.28",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-94c99042d152cf2a517e2dc88370bb01/component-ota/25/06/09/3393cf4a328b4255a669ef79d2c3a4ee.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-94c99042d152cf2a517e2dc88370bb01/component-ota/25/06/09/3393cf4a328b4255a669ef79d2c3a4ee.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-94c99042d152cf2a517e2dc88370bb01/component-ota/25/06/09/3393cf4a328b4255a669ef79d2c3a4ee.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-94c99042d152cf2a517e2dc88370bb01/component-ota/25/06/09/3393cf4a328b4255a669ef79d2c3a4ee.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-94c99042d152cf2a517e2dc88370bb01/component-ota/25/06/09/3393cf4a328b4255a669ef79d2c3a4ee.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-94c99042d152cf2a517e2dc88370bb01/component-ota/25/06/09/3393cf4a328b4255a669ef79d2c3a4ee.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-94c99042d152cf2a517e2dc88370bb01/component-ota/25/06/09/3393cf4a328b4255a669ef79d2c3a4ee.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/06/09/3393cf4a328b4255a669ef79d2c3a4ee.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/06/09/3393cf4a328b4255a669ef79d2c3a4ee.zip"
+            ]
+        },
+        {
+            "version": "一加 Pad 2 Pro/ColorOS OPD2413_15.0.1.401(CN01) A.25",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-5d6a12ed5c669eab3d8ab9e8080752d0/component-ota/25/05/16/944859cc9cff42a2a17b808c67821092.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-5d6a12ed5c669eab3d8ab9e8080752d0/component-ota/25/05/16/944859cc9cff42a2a17b808c67821092.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-5d6a12ed5c669eab3d8ab9e8080752d0/component-ota/25/05/16/944859cc9cff42a2a17b808c67821092.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-5d6a12ed5c669eab3d8ab9e8080752d0/component-ota/25/05/16/944859cc9cff42a2a17b808c67821092.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-5d6a12ed5c669eab3d8ab9e8080752d0/component-ota/25/05/16/944859cc9cff42a2a17b808c67821092.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-5d6a12ed5c669eab3d8ab9e8080752d0/component-ota/25/05/16/944859cc9cff42a2a17b808c67821092.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-5d6a12ed5c669eab3d8ab9e8080752d0/component-ota/25/05/16/944859cc9cff42a2a17b808c67821092.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/05/16/944859cc9cff42a2a17b808c67821092.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/05/16/944859cc9cff42a2a17b808c67821092.zip"
+            ]
+        }
+    ]
+}

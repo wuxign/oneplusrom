@@ -1,0 +1,29 @@
+{
+    "model": "oppd Pad 2",
+    "roms": [
+        {
+            "version": "oppd Pad 2/OPD2201_15.0.0.1000(CN01)",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-dd73b9da04a124f79545960d48366bf8/component-ota/25/06/12/6381da8fbcea47eba93a8bcbcf1fedd4.zip"
+            ]
+        },
+        {
+            "version": "oppd Pad 2/OPD2201_15.0.0.900(CN01)",
+            "links": [
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-253f3e5de592e05655e55fe1c3498f30/component-ota/25/04/22/2d2831714006451c8c7d34d3e95a66b0.zip"
+            ]
+        },
+        {
+            "version": "oppd Pad 2/OPD2201_15.0.0.401(CN01)",
+            "links": [
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-47f765b23a5a5a7b4dcd7abaaf03615f/component-ota/25/01/15/f8b993aa574443ed91b4b13bfd46ac77.zip"
+            ]
+        },
+        {
+            "version": "oppd Pad 2/OPD2201_14.0.0.600(CN01)",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-1e1d1bea9f56c84d393ccd527bd4ffe4/component-ota/24/04/10/3047f2b87b7547bcacfbd538af8c52ad.zip"
+            ]
+        }
+    ]
+}

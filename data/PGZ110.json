@@ -1,0 +1,314 @@
+{
+    "model": "一加 Ace 竞速版",
+    "roms": [
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_15.0.0.800(CN01) H.14",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-00100e2fa0744b1ad7fee4f13391a382/component-ota/25/04/22/0f640f59d10643e5a863bf6df1846c60.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-00100e2fa0744b1ad7fee4f13391a382/component-ota/25/04/22/0f640f59d10643e5a863bf6df1846c60.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-00100e2fa0744b1ad7fee4f13391a382/component-ota/25/04/22/0f640f59d10643e5a863bf6df1846c60.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-00100e2fa0744b1ad7fee4f13391a382/component-ota/25/04/22/0f640f59d10643e5a863bf6df1846c60.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-00100e2fa0744b1ad7fee4f13391a382/component-ota/25/04/22/0f640f59d10643e5a863bf6df1846c60.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-00100e2fa0744b1ad7fee4f13391a382/component-ota/25/04/22/0f640f59d10643e5a863bf6df1846c60.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-00100e2fa0744b1ad7fee4f13391a382/component-ota/25/04/22/0f640f59d10643e5a863bf6df1846c60.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/04/22/0f640f59d10643e5a863bf6df1846c60.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/04/22/0f640f59d10643e5a863bf6df1846c60.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_15.0.0.700(CN01) H.13",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7e300b81349a00fc5b057d48a526f39a/component-ota/25/03/27/5b984d6d84894c87ac689644d3d48868.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-7e300b81349a00fc5b057d48a526f39a/component-ota/25/03/27/5b984d6d84894c87ac689644d3d48868.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-7e300b81349a00fc5b057d48a526f39a/component-ota/25/03/27/5b984d6d84894c87ac689644d3d48868.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-7e300b81349a00fc5b057d48a526f39a/component-ota/25/03/27/5b984d6d84894c87ac689644d3d48868.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-7e300b81349a00fc5b057d48a526f39a/component-ota/25/03/27/5b984d6d84894c87ac689644d3d48868.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-7e300b81349a00fc5b057d48a526f39a/component-ota/25/03/27/5b984d6d84894c87ac689644d3d48868.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-7e300b81349a00fc5b057d48a526f39a/component-ota/25/03/27/5b984d6d84894c87ac689644d3d48868.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/03/27/5b984d6d84894c87ac689644d3d48868.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/03/27/5b984d6d84894c87ac689644d3d48868.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_15.0.0.501(CN01) H.12",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-647e72dd23fd23180188d5b38bbe9af1/component-ota/25/02/17/cee877d4176b406e9b15c2290d893383.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-647e72dd23fd23180188d5b38bbe9af1/component-ota/25/02/17/cee877d4176b406e9b15c2290d893383.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-647e72dd23fd23180188d5b38bbe9af1/component-ota/25/02/17/cee877d4176b406e9b15c2290d893383.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-647e72dd23fd23180188d5b38bbe9af1/component-ota/25/02/17/cee877d4176b406e9b15c2290d893383.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-647e72dd23fd23180188d5b38bbe9af1/component-ota/25/02/17/cee877d4176b406e9b15c2290d893383.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-647e72dd23fd23180188d5b38bbe9af1/component-ota/25/02/17/cee877d4176b406e9b15c2290d893383.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-647e72dd23fd23180188d5b38bbe9af1/component-ota/25/02/17/cee877d4176b406e9b15c2290d893383.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/02/17/cee877d4176b406e9b15c2290d893383.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/02/17/cee877d4176b406e9b15c2290d893383.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_14.0.0.650(CN01) F.37",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f2d2b9732267844d850063622bafaf2f/component-ota/24/12/24/7fbfbb7b7b154b6d9056dd6667285544.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-f2d2b9732267844d850063622bafaf2f/component-ota/24/12/24/7fbfbb7b7b154b6d9056dd6667285544.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-f2d2b9732267844d850063622bafaf2f/component-ota/24/12/24/7fbfbb7b7b154b6d9056dd6667285544.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-f2d2b9732267844d850063622bafaf2f/component-ota/24/12/24/7fbfbb7b7b154b6d9056dd6667285544.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-f2d2b9732267844d850063622bafaf2f/component-ota/24/12/24/7fbfbb7b7b154b6d9056dd6667285544.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-f2d2b9732267844d850063622bafaf2f/component-ota/24/12/24/7fbfbb7b7b154b6d9056dd6667285544.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-f2d2b9732267844d850063622bafaf2f/component-ota/24/12/24/7fbfbb7b7b154b6d9056dd6667285544.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/12/24/7fbfbb7b7b154b6d9056dd6667285544.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/12/24/7fbfbb7b7b154b6d9056dd6667285544.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_14.0.0.640(CN01) F.36",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-512b16cd4cfb4974740b7a5b771d589e/component-ota/24/10/23/6dfb469dac894f6d97932188011cf757.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-512b16cd4cfb4974740b7a5b771d589e/component-ota/24/10/23/6dfb469dac894f6d97932188011cf757.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-512b16cd4cfb4974740b7a5b771d589e/component-ota/24/10/23/6dfb469dac894f6d97932188011cf757.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-512b16cd4cfb4974740b7a5b771d589e/component-ota/24/10/23/6dfb469dac894f6d97932188011cf757.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/10/23/6dfb469dac894f6d97932188011cf757.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/10/23/6dfb469dac894f6d97932188011cf757.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_14.0.0.630(CN01) F.35",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-61fe737c7d7bb6b24780fc8c06c22c43/component-ota/24/08/21/d969826f68e6412ebc85faa2638a9a25.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-61fe737c7d7bb6b24780fc8c06c22c43/component-ota/24/08/21/d969826f68e6412ebc85faa2638a9a25.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-61fe737c7d7bb6b24780fc8c06c22c43/component-ota/24/08/21/d969826f68e6412ebc85faa2638a9a25.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-61fe737c7d7bb6b24780fc8c06c22c43/component-ota/24/08/21/d969826f68e6412ebc85faa2638a9a25.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/08/21/d969826f68e6412ebc85faa2638a9a25.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/08/21/d969826f68e6412ebc85faa2638a9a25.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_14.0.0.620(CN01) F.34",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-e7865fdff2704808af78bbd3007c334d/component-ota/24/06/19/87e32ee25a9540aa96120ab205f78db6.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-e7865fdff2704808af78bbd3007c334d/component-ota/24/06/19/87e32ee25a9540aa96120ab205f78db6.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-e7865fdff2704808af78bbd3007c334d/component-ota/24/06/19/87e32ee25a9540aa96120ab205f78db6.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/06/19/87e32ee25a9540aa96120ab205f78db6.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/06/19/87e32ee25a9540aa96120ab205f78db6.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_14.0.0.610(CN01) F.33",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-1e0ca451681dbe9d9a2a979a0602e81a/component-ota/24/04/12/b41b3c0f3ce34275ba0869a8309eaba9.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-1e0ca451681dbe9d9a2a979a0602e81a/component-ota/24/04/12/b41b3c0f3ce34275ba0869a8309eaba9.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-1e0ca451681dbe9d9a2a979a0602e81a/component-ota/24/04/12/b41b3c0f3ce34275ba0869a8309eaba9.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/04/12/b41b3c0f3ce34275ba0869a8309eaba9.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/04/12/b41b3c0f3ce34275ba0869a8309eaba9.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_14.0.0.500(CN01) F.32",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-1743127a45753a1460395bee0f0432ba/component-ota/24/02/27/a8d555e870114c1fa1f7a8dad6bbc98c.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-1743127a45753a1460395bee0f0432ba/component-ota/24/02/27/a8d555e870114c1fa1f7a8dad6bbc98c.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-1743127a45753a1460395bee0f0432ba/component-ota/24/02/27/a8d555e870114c1fa1f7a8dad6bbc98c.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/02/27/a8d555e870114c1fa1f7a8dad6bbc98c.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/02/27/a8d555e870114c1fa1f7a8dad6bbc98c.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_14.0.0.203(CN01) F.31",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-9040950f54d699ddce8727f50d24ade6/component-ota/24/02/01/8043ce2d4fd64b479a2b8986e98bb6c4.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-9040950f54d699ddce8727f50d24ade6/component-ota/24/02/01/8043ce2d4fd64b479a2b8986e98bb6c4.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-9040950f54d699ddce8727f50d24ade6/component-ota/24/02/01/8043ce2d4fd64b479a2b8986e98bb6c4.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/02/01/8043ce2d4fd64b479a2b8986e98bb6c4.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/02/01/8043ce2d4fd64b479a2b8986e98bb6c4.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_14.0.0.200(CN01) F.30",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-91ea86b7f83b496ab5423b9844730d88/component-ota/23/12/19/59c34853efdd4163ac945d4a0fdda7a7.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-91ea86b7f83b496ab5423b9844730d88/component-ota/23/12/19/59c34853efdd4163ac945d4a0fdda7a7.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-91ea86b7f83b496ab5423b9844730d88/component-ota/23/12/19/59c34853efdd4163ac945d4a0fdda7a7.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/23/12/19/59c34853efdd4163ac945d4a0fdda7a7.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/23/12/19/59c34853efdd4163ac945d4a0fdda7a7.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_13.1.0.211(CN01) C.38",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-864b046a0a33d248b14d94e960cc8762/component-ota/24/02/01/d078e2d254a3490fb655ff880e4755c7.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-864b046a0a33d248b14d94e960cc8762/component-ota/24/02/01/d078e2d254a3490fb655ff880e4755c7.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-864b046a0a33d248b14d94e960cc8762/component-ota/24/02/01/d078e2d254a3490fb655ff880e4755c7.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/02/01/d078e2d254a3490fb655ff880e4755c7.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/02/01/d078e2d254a3490fb655ff880e4755c7.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_13.1.0.210(CN01) C.37",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-caca28775bd4cc294f154670f582e42a/component-ota/23/12/21/6288b142116840b592874f66b67309e1.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-caca28775bd4cc294f154670f582e42a/component-ota/23/12/21/6288b142116840b592874f66b67309e1.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-caca28775bd4cc294f154670f582e42a/component-ota/23/12/21/6288b142116840b592874f66b67309e1.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/23/12/21/6288b142116840b592874f66b67309e1.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/23/12/21/6288b142116840b592874f66b67309e1.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_13.1.0.200(CN01) C.36",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-c87fb13a1fed9872d9b06828f5bba047/component-ota/23/10/23/0194ea49c8a244f6aba3ac48325f06c4.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-c87fb13a1fed9872d9b06828f5bba047/component-ota/23/10/23/0194ea49c8a244f6aba3ac48325f06c4.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-c87fb13a1fed9872d9b06828f5bba047/component-ota/23/10/23/0194ea49c8a244f6aba3ac48325f06c4.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/23/10/23/0194ea49c8a244f6aba3ac48325f06c4.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/23/10/23/0194ea49c8a244f6aba3ac48325f06c4.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_13.1.0.190(CN01) C.35",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-d52bf7cda57f84ee3e41aa0de84d8be4/component-ota/23/08/17/b90e9ff8b81e4f3389fc70141e4757a7.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-d52bf7cda57f84ee3e41aa0de84d8be4/component-ota/23/08/17/b90e9ff8b81e4f3389fc70141e4757a7.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-d52bf7cda57f84ee3e41aa0de84d8be4/component-ota/23/08/17/b90e9ff8b81e4f3389fc70141e4757a7.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/23/08/17/b90e9ff8b81e4f3389fc70141e4757a7.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/23/08/17/b90e9ff8b81e4f3389fc70141e4757a7.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_13.1.0.182(CN01) C.34",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-6338212932c9ae2694b2d7c6c9cc6408/component-ota/23/06/30/b18b99468cce43b39bc92cf584db6942.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-6338212932c9ae2694b2d7c6c9cc6408/component-ota/23/06/30/b18b99468cce43b39bc92cf584db6942.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-6338212932c9ae2694b2d7c6c9cc6408/component-ota/23/06/30/b18b99468cce43b39bc92cf584db6942.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/23/06/30/b18b99468cce43b39bc92cf584db6942.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/23/06/30/b18b99468cce43b39bc92cf584db6942.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_13.1.0.180(CN01) C.33",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-62590875cd5200907cf2162286021295/component-ota/23/06/07/c0aa9010489a44a1a1819e532217c9f1.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-62590875cd5200907cf2162286021295/component-ota/23/06/07/c0aa9010489a44a1a1819e532217c9f1.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-62590875cd5200907cf2162286021295/component-ota/23/06/07/c0aa9010489a44a1a1819e532217c9f1.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/23/06/07/c0aa9010489a44a1a1819e532217c9f1.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/23/06/07/c0aa9010489a44a1a1819e532217c9f1.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_13.1.0.121(CN01) C.32",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-5d1630f9aaf58f1678933309c158e8bd/component-ota/23/05/25/823f80ca01984c25bc70fe2a98ec3546.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-5d1630f9aaf58f1678933309c158e8bd/component-ota/23/05/25/823f80ca01984c25bc70fe2a98ec3546.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-5d1630f9aaf58f1678933309c158e8bd/component-ota/23/05/25/823f80ca01984c25bc70fe2a98ec3546.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/23/05/25/823f80ca01984c25bc70fe2a98ec3546.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/23/05/25/823f80ca01984c25bc70fe2a98ec3546.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_13.0.0 C.05",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-79e4d45b55bf58338f504b0e4832dcf6/component-ota/23/04/04/15a2884fd35f4e16978e2a0fb55e23ae.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-79e4d45b55bf58338f504b0e4832dcf6/component-ota/23/04/04/15a2884fd35f4e16978e2a0fb55e23ae.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-79e4d45b55bf58338f504b0e4832dcf6/component-ota/23/04/04/15a2884fd35f4e16978e2a0fb55e23ae.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/23/04/04/15a2884fd35f4e16978e2a0fb55e23ae.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/23/04/04/15a2884fd35f4e16978e2a0fb55e23ae.zip",
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-a10fbe55f4403238d9734fcea9867cf6/component-ota/23/04/04/550b48efa71c45bba06cd209cb8cc4fd.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-a10fbe55f4403238d9734fcea9867cf6/component-ota/23/04/04/550b48efa71c45bba06cd209cb8cc4fd.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-a10fbe55f4403238d9734fcea9867cf6/component-ota/23/04/04/550b48efa71c45bba06cd209cb8cc4fd.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/23/04/04/550b48efa71c45bba06cd209cb8cc4fd.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/23/04/04/550b48efa71c45bba06cd209cb8cc4fd.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_13.0.0 C.04",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-a59482a669ab0ff9c6bc3b79d499c632/component-ota/23/03/22/ea2b7f9252df4be09f1cbea47de1c752.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-a59482a669ab0ff9c6bc3b79d499c632/component-ota/23/03/22/ea2b7f9252df4be09f1cbea47de1c752.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-a59482a669ab0ff9c6bc3b79d499c632/component-ota/23/03/22/ea2b7f9252df4be09f1cbea47de1c752.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/23/03/22/ea2b7f9252df4be09f1cbea47de1c752.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/23/03/22/ea2b7f9252df4be09f1cbea47de1c752.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_13.0.0 C.02",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-e58a9d92b6fcd122c891624eba85b1e3/component-ota/23/01/06/636fb9d2856945129cdcdf5f9a769ca9.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-e58a9d92b6fcd122c891624eba85b1e3/component-ota/23/01/06/636fb9d2856945129cdcdf5f9a769ca9.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-e58a9d92b6fcd122c891624eba85b1e3/component-ota/23/01/06/636fb9d2856945129cdcdf5f9a769ca9.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/23/01/06/636fb9d2856945129cdcdf5f9a769ca9.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/23/01/06/636fb9d2856945129cdcdf5f9a769ca9.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_13.0.0 C.01",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-44c6a062ee58073fb658e69d5b823b78/component-ota/22/12/16/fd070c395083417688b93b9b9e308e8a.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-44c6a062ee58073fb658e69d5b823b78/component-ota/22/12/16/fd070c395083417688b93b9b9e308e8a.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-44c6a062ee58073fb658e69d5b823b78/component-ota/22/12/16/fd070c395083417688b93b9b9e308e8a.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/22/12/16/fd070c395083417688b93b9b9e308e8a.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/22/12/16/fd070c395083417688b93b9b9e308e8a.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_12.1 A.13",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-355f0bcef8eaa432c5aa160eb87188c5/component-ota/23/02/09/b1018bd460454083a2073b4b86acd311.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-355f0bcef8eaa432c5aa160eb87188c5/component-ota/23/02/09/b1018bd460454083a2073b4b86acd311.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-355f0bcef8eaa432c5aa160eb87188c5/component-ota/23/02/09/b1018bd460454083a2073b4b86acd311.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/23/02/09/b1018bd460454083a2073b4b86acd311.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/23/02/09/b1018bd460454083a2073b4b86acd311.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_12.1 A.11",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-bd4a8fd5aaae2321d41995fbf047a908/component-ota/22/12/27/0ec18e754ce84db88ecb16acf3afeeca.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-bd4a8fd5aaae2321d41995fbf047a908/component-ota/22/12/27/0ec18e754ce84db88ecb16acf3afeeca.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-bd4a8fd5aaae2321d41995fbf047a908/component-ota/22/12/27/0ec18e754ce84db88ecb16acf3afeeca.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/22/12/27/0ec18e754ce84db88ecb16acf3afeeca.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/22/12/27/0ec18e754ce84db88ecb16acf3afeeca.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_12.1 A.10",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3acdd48f8f8d39e549fedb3fdbb8c25e/component-ota/22/11/17/c6ff08cf79cb4f5e8cacd3b36dbb6256.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-3acdd48f8f8d39e549fedb3fdbb8c25e/component-ota/22/11/17/c6ff08cf79cb4f5e8cacd3b36dbb6256.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-3acdd48f8f8d39e549fedb3fdbb8c25e/component-ota/22/11/17/c6ff08cf79cb4f5e8cacd3b36dbb6256.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/22/11/17/c6ff08cf79cb4f5e8cacd3b36dbb6256.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/22/11/17/c6ff08cf79cb4f5e8cacd3b36dbb6256.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_12.1 A.08",
+            "links": [
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-3b6fac310ce4a6745fb870b2d928d630/component-ota/22/09/20/d0e15f778aaa40619539d1982a275375.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-3b6fac310ce4a6745fb870b2d928d630/component-ota/22/09/20/d0e15f778aaa40619539d1982a275375.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/22/09/20/d0e15f778aaa40619539d1982a275375.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/22/09/20/d0e15f778aaa40619539d1982a275375.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_12.1 A.06",
+            "links": [
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-022f7b95541e0b396c87bd75691b8f87/component-ota/22/08/18/6c639cac5b8e416a9ab8ee6d1f05e539.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-022f7b95541e0b396c87bd75691b8f87/component-ota/22/08/18/6c639cac5b8e416a9ab8ee6d1f05e539.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/22/08/18/6c639cac5b8e416a9ab8ee6d1f05e539.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/22/08/18/6c639cac5b8e416a9ab8ee6d1f05e539.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_12.1 A.05",
+            "links": [
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-12345c7b1f18b2b6cc0dfba817adeb9d/component-ota/22/07/14/bc4dfbb1d06445f1b7abb1e30f3ba4a7.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-12345c7b1f18b2b6cc0dfba817adeb9d/component-ota/22/07/14/bc4dfbb1d06445f1b7abb1e30f3ba4a7.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/22/07/14/bc4dfbb1d06445f1b7abb1e30f3ba4a7.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/22/07/14/bc4dfbb1d06445f1b7abb1e30f3ba4a7.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 竞速版/ColorOS PGZ110_12.1 A.04",
+            "links": [
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-ce653fec05b3d9a2512de74a1ebd34d0/component-ota/22/05/26/7f85af83ab5f406da597b0d38c65a95b.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-ce653fec05b3d9a2512de74a1ebd34d0/component-ota/22/05/26/7f85af83ab5f406da597b0d38c65a95b.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/22/05/26/7f85af83ab5f406da597b0d38c65a95b.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/22/05/26/7f85af83ab5f406da597b0d38c65a95b.zip"
+            ]
+        }
+    ]
+}

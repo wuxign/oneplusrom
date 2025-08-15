@@ -1,0 +1,210 @@
+{
+    "model": "一加 ACE 3V",
+    "roms": [
+        {
+            "version": "一加 ACE 3V/ColorOS PJF110_15.0.0.831(CN01) C.37",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b52611ca7bbe2f71cae4dfab4ffdfd34/component-ota/25/06/26/5823ff18dad64799b7906b7bdf180252.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-b52611ca7bbe2f71cae4dfab4ffdfd34/component-ota/25/06/26/5823ff18dad64799b7906b7bdf180252.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-b52611ca7bbe2f71cae4dfab4ffdfd34/component-ota/25/06/26/5823ff18dad64799b7906b7bdf180252.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-b52611ca7bbe2f71cae4dfab4ffdfd34/component-ota/25/06/26/5823ff18dad64799b7906b7bdf180252.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-b52611ca7bbe2f71cae4dfab4ffdfd34/component-ota/25/06/26/5823ff18dad64799b7906b7bdf180252.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-b52611ca7bbe2f71cae4dfab4ffdfd34/component-ota/25/06/26/5823ff18dad64799b7906b7bdf180252.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-b52611ca7bbe2f71cae4dfab4ffdfd34/component-ota/25/06/26/5823ff18dad64799b7906b7bdf180252.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/06/26/5823ff18dad64799b7906b7bdf180252.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/06/26/5823ff18dad64799b7906b7bdf180252.zip"
+            ]
+        },
+        {
+            "version": "一加 ACE 3V/ColorOS PJF110_15.0.0.830(CN01) C.36",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-db1b8e06dd0be4dd5a672d40e4a4578e/component-ota/25/06/09/771c2f336bae402593663dafa2341645.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-db1b8e06dd0be4dd5a672d40e4a4578e/component-ota/25/06/09/771c2f336bae402593663dafa2341645.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-db1b8e06dd0be4dd5a672d40e4a4578e/component-ota/25/06/09/771c2f336bae402593663dafa2341645.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-db1b8e06dd0be4dd5a672d40e4a4578e/component-ota/25/06/09/771c2f336bae402593663dafa2341645.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-db1b8e06dd0be4dd5a672d40e4a4578e/component-ota/25/06/09/771c2f336bae402593663dafa2341645.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-db1b8e06dd0be4dd5a672d40e4a4578e/component-ota/25/06/09/771c2f336bae402593663dafa2341645.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-db1b8e06dd0be4dd5a672d40e4a4578e/component-ota/25/06/09/771c2f336bae402593663dafa2341645.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/06/09/771c2f336bae402593663dafa2341645.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/06/09/771c2f336bae402593663dafa2341645.zip"
+            ]
+        },
+        {
+            "version": "一加 ACE 3V/ColorOS PJF110_15.0.0.820(CN01) C.34",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-d9b022f7162acbc7d240b60a09aca5a9/component-ota/25/05/08/32d9d10485854d66a2bb98a6f0869de3.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-d9b022f7162acbc7d240b60a09aca5a9/component-ota/25/05/08/32d9d10485854d66a2bb98a6f0869de3.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-d9b022f7162acbc7d240b60a09aca5a9/component-ota/25/05/08/32d9d10485854d66a2bb98a6f0869de3.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-d9b022f7162acbc7d240b60a09aca5a9/component-ota/25/05/08/32d9d10485854d66a2bb98a6f0869de3.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-d9b022f7162acbc7d240b60a09aca5a9/component-ota/25/05/08/32d9d10485854d66a2bb98a6f0869de3.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-d9b022f7162acbc7d240b60a09aca5a9/component-ota/25/05/08/32d9d10485854d66a2bb98a6f0869de3.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-d9b022f7162acbc7d240b60a09aca5a9/component-ota/25/05/08/32d9d10485854d66a2bb98a6f0869de3.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/05/08/32d9d10485854d66a2bb98a6f0869de3.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/05/08/32d9d10485854d66a2bb98a6f0869de3.zip"
+            ]
+        },
+        {
+            "version": "一加 ACE 3V/ColorOS PJF110_15.0.0.701(CN01) C.29",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-616597ea79022f03a964f9aaffda6f20/component-ota/25/03/14/8f576d0b86a549e696020eae7cd35f0c.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-616597ea79022f03a964f9aaffda6f20/component-ota/25/03/14/8f576d0b86a549e696020eae7cd35f0c.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-616597ea79022f03a964f9aaffda6f20/component-ota/25/03/14/8f576d0b86a549e696020eae7cd35f0c.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-616597ea79022f03a964f9aaffda6f20/component-ota/25/03/14/8f576d0b86a549e696020eae7cd35f0c.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-616597ea79022f03a964f9aaffda6f20/component-ota/25/03/14/8f576d0b86a549e696020eae7cd35f0c.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-616597ea79022f03a964f9aaffda6f20/component-ota/25/03/14/8f576d0b86a549e696020eae7cd35f0c.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-616597ea79022f03a964f9aaffda6f20/component-ota/25/03/14/8f576d0b86a549e696020eae7cd35f0c.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/03/14/8f576d0b86a549e696020eae7cd35f0c.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/03/14/8f576d0b86a549e696020eae7cd35f0c.zip"
+            ]
+        },
+        {
+            "version": "一加 ACE 3V/ColorOS PJF110_15.0.0.600(CN01) C.28",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-29f7364ff6816dac88f26b60c93cb387/component-ota/25/02/19/28bbffab4eb24205baea5cbadf1f1314.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-29f7364ff6816dac88f26b60c93cb387/component-ota/25/02/19/28bbffab4eb24205baea5cbadf1f1314.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-29f7364ff6816dac88f26b60c93cb387/component-ota/25/02/19/28bbffab4eb24205baea5cbadf1f1314.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-29f7364ff6816dac88f26b60c93cb387/component-ota/25/02/19/28bbffab4eb24205baea5cbadf1f1314.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-29f7364ff6816dac88f26b60c93cb387/component-ota/25/02/19/28bbffab4eb24205baea5cbadf1f1314.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-29f7364ff6816dac88f26b60c93cb387/component-ota/25/02/19/28bbffab4eb24205baea5cbadf1f1314.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-29f7364ff6816dac88f26b60c93cb387/component-ota/25/02/19/28bbffab4eb24205baea5cbadf1f1314.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/02/19/28bbffab4eb24205baea5cbadf1f1314.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/02/19/28bbffab4eb24205baea5cbadf1f1314.zip"
+            ]
+        },
+        {
+            "version": "一加 ACE 3V/ColorOS PJF110_15.0.0.500(CN01) C.26",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-cbacef51e3be295b4aea3ea49dc67956/component-ota/25/01/13/b0bede617e1a4dfc9b13e26f0e73e695.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-cbacef51e3be295b4aea3ea49dc67956/component-ota/25/01/13/b0bede617e1a4dfc9b13e26f0e73e695.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-cbacef51e3be295b4aea3ea49dc67956/component-ota/25/01/13/b0bede617e1a4dfc9b13e26f0e73e695.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-cbacef51e3be295b4aea3ea49dc67956/component-ota/25/01/13/b0bede617e1a4dfc9b13e26f0e73e695.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-cbacef51e3be295b4aea3ea49dc67956/component-ota/25/01/13/b0bede617e1a4dfc9b13e26f0e73e695.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-cbacef51e3be295b4aea3ea49dc67956/component-ota/25/01/13/b0bede617e1a4dfc9b13e26f0e73e695.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-cbacef51e3be295b4aea3ea49dc67956/component-ota/25/01/13/b0bede617e1a4dfc9b13e26f0e73e695.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/01/13/b0bede617e1a4dfc9b13e26f0e73e695.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/01/13/b0bede617e1a4dfc9b13e26f0e73e695.zip"
+            ]
+        },
+        {
+            "version": "一加 ACE 3V/ColorOS PJF110_15.0.0.401(CN01) C.24",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-112e114d743808ad3c9b5a4b23f0e86b/component-ota/24/12/26/b7349e050f25470db696d1ef412369d0.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-112e114d743808ad3c9b5a4b23f0e86b/component-ota/24/12/26/b7349e050f25470db696d1ef412369d0.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-112e114d743808ad3c9b5a4b23f0e86b/component-ota/24/12/26/b7349e050f25470db696d1ef412369d0.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-112e114d743808ad3c9b5a4b23f0e86b/component-ota/24/12/26/b7349e050f25470db696d1ef412369d0.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/12/26/b7349e050f25470db696d1ef412369d0.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/12/26/b7349e050f25470db696d1ef412369d0.zip"
+            ]
+        },
+        {
+            "version": "一加 ACE 3V/ColorOS PJF110_15.0.0.300(CN01) C.23",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-8b0a7d763adc5cc95169aaa4e2c8734c/component-ota/24/11/18/f84894ccb5964294aba768c7c165f39d.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-8b0a7d763adc5cc95169aaa4e2c8734c/component-ota/24/11/18/f84894ccb5964294aba768c7c165f39d.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-8b0a7d763adc5cc95169aaa4e2c8734c/component-ota/24/11/18/f84894ccb5964294aba768c7c165f39d.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-8b0a7d763adc5cc95169aaa4e2c8734c/component-ota/24/11/18/f84894ccb5964294aba768c7c165f39d.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/11/18/f84894ccb5964294aba768c7c165f39d.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/11/18/f84894ccb5964294aba768c7c165f39d.zip"
+            ]
+        },
+        {
+            "version": "一加 ACE 3V/ColorOS PJF110_14.0.1.720(CN01) A.47",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-aa2125dd33dee2d240ca03a2c0868538/component-ota/24/10/14/b7460a85d082410f9d64d392bbd6863b.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-aa2125dd33dee2d240ca03a2c0868538/component-ota/24/10/14/b7460a85d082410f9d64d392bbd6863b.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-aa2125dd33dee2d240ca03a2c0868538/component-ota/24/10/14/b7460a85d082410f9d64d392bbd6863b.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-aa2125dd33dee2d240ca03a2c0868538/component-ota/24/10/14/b7460a85d082410f9d64d392bbd6863b.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/10/14/b7460a85d082410f9d64d392bbd6863b.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/10/14/b7460a85d082410f9d64d392bbd6863b.zip"
+            ]
+        },
+        {
+            "version": "一加 ACE 3V/ColorOS PJF110_14.0.1.710(CN01) A.46",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-d7b07e2ed51688257cf3970f2c77d897/component-ota/24/09/13/670df7d0a3694daf87bb76a13ca5b83c.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-d7b07e2ed51688257cf3970f2c77d897/component-ota/24/09/13/670df7d0a3694daf87bb76a13ca5b83c.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-d7b07e2ed51688257cf3970f2c77d897/component-ota/24/09/13/670df7d0a3694daf87bb76a13ca5b83c.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-d7b07e2ed51688257cf3970f2c77d897/component-ota/24/09/13/670df7d0a3694daf87bb76a13ca5b83c.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/09/13/670df7d0a3694daf87bb76a13ca5b83c.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/09/13/670df7d0a3694daf87bb76a13ca5b83c.zip"
+            ]
+        },
+        {
+            "version": "一加 ACE 3V/ColorOS PJF110_14.0.1.700(CN01) A.45",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-5cf1bfcfa14604a91d95c33b33172006/component-ota/24/08/16/9392d56348164ca5a802f1702e9a9dcd.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-5cf1bfcfa14604a91d95c33b33172006/component-ota/24/08/16/9392d56348164ca5a802f1702e9a9dcd.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-5cf1bfcfa14604a91d95c33b33172006/component-ota/24/08/16/9392d56348164ca5a802f1702e9a9dcd.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-5cf1bfcfa14604a91d95c33b33172006/component-ota/24/08/16/9392d56348164ca5a802f1702e9a9dcd.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/08/16/9392d56348164ca5a802f1702e9a9dcd.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/08/16/9392d56348164ca5a802f1702e9a9dcd.zip"
+            ]
+        },
+        {
+            "version": "一加 ACE 3V/ColorOS PJF110_14.0.1.630(CN01) A.40",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-21eb827443881baf9d1fbbae14fddb23/component-ota/24/06/07/b9712ae078364282ac4045a2258fded6.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-21eb827443881baf9d1fbbae14fddb23/component-ota/24/06/07/b9712ae078364282ac4045a2258fded6.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-21eb827443881baf9d1fbbae14fddb23/component-ota/24/06/07/b9712ae078364282ac4045a2258fded6.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-21eb827443881baf9d1fbbae14fddb23/component-ota/24/06/07/b9712ae078364282ac4045a2258fded6.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/06/07/b9712ae078364282ac4045a2258fded6.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/06/07/b9712ae078364282ac4045a2258fded6.zip"
+            ]
+        },
+        {
+            "version": "一加 ACE 3V/ColorOS PJF110_14.0.1.621(CN01) A.38",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-e378667935b15fbdff3a78376bc01ba1/component-ota/24/05/14/7cb90feae906499db48a9e871b288744.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-e378667935b15fbdff3a78376bc01ba1/component-ota/24/05/14/7cb90feae906499db48a9e871b288744.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-e378667935b15fbdff3a78376bc01ba1/component-ota/24/05/14/7cb90feae906499db48a9e871b288744.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-e378667935b15fbdff3a78376bc01ba1/component-ota/24/05/14/7cb90feae906499db48a9e871b288744.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/05/14/7cb90feae906499db48a9e871b288744.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/05/14/7cb90feae906499db48a9e871b288744.zip"
+            ]
+        },
+        {
+            "version": "一加 ACE 3V/ColorOS PJF110_14.0.1.523(CN01) A.37",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-fdc58ef8d80afd622c40b03d012f1fd8/component-ota/24/04/20/4c44ca4556c1481094d10daa221be2cc.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-fdc58ef8d80afd622c40b03d012f1fd8/component-ota/24/04/20/4c44ca4556c1481094d10daa221be2cc.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-fdc58ef8d80afd622c40b03d012f1fd8/component-ota/24/04/20/4c44ca4556c1481094d10daa221be2cc.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-fdc58ef8d80afd622c40b03d012f1fd8/component-ota/24/04/20/4c44ca4556c1481094d10daa221be2cc.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/04/20/4c44ca4556c1481094d10daa221be2cc.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/04/20/4c44ca4556c1481094d10daa221be2cc.zip"
+            ]
+        },
+        {
+            "version": "一加 ACE 3V/ColorOS PJF110_14.0.1.522(CN01) A.36",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-ada87bded7d55b6ee8b30fbd46ae19ec/component-ota/24/04/12/2f4ac0a137a54d0f9afdb2bf43b1a2f0.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-ada87bded7d55b6ee8b30fbd46ae19ec/component-ota/24/04/12/2f4ac0a137a54d0f9afdb2bf43b1a2f0.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-ada87bded7d55b6ee8b30fbd46ae19ec/component-ota/24/04/12/2f4ac0a137a54d0f9afdb2bf43b1a2f0.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-ada87bded7d55b6ee8b30fbd46ae19ec/component-ota/24/04/12/2f4ac0a137a54d0f9afdb2bf43b1a2f0.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/04/12/2f4ac0a137a54d0f9afdb2bf43b1a2f0.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/04/12/2f4ac0a137a54d0f9afdb2bf43b1a2f0.zip"
+            ]
+        },
+        {
+            "version": "一加 ACE 3V/ColorOS PJF110_14.0.1.510(CN01) A.32",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-034141a96f17a3f81ca8482ab74cd104/component-ota/24/03/28/570aba2965b0453591e9b54a512ab89a.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-034141a96f17a3f81ca8482ab74cd104/component-ota/24/03/28/570aba2965b0453591e9b54a512ab89a.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-034141a96f17a3f81ca8482ab74cd104/component-ota/24/03/28/570aba2965b0453591e9b54a512ab89a.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-034141a96f17a3f81ca8482ab74cd104/component-ota/24/03/28/570aba2965b0453591e9b54a512ab89a.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/03/28/570aba2965b0453591e9b54a512ab89a.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/03/28/570aba2965b0453591e9b54a512ab89a.zip"
+            ]
+        },
+        {
+            "version": "一加 ACE 3V/ColorOS PJF110_14.0.1.500(CN01) A.31",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-c25b3511288ef50452c6264e17300568/component-ota/24/03/22/661fc1867bf04a1aaeda710bc2c06efb.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-c25b3511288ef50452c6264e17300568/component-ota/24/03/22/661fc1867bf04a1aaeda710bc2c06efb.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-c25b3511288ef50452c6264e17300568/component-ota/24/03/22/661fc1867bf04a1aaeda710bc2c06efb.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-c25b3511288ef50452c6264e17300568/component-ota/24/03/22/661fc1867bf04a1aaeda710bc2c06efb.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/03/22/661fc1867bf04a1aaeda710bc2c06efb.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/03/22/661fc1867bf04a1aaeda710bc2c06efb.zip"
+            ]
+        }
+    ]
+}
