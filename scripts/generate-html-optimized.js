@@ -507,9 +507,10 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         }
         
         .modal-content {
-            background: rgba(255, 255, 255, 0.12);
+            /* 与机型卡片保持一致的背景 */
+            background: rgba(255, 255, 255, 0.15);
             backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.3);
+            border: 1px solid rgba(255, 255, 255, 0.25);
             border-radius: 20px;
             width: 90%;
             max-width: 900px;
@@ -517,7 +518,8 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             overflow: hidden;
             animation: slideUp 0.2s ease-out;
             position: relative;
-            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+            /* 与机型卡片相似的阴影 */
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
             will-change: transform;
         }
         
@@ -526,14 +528,17 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             .modal-content {
                 backdrop-filter: blur(5px);
                 animation: none;
-                box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+                /* 与机型卡片一致的简化阴影 */
+                box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
             }
         }
         
         .modal-header {
             padding: 2rem 2rem 1rem 2rem;
             border-bottom: 1px solid rgba(255, 255, 255, 0.15);
-            background: linear-gradient(135deg, rgba(255, 255, 255, 0.18), rgba(255, 255, 255, 0.08));
+            /* 与机型卡片相似的微渐变效果 */
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.06));
+            border-radius: 20px 20px 0 0;
         }
         
         .modal-header h2 {
@@ -554,8 +559,10 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             position: absolute;
             top: 1.5rem;
             right: 1.5rem;
-            background: rgba(255, 255, 255, 0.2);
-            border: none;
+            /* 与机型卡片按钮相似的样式 */
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.25);
             border-radius: 50%;
             width: 40px;
             height: 40px;
@@ -565,12 +572,13 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             display: flex;
             align-items: center;
             justify-content: center;
-            transition: all 0.3s ease;
+            transition: all 0.2s ease;
         }
         
         .modal-close:hover {
-            background: rgba(255, 255, 255, 0.3);
-            transform: scale(1.1);
+            background: rgba(255, 255, 255, 0.25);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
         }
         
         .modal-body {
@@ -631,13 +639,15 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         }
         
         .loading-content {
+            /* 与机型卡片和模态框保持一致的风格 */
             background: rgba(255, 255, 255, 0.15);
             backdrop-filter: blur(10px);
-            border-radius: 15px;
+            border: 1px solid rgba(255, 255, 255, 0.25);
+            border-radius: 20px;
             padding: 2rem;
             text-align: center;
             color: white;
-            border: 1px solid rgba(255, 255, 255, 0.2);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
         }
         
         .loading-spinner {
@@ -670,18 +680,23 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         }
         
         .rom-item:hover {
-            background: rgba(255, 255, 255, 0.12);
-            transform: translateX(8px);
+            background: rgba(255, 255, 255, 0.15);
+            transform: translateY(-2px);
             border-left: 4px solid #764ba2;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
         }
         
         .rom-item {
-            background: rgba(255, 255, 255, 0.08);
-            border-radius: 12px;
+            /* 与机型卡片相似的毛玻璃效果 */
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(8px);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            border-radius: 16px;
             padding: 1.5rem;
             margin-bottom: 1rem;
             border-left: 4px solid #667eea;
-            transition: all 0.3s ease;
+            transition: all 0.2s ease;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
         }
         
         .rom-version {
@@ -741,29 +756,35 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         
         .copy-button {
             padding: 0.6rem 1.2rem;
-            background: linear-gradient(135deg, #667eea, #764ba2);
+            /* 与机型卡片相似的毛玻璃效果 */
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(8px);
+            border: 1px solid rgba(255, 255, 255, 0.25);
             color: white;
-            border: none;
-            border-radius: 8px;
+            border-radius: 12px;
             cursor: pointer;
             font-size: 0.9rem;
             font-weight: 500;
-            transition: all 0.3s ease;
+            transition: all 0.2s ease;
             flex: 1 1 0;
             min-width: 140px;
             max-width: 180px;
             text-align: center;
             white-space: nowrap;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
         }
         
         .copy-button:hover {
-            background: linear-gradient(135deg, #764ba2, #667eea);
-            transform: translateY(-1px);
-            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+            background: rgba(255, 255, 255, 0.25);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+            border: 1px solid rgba(255, 255, 255, 0.35);
         }
         
         .copy-button.copied {
-            background: linear-gradient(135deg, #56ab2f, #a8e6cf);
+            background: rgba(86, 171, 47, 0.25);
+            border: 1px solid rgba(86, 171, 47, 0.5);
+            color: #a8e6cf;
         }
         
         /* 按钮数量适配 - 使用数据属性 */
