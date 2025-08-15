@@ -1,0 +1,29 @@
+{
+    "model": "一加 ACE 5 至尊版",
+    "roms": [
+        {
+            "version": "一加 ACE 5 至尊版 ColorOS PLC110_15.0.2.501(CN01) A.21",
+            "links": [
+                "https://gauss-cdnctrltrialmanual-cn.allawnfs.com/component-ota/25/08/08/ca2743bd2bca4c1a82ea71aa5264cbed.zip"
+            ]
+        },
+        {
+            "version": "一加 ACE 5 至尊版 ColorOS PLC110_15.0.2.401(CN01) A.19",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-8f1f8aea4ad9f9306b2274158e460b38/component-ota/25/07/15/7a747bdd00614f129ba74d273dba3d61.zip"
+            ]
+        },
+        {
+            "version": "一加 ACE 5 至尊版 ColorOS PLC110_15.0.2.215(CN01) A.16",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-964285481eb7babf8c54469077cabebb/component-ota/25/06/12/617f366b715647dd8c1fa115d9bf2a35.zip"
+            ]
+        },
+        {
+            "version": "一加 ACE 5 至尊版 ColorOS PLC110_15.0.2.211(CN01) A.12",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-459c1cd82d58f5ea6367b41fa34b4206/component-ota/25/05/21/ed15d83f5d174e298d1997e863f53a93.zip"
+            ]
+        }
+    ]
+}

@@ -87,13 +87,53 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         
         body {
             font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-            background: linear-gradient(-45deg, #667eea, #764ba2, #f093fb, #f5576c, #4facfe, #00f2fe);
+            background: linear-gradient(-45deg, #667eea, #764ba2, #f093fb, #f5576c);
             background-size: 400% 400%;
-            animation: gradientShift 15s ease infinite;
+            animation: gradientShift 20s ease infinite;
             min-height: 100vh;
             color: #333;
             line-height: 1.6;
             position: relative;
+            overflow-x: hidden;
+        }
+        
+        /* 为低性能设备优化 - 减少动画复杂度 */
+        @media (prefers-reduced-motion: reduce) {
+            body {
+                background: linear-gradient(135deg, #667eea, #764ba2);
+                background-size: 100% 100%;
+                animation: none;
+            }
+            
+            * {
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
+            }
+        }
+        
+        /* 页面滚动锁定 */
+        body.modal-open {
+            overflow: hidden;
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+        }
+        
+        /* 优化模态框滚动性能 */
+        .modal-body {
+            contain: layout;
+            transform: translateZ(0);
+        }
+        
+        /* 优化低性能设备的模态框 */
+        @media (prefers-reduced-motion: reduce) {
+            .modal-body {
+                contain: none;
+                transform: none;
+            }
         }
         
         body::before {
@@ -103,11 +143,18 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             left: 0;
             width: 100%;
             height: 100%;
-            background: radial-gradient(circle at 20% 80%, rgba(120, 119, 198, 0.3) 0%, transparent 50%),
-                        radial-gradient(circle at 80% 20%, rgba(255, 255, 255, 0.1) 0%, transparent 50%),
-                        radial-gradient(circle at 40% 40%, rgba(120, 119, 198, 0.15) 0%, transparent 50%);
+            background: radial-gradient(circle at 20% 80%, rgba(120, 119, 198, 0.2) 0%, transparent 50%),
+                        radial-gradient(circle at 80% 20%, rgba(255, 255, 255, 0.08) 0%, transparent 50%);
             pointer-events: none;
             z-index: 1;
+            will-change: transform;
+        }
+        
+        /* 低性能设备不显示装饰背景 */
+        @media (prefers-reduced-motion: reduce) {
+            body::before {
+                display: none;
+            }
         }
         
         @keyframes gradientShift {
@@ -187,11 +234,11 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         
         .device-card {
             background: rgba(255, 255, 255, 0.15);
-            backdrop-filter: blur(15px);
+            backdrop-filter: blur(10px);
             border: 1px solid rgba(255, 255, 255, 0.25);
             border-radius: 20px;
             padding: 2rem;
-            transition: all 0.3s ease;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
             cursor: pointer;
             position: relative;
             overflow: hidden;
@@ -199,6 +246,8 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             display: flex;
             flex-direction: column;
             min-height: 200px;
+            will-change: transform;
+            transform: translateZ(0); /* GPU加速 */
         }
         
         .device-card::before {
@@ -208,40 +257,52 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             left: -100%;
             width: 100%;
             height: 100%;
-            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
-            transition: left 0.5s;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.15), transparent);
+            transition: left 0.3s ease;
+            will-change: transform;
         }
         
-        .device-card::after {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: linear-gradient(135deg, 
-                rgba(255, 255, 255, 0.1) 0%, 
-                rgba(255, 255, 255, 0.05) 50%, 
-                rgba(255, 255, 255, 0.1) 100%);
-            border-radius: 20px;
-            pointer-events: none;
-            opacity: 0;
-            transition: opacity 0.3s ease;
+        /* 简化低性能设备的卡片效果 */
+        @media (prefers-reduced-motion: reduce) {
+            .device-card {
+                backdrop-filter: blur(5px);
+                transition: none;
+            }
+            
+            .device-card::before {
+                display: none;
+            }
+            
+            .device-card::after {
+                display: none;
+            }
         }
         
         .device-card:hover::before {
             left: 100%;
         }
         
-        .device-card:hover::after {
-            opacity: 1;
+        .device-card:hover {
+            transform: translateY(-5px) translateZ(0);
+            box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
         }
         
-        .device-card:hover {
-            transform: translateY(-8px) scale(1.02);
-            box-shadow: 0 20px 40px rgba(0,0,0,0.25);
-            background: rgba(255, 255, 255, 0.22);
-            border: 1px solid rgba(255, 255, 255, 0.35);
+        /* 禁用低性能设备的悬停效果 */
+        @media (prefers-reduced-motion: reduce) {
+            .device-card:hover {
+                transform: none;
+                box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            }
+        }
+        
+        @media (hover: none) {
+            .device-card:hover {
+                transform: none;
+            }
+            
+            .device-card:hover::before {
+                left: -100%;
+            }
         }
         
         .device-model {
@@ -322,10 +383,19 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             left: 0;
             width: 100%;
             height: 100%;
-            background: rgba(0, 0, 0, 0.85);
-            backdrop-filter: blur(15px);
+            background: rgba(0, 0, 0, 0.7);
+            backdrop-filter: blur(5px);
             z-index: 1000;
-            animation: fadeIn 0.3s ease-out;
+            animation: fadeIn 0.2s ease-out;
+            will-change: opacity;
+        }
+        
+        /* 低性能设备优化 */
+        @media (prefers-reduced-motion: reduce) {
+            .modal-overlay {
+                backdrop-filter: blur(2px);
+                animation: none;
+            }
         }
         
         .modal-overlay.show {
@@ -336,16 +406,26 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         
         .modal-content {
             background: rgba(255, 255, 255, 0.12);
-            backdrop-filter: blur(20px);
+            backdrop-filter: blur(10px);
             border: 1px solid rgba(255, 255, 255, 0.3);
-            border-radius: 24px;
+            border-radius: 20px;
             width: 90%;
             max-width: 900px;
             max-height: 90vh;
             overflow: hidden;
-            animation: slideUp 0.3s ease-out;
+            animation: slideUp 0.2s ease-out;
             position: relative;
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+            will-change: transform;
+        }
+        
+        /* 低性能设备优化 */
+        @media (prefers-reduced-motion: reduce) {
+            .modal-content {
+                backdrop-filter: blur(5px);
+                animation: none;
+                box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+            }
         }
         
         .modal-header {
@@ -884,6 +964,9 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             const modalCode = document.getElementById('modalCode');
             const modalBody = document.getElementById('modalBody');
             
+            // 锁定页面滚动
+            document.body.classList.add('modal-open');
+            
             // 显示加载模态框
             loadingModal.classList.add('show');
             
@@ -935,6 +1018,8 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         function closeModal() {
             const deviceModal = document.getElementById('deviceModal');
             deviceModal.classList.remove('show');
+            // 解锁页面滚动
+            document.body.classList.remove('modal-open');
         }
         
         // 切换ROM链接显示
@@ -965,7 +1050,10 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         // ESC键关闭模态框
         document.addEventListener('keydown', function(e) {
             if (e.key === 'Escape') {
-                closeModal();
+                const deviceModal = document.getElementById('deviceModal');
+                if (deviceModal.classList.contains('show')) {
+                    closeModal();
+                }
             }
         });
         

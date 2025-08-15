@@ -2,6 +2,12 @@
     "model": "一加 ACE 3V",
     "roms": [
         {
+            "version": "一加 ACE 3V/ColorOS PJF110_15.0.0.840(CN01) C.38",
+            "links": [
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-59eb3598f8505f4a8894b0e60e63a49b/component-ota/25/07/15/d94e51cc23054922be9bf71b7010cf86.zip"
+            ]
+        },
+        {
             "version": "一加 ACE 3V/ColorOS PJF110_15.0.0.831(CN01) C.37",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b52611ca7bbe2f71cae4dfab4ffdfd34/component-ota/25/06/26/5823ff18dad64799b7906b7bdf180252.zip",

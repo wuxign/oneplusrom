@@ -2,6 +2,12 @@
     "model": "一加 ACE 5 Pro",
     "roms": [
         {
+            "version": "一加 ACE 5 Pro/ColorOS PKR110_15.0.0.861(CN01) A.41",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-cc7fb168e699066cfa542d9adfda2fe3/component-ota/25/08/14/0ae64a3b497a446b8204cba08e64979a.zip"
+            ]
+        },
+        {
             "version": "一加 ACE 5 Pro/ColorOS PKR110_15.0.0.850(CN01) A.39",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-6d922257c45fc9aac985b202920e78b7/component-ota/25/07/08/38d66d839e1547d6ad83ad007630ac1e.zip",

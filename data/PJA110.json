@@ -2,6 +2,12 @@
     "model": "一加 Ace2 Pro",
     "roms": [
         {
+            "version": "一加 Ace2 Pro/ColorOS PJA110_15.0.0.840(CN01) F.36",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-2d89e73dd2bb96e43bf43cd5a6fba1f0/component-ota/25/07/18/5dd975077a5142548eb19ec4ac25a689.zip"
+            ]
+        },
+        {
             "version": "一加 Ace2 Pro/ColorOS PJA110_15.0.0.831(CN01) F.35",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-67d0789fc8f0eab9a2150e471e85e53e/component-ota/25/06/21/30593be7caa24be195a4f2799ac26603.zip",

@@ -2,6 +2,12 @@
     "model": "一加 ACE 3 Pro",
     "roms": [
         {
+            "version": "一加 ACE 3 Pro/ColorOS PJX110_15.0.0.840(CN01) C.32",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b8747910cfbf7b3ea7e852a8b6fa3532/component-ota/25/07/14/75a28092ccc947b291856892b258a98d.zip"
+            ]
+        },
+        {
             "version": "一加 ACE 3 Pro/ColorOS PJX110_15.0.0.831(CN01) C.34",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-c8508f8b1a16b0a4ea1be931d1a5d844/component-ota/25/06/26/451954f641dc4933851542208b0fdf47.zip",

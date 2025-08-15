@@ -1,0 +1,419 @@
+{
+    "model": "一加 OnePlus Ace 2",
+    "roms": [
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_13.0.0 A.08",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-d2e07b9c33eefbead6fdc86e50cc2df0/component-ota/23/02/09/2f2176334cf749ed8115702b61547bae.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_13.0.0 A.09",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b21090760dd31eb798d24e7ed0079371/component-ota/23/02/21/27adc85c05ed42e58a7f49d94e8ac07c.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_13.0.0 A.10",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-d72069961931afeba6c454c4061229db/component-ota/23/02/25/14fb05c5dd2543af99c758dd375bf606.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_13.0.0 A.11",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-752a9c9f9e782a3e17570e888186109f/component-ota/23/03/04/7b7d2218fea6421ba6352a9024b64a68.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_13.0.0 A.15",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-ba6e993f5020944cbdce6e48d8a9a3bd/component-ota/23/03/17/9289386e3228405b90ba67b7395aae88.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_13.0.0 A.18",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-8e5ca2ae16d3e32af2bb2aa9b7638fa9/component-ota/23/03/31/9cbc6a6646e6415e956f3dd939048bb8.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_13.0.0 A.20",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-fa559f23760a91c48065865e48395cc7/component-ota/23/04/12/523ebf5ae3ee43ae9d1b476d19c67194.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_13.0.0 A.22",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-332939b9416a5ed87177961961262532/component-ota/23/06/03/94e982775c704e889534f291f5522de1.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_13.0.0 A.23",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-57ca2143252a1468a9f18d8221e3237e/component-ota/23/06/29/f4048e7b575d482fa5b3514a2bfe719c.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_13.1.0.140(CN01) A.40",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b50f22fb9d6d86456e5a401eab7ceb55/component-ota/23/05/09/23627ed3123b4e4cbba118a6a540f4f8.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_13.1.0.180(CN01) A.41",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-cfdb3116ae76ff151be455ef2129f764/component-ota/23/06/14/f3e8cb86005143d18ab370da16814a13.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_13.1.0.181(CN01) A.42",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-0c2723268d661fb779d9c3b742bdf9c9/component-ota/23/06/28/b34d2771a7d3412cbc5da612736b6ed7.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_13.1.0.182(CN01) A.43",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-6a9d09aa82865d4f54be7aecffe34dd4/component-ota/23/07/17/704a768e6bb7407a9a55f3087df3dcca.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_13.1.0.183(CN01) A.44",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-6067b6e4a36727470b8a65d5c3201fc0/component-ota/23/09/11/683a021a79f54d5bb4aa99d654d7764f.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_13.1.0.184(CN01) A.45",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-60245b0453141dbb2caef00845148691/component-ota/23/11/13/cdb816ee265246d6978f5cb1ace8f84f.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_13.1.0.185(CN01) A.46",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-bd503223ddad7f9a666ca75206f8475c/component-ota/24/01/15/dece19779a934d5582b97b5238c37b4c.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.200(CN01) C.25",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-a47ca4b833b2ba13c77dcf006864272e/component-ota/23/11/23/2ae78969b6714c61beb416cfe539e486.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.201(CN01) C.31",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-fda503982a938d064749744e30e01298/component-ota/23/12/06/39f577eadb5d4d478b7103d1f26d42ae.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.201(CN01) C.31_原神",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-ff360057db6c7b7ad6fca6644d070421/component-ota/23/12/06/906fa06d790c465d9c544e439262353f.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.300(CN01) C.36",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3fd0a2a727419afe386baebb25b6a580/component-ota/24/01/23/3dc2f2270d3b4cf19fc59a911923b339.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.300(CN01) C.36_原神",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-ec26bcba2cb2e4028bd389198ed27f48/component-ota/24/01/24/a8df6520eaf446158eb1cecf5d30a2e0.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.301(CN01) C.41",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-ec4d0fa49689ef5f6f833cf88059fa2a/component-ota/24/01/29/436aff2e0dff49b58e7c7eba977b3943.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.301(CN01) C.43_原神",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-33b14724c005297279b5e5a23b165078/component-ota/24/01/30/376e69b2825b419aa64300b369d1de77.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.500(CN01) C.46",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-364d612f11e7ee7203a28b972c54e2c1/component-ota/24/02/22/e5f297792b1d4a02bc72640804ef3d31.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.500(CN01) C.46_原神",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b922f8b225d279250ad999608b734e04/component-ota/24/02/22/2c0b2036d28d432b8d86a1d64214fbaa.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.600(CN01) C.50",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-cf990d993ccf972e4bb35435adc9c61d/component-ota/24/03/19/5c8e0fa91836498fbfab0dc676145708.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.600(CN01) C.51_原神",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-05f39100cdf1a16455d266314c607b04/component-ota/24/03/22/f389f49a75bc42e4a1533006d55dd3b0.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.700(CN01) C.52",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-15c1f6bbbbe6b9ae6c470996a662dba3/component-ota/24/04/19/b59dc938d4b14ebebc6f33e6f512d971.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.700(CN01) C.52_原神",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-26b5904e3667638cfe425fa538086b91/component-ota/24/04/19/f39fbe44da1c49c8aa9652988ba96a49.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.800(CN01) C.53",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-37b30504a98675cb8c17c70b649d158b/component-ota/24/05/24/edd4c8422da54d97b64f1e33f46727a0.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.800(CN01) C.53_原神",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f190f3294489601764d1e849a07aa723/component-ota/24/05/24/f78df2ecbba649ac8a4d4f11fb6b691a.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.805(CN01) C.54",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b5badd0fb41542225a2f394ce9a7eed2/component-ota/24/06/22/f88f056b1c734bbebfc8efc37994d5e9.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.805(CN01) C.54_原神",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-a0210d1a2332ff5b2a705c903f410975/component-ota/24/06/24/6e2c37ab4467402a8f301bb652be6786.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.806(CN01) C.55",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-758ca8c2f917719cfd86794332a5ae14/component-ota/24/08/16/845d4f2bf43c47aaae11a07ebb55d09c.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.806(CN01) C.55_原神",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-18f9c621ebb8f51f66c1640516709457/component-ota/24/08/16/bedc09a6a33e4eaaa6b5cac45d833722.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.807(CN01) C.56",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-96911e019ff0ff24b4e65a32dc41f9ca/component-ota/24/09/18/1978c35727db4008ba68d44545188d64.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.808(CN01) C.57",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-5360e7957c4fa449a2df185d3bc3858d/component-ota/24/10/22/72f24e1366564274ab99e2819a6677ab.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_14.0.0.811(CN01) C.60",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f426b3b87cf5d04030a7abcb2e1069ff/component-ota/24/11/26/20278e8640164827a8e25808a026f06c.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_15.0.0.300(CN01) F.29",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-757e49f839771dbc7784aeb8c42e1cf4/component-ota/24/12/13/c99d48f3f3024d6e9af77ffeb5805a98.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_15.0.0.400(CN01) F.33",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-6be22a362c281e56d6d8bb82ce63f4d9/component-ota/25/01/04/0ad5346555b64f56b645914c4cdd1e41.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_15.0.0.601(CN01) F.35",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-51eeec7e021ac0bb531198eeb5f2a918/component-ota/25/02/05/048687f661f44a17a9d4fe8628ca6d2a.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_15.0.0.601(CN01) F.35_原神",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-990c6febdda7bab28dfd2c7645574873/component-ota/25/02/07/fd35db07205d477c9b63dd720cd2ff64.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_15.0.0.700(CN01) F.36",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-bbb883096d5efbf6b1d428585fd5a238/component-ota/25/03/17/8339a8b92cc046b2ba45b307805b6905.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_15.0.0.800(CN01) F.37",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-503b499218775f8f8dec7af1d63971d5/component-ota/25/04/17/3985c238d57b4fc0a42c2a37ed7c33eb.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_15.0.0.800(CN01) F.37_原神",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-379b5ce8ab2b07bdcadd96d2a201d893/component-ota/25/04/17/fd99b4b0d4af45ffbd7218bb71764c2c.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_15.0.0.820(CN01) F.39",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f8f3a50549d773ee1cf0a341f5273f5a/component-ota/25/05/12/34cf28d983f24e0d9621d69ff04e60f6.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_15.0.0.820(CN01) F.39_原神",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-52cfe504cde6f1e005f3217694ac4880/component-ota/25/05/12/897b6fcdb27b44a2916cebac0ccc7824.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_15.0.0.830(CN01) F.41",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-a127e70e721cf0086e7f7237dd7c5e16/component-ota/25/06/13/18dc43183f484bfb8b7ba24e24afc4b2.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_15.0.0.830(CN01) F.41_原神",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-dcac553a7ee648133d4ddc124a0487d7/component-ota/25/06/13/1a19728d95aa43eaa69c4c35a54e9ca1.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_15.0.0.841(CN01) F.43",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-9f816c0fedbf08aeaa893fa19b49921e/component-ota/25/07/23/6827108ec3a84d2bab0e00c6bc10ce5c.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/ColorOS PHK110_15.0.0.841(CN01) F.43_原神",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7abd6e37a635d46f215bfb996a05cd7d/component-ota/25/07/23/4094a2acbd16438da725b6ad367c1d5b.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/OxygenOS CPH2487_13.0.0 A.08",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-27b579d47add6cf105edf60f9f4b791c/component-ota/23/02/25/941068ec7cb7449a984f6bf36973e2dc.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/OxygenOS CPH2487_13.0.0 A.10",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-cba6b31d21bf22ad53fa5ab5e41beb90/component-ota/23/03/28/e34a8022ff5642d791c45860f7792f86.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/OxygenOS CPH2487_13.0.0 A.11",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-c219bb96f3f0e6289753c1d0010a8950/component-ota/23/05/15/6f03fc63629f406e8a4c31984fba5b70.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/OxygenOS CPH2487_13.1.0.540(EX01) A.40",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-f413f423e5d8ba0ab2875937f515a2bd/component-ota/23/05/13/172878c34c954093b4f825a2ca112472.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/OxygenOS CPH2487_13.1.0.581(EX01) A.42",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-e4bdf9e780b34b7c10d60e13129ba6ed/component-ota/23/07/24/07562065a58a48cf93f6c5f27669bc84.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/OxygenOS CPH2487_13.1.0.582(EX01) A.43",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-afc1b6c495f578cc1bd9fccf56549e03/component-ota/23/09/05/b64bb8036be7426fa48caeb1a82e6994.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/OxygenOS CPH2487_13.1.0.583(EX01) A.44",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-50e8637c0982cb13a6afa1308eb5af5b/component-ota/23/11/17/b704b25ceb8f427b9ca709210bdd6965.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/OxygenOS CPH2487_14.0.0.200(EX01) C.25",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-512e265e1067a644672c0d2bd965f7b3/component-ota/23/11/23/afaa1e08e5974eba8b879cb644628fdd.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/OxygenOS CPH2487_14.0.0.501(EX01) C.46",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-e6382cda8c0d0d43beaaa39801fbb6e2/component-ota/24/02/28/8fa6aa2765104dd0ad22f16e0cd65f59.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/OxygenOS CPH2487_14.0.0.800(EX01) C.49",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-57942dc22ba99b35d06892c4ef99ef6d/component-ota/24/05/27/db731fa6e3444a0385e1b0b5d609965c.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/OxygenOS CPH2487_14.0.0.805(EX01) C.54",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-b361e5d92ce354313328e69f7199ab65/component-ota/24/06/25/a9c7ad4ad2964c32861a82190642565b.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/OxygenOS CPH2487_15.0.0.300(EX01) F.29",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-f260239e828e299ff6cd4bb7e1c98e33/component-ota/24/12/13/9550d80e4e934a0cbca840c0b0a73308.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/OxygenOS CPH2487_15.0.0.400(EX01) F.33",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-687c488e886af0ae824f7812492f9e8b/component-ota/25/01/04/beeff12793e54258a432ef256c6c89e3.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/OxygenOS CPH2487_15.0.0.601(EX01) F.35",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-51eeec7e021ac0bb531198eeb5f2a918/component-ota/25/02/05/048687f661f44a17a9d4fe8628ca6d2a.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/OxygenOS CPH2487_15.0.0.800(EX01) F.37",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-a9c4c073726f04614a7945ab4a4cf07b/component-ota/25/04/22/d36df2d25ba34fff9f68a3562c2fec17.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/OxygenOS CPH2487_15.0.0.820(EX01) F.39",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-a9c4c073726f04614a7945ab4a4cf07b/component-ota/25/04/22/d36df2d25ba34fff9f68a3562c2fec17.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/OxygenOS CPH2487_15.0.0.830(EX01) F.41",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-e2418348d9a3933ee2fb99389acf5755/component-ota/25/06/13/25f69cab41a4406ab555e14f533dfc0a.zip"
+            ]
+        },
+        {
+            "version": "一加 Ace 2/OxygenOS CPH2487_15.0.0.841(EX01) F.44",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-391f14da80faaaa2bad0acf16b227ff4/component-ota/25/07/24/79203c628f4044709cecc974cd2af929.zip"
+            ]
+        }
+    ]
+}
