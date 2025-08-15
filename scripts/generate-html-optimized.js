@@ -507,6 +507,35 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             font-weight: 600;
             color: white;
             margin-bottom: 0.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+            user-select: none;
+        }
+        
+        .rom-toggle {
+            background: rgba(255, 255, 255, 0.2);
+            border: none;
+            border-radius: 6px;
+            color: white;
+            padding: 0.25rem 0.5rem;
+            font-size: 0.75rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-left: 0.5rem;
+        }
+        
+        .rom-toggle:hover {
+            background: rgba(255, 255, 255, 0.3);
+        }
+        
+        .rom-toggle.collapsed::after {
+            content: "展开 ▼";
+        }
+        
+        .rom-toggle.expanded::after {
+            content: "收起 ▲";
         }
         
         .rom-links {
@@ -515,6 +544,17 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             gap: 0.5rem;
             align-items: stretch;
             justify-content: flex-start;
+            max-height: 0;
+            overflow: hidden;
+            opacity: 0;
+            transition: all 0.4s ease;
+            margin-top: 0;
+        }
+        
+        .rom-links.expanded {
+            max-height: 500px;
+            opacity: 1;
+            margin-top: 0.5rem;
         }
         
         .copy-button {
@@ -673,6 +713,11 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
                 margin-bottom: 0.5rem;
             }
             
+            .rom-toggle {
+                padding: 0.2rem 0.4rem;
+                font-size: 0.7rem;
+            }
+            
             .rom-links {
                 flex-direction: row;
                 flex-wrap: wrap;
@@ -746,6 +791,11 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             
             .rom-version {
                 font-size: 0.95rem;
+            }
+            
+            .rom-toggle {
+                padding: 0.15rem 0.3rem;
+                font-size: 0.65rem;
             }
             
             .rom-links {
@@ -851,9 +901,12 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
                 // 生成ROM详情HTML
                 const romsHTML = data.roms.map((rom, romIndex) => \`
                     <div class="rom-item">
-                        <div class="rom-version">
-                            <span style="color: rgba(255,255,255,0.6); font-size: 0.8rem; margin-right: 0.5rem;">#\${romIndex + 1}</span>
-                            \${rom.version}
+                        <div class="rom-version" onclick="toggleRomLinks(this)">
+                            <span>
+                                <span style="color: rgba(255,255,255,0.6); font-size: 0.8rem; margin-right: 0.5rem;">#\${romIndex + 1}</span>
+                                \${rom.version}
+                            </span>
+                            <button class="rom-toggle collapsed"></button>
                         </div>
                         <div class="rom-links" data-button-count="\${rom.links.length}">
                             \${rom.links.map((link, index) => \`
@@ -882,6 +935,24 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         function closeModal() {
             const deviceModal = document.getElementById('deviceModal');
             deviceModal.classList.remove('show');
+        }
+        
+        // 切换ROM链接显示
+        function toggleRomLinks(versionElement) {
+            const romLinks = versionElement.nextElementSibling;
+            const toggleButton = versionElement.querySelector('.rom-toggle');
+            
+            if (romLinks.classList.contains('expanded')) {
+                // 完全隐藏
+                romLinks.classList.remove('expanded');
+                toggleButton.classList.remove('expanded');
+                toggleButton.classList.add('collapsed');
+            } else {
+                // 完全展开
+                romLinks.classList.add('expanded');
+                toggleButton.classList.remove('collapsed');
+                toggleButton.classList.add('expanded');
+            }
         }
         
         // 点击背景关闭模态框
