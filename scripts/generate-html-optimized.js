@@ -196,6 +196,9 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             position: relative;
             overflow: hidden;
             box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            min-height: 200px;
         }
         
         .device-card::before {
@@ -252,8 +255,17 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             font-size: 0.9rem;
             color: rgba(255, 255, 255, 0.8);
             font-weight: 400;
-            margin-bottom: 1rem;
+            margin-bottom: auto;
             font-family: 'Courier New', monospace;
+            flex-grow: 1;
+        }
+        
+        .device-content {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            position: relative;
+            z-index: 2;
         }
         
         .load-button {
@@ -267,7 +279,7 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             cursor: pointer;
             transition: all 0.3s ease;
             font-size: 1rem;
-            margin-top: 1rem;
+            margin-top: auto;
         }
         
         .load-button:hover {
@@ -501,6 +513,8 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             display: flex;
             flex-wrap: wrap;
             gap: 0.5rem;
+            align-items: stretch;
+            justify-content: flex-start;
         }
         
         .copy-button {
@@ -513,6 +527,11 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             font-size: 0.9rem;
             font-weight: 500;
             transition: all 0.3s ease;
+            flex: 1 1 0;
+            min-width: 140px;
+            max-width: 180px;
+            text-align: center;
+            white-space: nowrap;
         }
         
         .copy-button:hover {
@@ -525,54 +544,218 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             background: linear-gradient(135deg, #56ab2f, #a8e6cf);
         }
         
+        /* 按钮数量适配 - 使用数据属性 */
+        .rom-links[data-button-count="1"] .copy-button {
+            flex: 0 0 140px;
+        }
+        
+        .rom-links[data-button-count="2"] .copy-button {
+            flex: 1 1 140px;
+            max-width: 160px;
+        }
+        
+        .rom-links[data-button-count="3"] .copy-button {
+            flex: 1 1 120px;
+            max-width: 150px;
+        }
+        
+        .rom-links[data-button-count="4"] .copy-button {
+            flex: 1 1 110px;
+            max-width: 140px;
+        }
+        
+        /* 超过4个按钮时的处理 */
+        .rom-links[data-button-count="5"] .copy-button,
+        .rom-links[data-button-count="6"] .copy-button,
+        .rom-links[data-button-count="7"] .copy-button,
+        .rom-links[data-button-count="8"] .copy-button {
+            flex: 1 1 100px;
+            max-width: 130px;
+        }
+        
         @media (max-width: 768px) {
             .container {
-                padding: 1rem;
+                padding: 0.75rem;
+            }
+            
+            .header {
+                margin-bottom: 1.5rem;
             }
             
             .header h1 {
-                font-size: 2rem;
+                font-size: 1.8rem;
+                margin-bottom: 0.25rem;
+            }
+            
+            .header p {
+                font-size: 1rem;
+            }
+            
+            .search-box {
+                margin-bottom: 1rem;
+            }
+            
+            .search-input {
+                padding: 0.75rem 1rem;
+                font-size: 1rem;
+                border-radius: 12px;
             }
             
             .devices-grid {
                 grid-template-columns: 1fr;
+                gap: 1rem;
+            }
+            
+            .device-card {
+                padding: 1.25rem;
+                min-height: 150px;
+                border-radius: 16px;
+            }
+            
+            .device-model {
+                font-size: 1.25rem;
+                margin-bottom: 0.25rem;
+            }
+            
+            .device-code {
+                font-size: 0.8rem;
+                margin-bottom: 0.75rem;
+            }
+            
+            .load-button {
+                padding: 0.75rem;
+                font-size: 0.9rem;
+                border-radius: 10px;
             }
             
             .modal-content {
                 width: 95%;
                 max-height: 95vh;
-                margin: 0 1rem;
+                margin: 0 0.5rem;
+                border-radius: 16px;
             }
             
             .modal-header {
-                padding: 1.5rem 1.5rem 1rem 1.5rem;
+                padding: 1rem 1rem 0.75rem 1rem;
             }
             
             .modal-header h2 {
-                font-size: 1.5rem;
-                margin-right: 3rem;
+                font-size: 1.3rem;
+                margin-right: 2.5rem;
+                margin-bottom: 0.25rem;
+            }
+            
+            .modal-header p {
+                font-size: 0.8rem;
             }
             
             .modal-body {
-                padding: 1.5rem;
-                max-height: 70vh;
+                padding: 1rem;
+                max-height: 75vh;
             }
             
             .modal-close {
-                top: 1rem;
-                right: 1rem;
-                width: 35px;
-                height: 35px;
-                font-size: 1.1rem;
+                top: 0.75rem;
+                right: 0.75rem;
+                width: 30px;
+                height: 30px;
+                font-size: 1rem;
+            }
+            
+            .rom-item {
+                padding: 1rem;
+                margin-bottom: 0.75rem;
+                border-radius: 10px;
+            }
+            
+            .rom-version {
+                font-size: 1rem;
+                margin-bottom: 0.5rem;
             }
             
             .rom-links {
-                flex-direction: column;
+                flex-direction: row;
+                flex-wrap: wrap;
+                gap: 0.3rem;
+                justify-content: flex-start;
             }
             
             .copy-button {
-                width: 100%;
-                justify-self: stretch;
+                width: auto;
+                flex: none;
+                min-width: 80px;
+                padding: 0.5rem 0.75rem;
+                font-size: 0.8rem;
+                border-radius: 6px;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .container {
+                padding: 0.5rem;
+            }
+            
+            .header h1 {
+                font-size: 1.6rem;
+            }
+            
+            .header p {
+                font-size: 0.9rem;
+            }
+            
+            .search-input {
+                padding: 0.6rem 0.8rem;
+                font-size: 0.95rem;
+            }
+            
+            .device-card {
+                padding: 1rem;
+                min-height: 130px;
+            }
+            
+            .device-model {
+                font-size: 1.1rem;
+            }
+            
+            .device-code {
+                font-size: 0.75rem;
+            }
+            
+            .load-button {
+                padding: 0.6rem;
+                font-size: 0.85rem;
+            }
+            
+            .modal-header {
+                padding: 0.75rem;
+            }
+            
+            .modal-header h2 {
+                font-size: 1.2rem;
+                margin-right: 2rem;
+            }
+            
+            .modal-body {
+                padding: 0.75rem;
+            }
+            
+            .rom-item {
+                padding: 0.75rem;
+                margin-bottom: 0.5rem;
+            }
+            
+            .rom-version {
+                font-size: 0.95rem;
+            }
+            
+            .rom-links {
+                gap: 0.25rem;
+            }
+            
+            .copy-button {
+                padding: 0.4rem 0.6rem;
+                font-size: 0.75rem;
+                min-width: 70px;
             }
         }
     </style>
@@ -592,11 +775,13 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         <div class="devices-grid" id="devicesGrid">
             ${devices.map(device => `
                 <div class="device-card" data-code="${device.code}" data-name="${device.name}">
-                    <div class="device-model">${device.name}</div>
-                    <div class="device-code">${device.code}</div>
-                    <button class="load-button" onclick="loadDeviceData('${device.code}', '${device.name}')">
-                        查看详情
-                    </button>
+                    <div class="device-content">
+                        <div class="device-model">${device.name}</div>
+                        <div class="device-code">${device.code}</div>
+                        <button class="load-button" onclick="loadDeviceData('${device.code}', '${device.name}')">
+                            查看详情
+                        </button>
+                    </div>
                 </div>
             `).join('')}
         </div>
@@ -670,7 +855,7 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
                             <span style="color: rgba(255,255,255,0.6); font-size: 0.8rem; margin-right: 0.5rem;">#\${romIndex + 1}</span>
                             \${rom.version}
                         </div>
-                        <div class="rom-links">
+                        <div class="rom-links" data-button-count="\${rom.links.length}">
                             \${rom.links.map((link, index) => \`
                                 <button class="copy-button" onclick="copyToClipboard('\${link}', this)" title="点击复制下载链接">
                                     <span style="font-size: 0.8rem;">📋</span> 
