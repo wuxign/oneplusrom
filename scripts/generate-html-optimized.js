@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-// 读取所有设备数据
+
 function readDeviceData() {
     const deviceFiles = fs.readdirSync('./data')
         .filter(file => file.endsWith('.json'))
@@ -16,7 +16,7 @@ function readDeviceData() {
             const content = fs.readFileSync(path.join('./data', file), 'utf8');
             const data = JSON.parse(content);
             const deviceCode = path.basename(file, '.json');
-            const deviceName = data.model || deviceCode; // 使用JSON中的中文名称，fallback到文件名
+            const deviceName = data.model || deviceCode; 
             
             devices.push({
                 code: deviceCode,
@@ -36,7 +36,6 @@ function readDeviceData() {
     return { devices, totalRoms, totalLinks };
 }
 
-// 生成设备列表JSON文件
 function generateDeviceList(devices) {
     const deviceList = devices.map(device => ({
         code: device.code,
@@ -48,7 +47,6 @@ function generateDeviceList(devices) {
     fs.writeFileSync('docs/data/devices.json', JSON.stringify(deviceList, null, 2));
 }
 
-// 生成单个设备的数据文件
 function generateDeviceDataFiles(devices) {
     devices.forEach(device => {
         const deviceData = {
@@ -64,7 +62,6 @@ function generateDeviceDataFiles(devices) {
     });
 }
 
-// 生成主页面HTML
 function generateMainHTML(devices, totalRoms, totalLinks) {
     const html = `<!DOCTYPE html>
 <html lang="zh-CN">
@@ -90,25 +87,20 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             background: linear-gradient(-45deg, #667eea, #764ba2, #f093fb, #f5576c);
             background-size: 400% 400%;
             animation: gradientShift 20s ease infinite;
-            /* 使用固定高度避免工具栏影响布局 */
             min-height: 100%;
             height: auto;
             color: #333;
             line-height: 1.6;
             position: relative;
             overflow-x: hidden;
-            /* 背景固定，避免滚动时重绘 */
             background-attachment: fixed;
         }
         
-        /* 确保html高度稳定 */
         html {
             height: 100%;
-            /* 使用CSS自定义属性处理动态高度 */
             --real-vh: 1vh;
         }
-        
-        /* 为低性能设备优化 - 减少动画复杂度 */
+
         @media (prefers-reduced-motion: reduce) {
             body {
                 background: linear-gradient(135deg, #667eea, #764ba2);
@@ -123,28 +115,23 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             }
         }
         
-        /* 页面滚动锁定 */
         body.modal-open {
             overflow: hidden;
             position: fixed;
             width: 100%;
             height: 100%;
             height: 100vh;
-            height: 100dvh; /* 动态视口高度 */
-            top: 0;
+            height: 100dvh; 
             left: 0;
-            /* 移动端浏览器优化 */
             -webkit-overflow-scrolling: touch;
             overscroll-behavior: none;
         }
         
-        /* 优化模态框滚动性能 */
         .modal-body {
             contain: layout;
             transform: translateZ(0);
         }
         
-        /* 优化低性能设备的模态框 */
         @media (prefers-reduced-motion: reduce) {
             .modal-body {
                 contain: none;
@@ -166,7 +153,6 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             will-change: transform;
         }
         
-        /* 低性能设备不显示装饰背景 */
         @media (prefers-reduced-motion: reduce) {
             body::before {
                 display: none;
@@ -249,12 +235,10 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
             gap: 1.5rem;
-            /* 固定间距，不受视口变化影响 */
             margin-bottom: 2rem;
             padding: 0;
         }
         
-        /* 移动端浏览器优化：稳定的间距 */
         @media screen and (max-width: 768px) {
             .devices-grid {
                 grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -294,7 +278,6 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             will-change: transform;
         }
         
-        /* 简化低性能设备的卡片效果 */
         @media (prefers-reduced-motion: reduce) {
             .device-card {
                 backdrop-filter: blur(5px);
@@ -319,7 +302,6 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
         }
         
-        /* 禁用低性能设备的悬停效果 */
         @media (prefers-reduced-motion: reduce) {
             .device-card:hover {
                 transform: none;
@@ -415,19 +397,16 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             left: 0;
             width: 100%;
             height: 100%;
-            /* 修复移动端浏览器工具栏隐藏问题 */
             height: 100vh;
-            height: 100dvh; /* 动态视口高度，适配工具栏隐藏 */
+            height: 100dvh; 
             background: rgba(0, 0, 0, 0.7);
             backdrop-filter: blur(5px);
             z-index: 1000;
             animation: fadeIn 0.2s ease-out;
             will-change: opacity;
-            /* 防止滚动穿透 */
             overscroll-behavior: contain;
         }
-        
-        /* 低性能设备优化 */
+
         @media (prefers-reduced-motion: reduce) {
             .modal-overlay {
                 backdrop-filter: blur(2px);
@@ -435,10 +414,8 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             }
         }
         
-        /* 移动端浏览器全屏模式修复 */
         @media screen and (max-width: 768px) {
             .modal-overlay {
-                /* 使用固定像素值避免工具栏影响 */
                 min-height: 100vh;
                 min-height: 100dvh;
                 /* iOS Safari 修复 */
@@ -446,7 +423,6 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             }
             
             .modal-content {
-                /* 确保模态框不会超出视口 */
                 max-height: calc(100vh - 2rem);
                 max-height: calc(100dvh - 2rem);
                 max-height: calc(-webkit-fill-available - 2rem);
@@ -455,7 +431,6 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             }
         }
         
-        /* 特别针对 Via 浏览器等全屏浏览器 */
         @media screen and (max-width: 768px) and (display-mode: fullscreen) {
             .modal-overlay {
                 height: 100vh !important;
@@ -468,7 +443,6 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             }
         }
         
-        /* 使用CSS自定义属性处理动态视口高度 */
         :root {
             --vh: 1vh;
         }
@@ -481,21 +455,17 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             height: calc(var(--vh, 1vh) * 100);
         }
         
-        /* Via浏览器特别优化：固定布局不受工具栏影响 */
         .fullscreen-browser body {
             background-attachment: fixed;
-            /* 使用最大可用高度而非动态高度 */
             min-height: -webkit-fill-available;
         }
         
         .fullscreen-browser .container {
-            /* 在Via浏览器中使用更保守的布局 */
             padding-top: 1rem;
             padding-bottom: 3rem;
         }
         
         .fullscreen-browser .devices-grid {
-            /* 固定间距避免工具栏影响 */
             gap: 1.25rem !important;
             margin-bottom: 1.5rem;
         }
@@ -507,7 +477,6 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         }
         
         .modal-content {
-            /* 与机型卡片保持一致的背景 */
             background: rgba(255, 255, 255, 0.15);
             backdrop-filter: blur(10px);
             border: 1px solid rgba(255, 255, 255, 0.25);
@@ -518,17 +487,14 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             overflow: hidden;
             animation: slideUp 0.2s ease-out;
             position: relative;
-            /* 与机型卡片相似的阴影 */
             box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
             will-change: transform;
         }
         
-        /* 低性能设备优化 */
         @media (prefers-reduced-motion: reduce) {
             .modal-content {
                 backdrop-filter: blur(5px);
                 animation: none;
-                /* 与机型卡片一致的简化阴影 */
                 box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
             }
         }
@@ -536,7 +502,6 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         .modal-header {
             padding: 2rem 2rem 1rem 2rem;
             border-bottom: 1px solid rgba(255, 255, 255, 0.15);
-            /* 与机型卡片相似的微渐变效果 */
             background: linear-gradient(135deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.06));
             border-radius: 20px 20px 0 0;
         }
@@ -559,7 +524,6 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             position: absolute;
             top: 1.5rem;
             right: 1.5rem;
-            /* 与机型卡片按钮相似的样式 */
             background: rgba(255, 255, 255, 0.15);
             backdrop-filter: blur(10px);
             border: 1px solid rgba(255, 255, 255, 0.25);
@@ -639,7 +603,6 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         }
         
         .loading-content {
-            /* 与机型卡片和模态框保持一致的风格 */
             background: rgba(255, 255, 255, 0.15);
             backdrop-filter: blur(10px);
             border: 1px solid rgba(255, 255, 255, 0.25);
@@ -687,28 +650,29 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         }
         
         .rom-item {
-            /* 与机型卡片相似的毛玻璃效果 */
             background: rgba(255, 255, 255, 0.1);
             backdrop-filter: blur(8px);
             border: 1px solid rgba(255, 255, 255, 0.15);
             border-radius: 16px;
-            padding: 1.5rem;
-            margin-bottom: 1rem;
+            padding: 1.75rem; 
+            margin-bottom: 1.25rem;
             border-left: 4px solid #667eea;
             transition: all 0.2s ease;
             box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
+            overflow: visible;
         }
         
         .rom-version {
             font-size: 1.1rem;
             font-weight: 600;
             color: white;
-            margin-bottom: 0.5rem;
+            margin-bottom: 0.75rem; 
             display: flex;
             justify-content: space-between;
             align-items: center;
             cursor: pointer;
             user-select: none;
+            padding-bottom: 0.25rem;
         }
         
         .rom-toggle {
@@ -746,17 +710,19 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             opacity: 0;
             transition: all 0.4s ease;
             margin-top: 0;
+            padding-top: 0;
+            box-sizing: border-box;
         }
         
         .rom-links.expanded {
             max-height: 500px;
             opacity: 1;
-            margin-top: 0.5rem;
+            margin-top: 1rem; 
+            padding-top: 0.5rem; 
         }
         
         .copy-button {
             padding: 0.6rem 1.2rem;
-            /* 与机型卡片相似的毛玻璃效果 */
             background: rgba(255, 255, 255, 0.15);
             backdrop-filter: blur(8px);
             border: 1px solid rgba(255, 255, 255, 0.25);
@@ -766,12 +732,13 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             font-size: 0.9rem;
             font-weight: 500;
             transition: all 0.2s ease;
-            flex: 1 1 0;
-            min-width: 140px;
-            max-width: 180px;
+            /* 使用固定宽度，不拉伸 */
+            flex: none;
+            width: 140px;
             text-align: center;
             white-space: nowrap;
             box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
         }
         
         .copy-button:hover {
@@ -785,35 +752,6 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             background: rgba(86, 171, 47, 0.25);
             border: 1px solid rgba(86, 171, 47, 0.5);
             color: #a8e6cf;
-        }
-        
-        /* 按钮数量适配 - 使用数据属性 */
-        .rom-links[data-button-count="1"] .copy-button {
-            flex: 0 0 140px;
-        }
-        
-        .rom-links[data-button-count="2"] .copy-button {
-            flex: 1 1 140px;
-            max-width: 160px;
-        }
-        
-        .rom-links[data-button-count="3"] .copy-button {
-            flex: 1 1 120px;
-            max-width: 150px;
-        }
-        
-        .rom-links[data-button-count="4"] .copy-button {
-            flex: 1 1 110px;
-            max-width: 140px;
-        }
-        
-        /* 超过4个按钮时的处理 */
-        .rom-links[data-button-count="5"] .copy-button,
-        .rom-links[data-button-count="6"] .copy-button,
-        .rom-links[data-button-count="7"] .copy-button,
-        .rom-links[data-button-count="8"] .copy-button {
-            flex: 1 1 100px;
-            max-width: 130px;
         }
         
         @media (max-width: 768px) {
@@ -913,7 +851,8 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             
             .rom-version {
                 font-size: 1rem;
-                margin-bottom: 0.5rem;
+                margin-bottom: 0.75rem; 
+                padding-bottom: 0.25rem;
             }
             
             .rom-toggle {
@@ -928,12 +867,18 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
                 justify-content: flex-start;
             }
             
+            .rom-links.expanded {
+                margin-top: 0.75rem; 
+                padding-top: 0.5rem;
+            }
+            
             .copy-button {
-                width: auto;
+                width: 120px; /* 移动端固定宽度 */
                 flex: none;
-                min-width: 80px;
                 padding: 0.5rem 0.75rem;
                 font-size: 0.8rem;
+                min-width: unset; /* 重置最小宽度 */
+            }
                 border-radius: 6px;
             }
         }
@@ -1006,9 +951,10 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             }
             
             .copy-button {
+                width: 100px; /* 最小屏幕固定宽度 */
                 padding: 0.4rem 0.6rem;
                 font-size: 0.75rem;
-                min-width: 70px;
+                min-width: unset; /* 重置最小宽度 */
             }
         }
     </style>
@@ -1063,14 +1009,13 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
     </div>
     
     <script>
-        // 移动端浏览器视口高度修复
         let viewportTimer;
         let lastHeight = window.innerHeight;
         
         function fixViewportHeight() {
             const currentHeight = window.innerHeight;
             
-            // 只有当高度变化超过50px时才更新（避免小幅度变化）
+
             if (Math.abs(currentHeight - lastHeight) > 50) {
                 const vh = currentHeight * 0.01;
                 document.documentElement.style.setProperty('--vh', \`\${vh}px\`);
@@ -1079,23 +1024,21 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             }
         }
         
-        // 防抖版本的视口高度修复
         function debouncedFixViewportHeight() {
             clearTimeout(viewportTimer);
             viewportTimer = setTimeout(fixViewportHeight, 100);
         }
         
-        // 页面加载时设置
+
         fixViewportHeight();
-        
-        // 监听窗口大小变化（包括工具栏隐藏/显示）
+
         window.addEventListener('resize', debouncedFixViewportHeight);
         window.addEventListener('orientationchange', function() {
-            // 延迟执行，等待浏览器完成方向变化
+
             setTimeout(debouncedFixViewportHeight, 300);
         });
         
-        // 检测Via浏览器等全屏模式
+
         function detectFullscreenBrowser() {
             const isFullscreen = window.navigator.standalone || 
                                  window.matchMedia('(display-mode: fullscreen)').matches ||
@@ -1125,6 +1068,8 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         });
         
         // 加载设备数据
+        let savedScrollPosition = 0;
+        
         async function loadDeviceData(code, name) {
             const loadingModal = document.getElementById('loadingModal');
             const deviceModal = document.getElementById('deviceModal');
@@ -1132,13 +1077,14 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             const modalCode = document.getElementById('modalCode');
             const modalBody = document.getElementById('modalBody');
             
-            // 锁定页面滚动
+            savedScrollPosition = window.pageYOffset || document.documentElement.scrollTop;
+            
             document.body.classList.add('modal-open');
+            document.body.style.top = \`-\${savedScrollPosition}px\`;
             
-            // 修复移动端浏览器视口高度问题
+
             fixViewportHeight();
-            
-            // 显示加载模态框
+
             loadingModal.classList.add('show');
             
             try {
@@ -1181,6 +1127,20 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             } catch (error) {
                 console.error('加载设备数据失败:', error);
                 loadingModal.classList.remove('show');
+                
+                // 恢复滚动位置（加载失败时）
+                document.body.classList.remove('modal-open');
+                document.body.style.top = '';
+                
+                if (savedScrollPosition) {
+                    requestAnimationFrame(() => {
+                        window.scrollTo({
+                            top: savedScrollPosition,
+                            behavior: 'auto'
+                        });
+                    });
+                }
+                
                 alert('加载失败，请重试');
             }
         }
@@ -1189,36 +1149,44 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         function closeModal() {
             const deviceModal = document.getElementById('deviceModal');
             deviceModal.classList.remove('show');
-            // 解锁页面滚动
+            
+            // 恢复页面滚动和位置
             document.body.classList.remove('modal-open');
+            document.body.style.top = '';
+            
+            // 恢复之前的滚动位置（平滑滚动）
+            if (savedScrollPosition) {
+                // 使用 requestAnimationFrame 确保样式更新完成后再滚动
+                requestAnimationFrame(() => {
+                    window.scrollTo({
+                        top: savedScrollPosition,
+                        behavior: 'auto' // 立即跳转，不要动画
+                    });
+                });
+            }
         }
         
-        // 切换ROM链接显示
         function toggleRomLinks(versionElement) {
             const romLinks = versionElement.nextElementSibling;
             const toggleButton = versionElement.querySelector('.rom-toggle');
             
             if (romLinks.classList.contains('expanded')) {
-                // 完全隐藏
                 romLinks.classList.remove('expanded');
                 toggleButton.classList.remove('expanded');
                 toggleButton.classList.add('collapsed');
             } else {
-                // 完全展开
                 romLinks.classList.add('expanded');
                 toggleButton.classList.remove('collapsed');
                 toggleButton.classList.add('expanded');
             }
         }
         
-        // 点击背景关闭模态框
         document.getElementById('deviceModal').addEventListener('click', function(e) {
             if (e.target === this) {
                 closeModal();
             }
         });
-        
-        // ESC键关闭模态框
+
         document.addEventListener('keydown', function(e) {
             if (e.key === 'Escape') {
                 const deviceModal = document.getElementById('deviceModal');
@@ -1228,9 +1196,7 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             }
         });
         
-        // 复制到剪贴板
         async function copyToClipboard(text, button) {
-            // 添加点击反馈
             button.style.transform = 'scale(0.95)';
             setTimeout(() => {
                 button.style.transform = '';
@@ -1242,12 +1208,10 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
                 const originalText = button.innerHTML;
                 const originalBg = button.style.background;
                 
-                // 成功反馈
                 button.innerHTML = '<span style="font-size: 0.8rem;">✅</span> 已复制';
                 button.style.background = 'linear-gradient(135deg, #56ab2f, #a8e6cf)';
                 button.classList.add('copied');
-                
-                // 2秒后恢复
+
                 setTimeout(() => {
                     button.innerHTML = originalText;
                     button.style.background = originalBg;
@@ -1255,7 +1219,6 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
                 }, 2000);
                 
             } catch (err) {
-                // 备用方案
                 const textArea = document.createElement('textarea');
                 textArea.value = text;
                 textArea.style.position = 'fixed';
@@ -1297,14 +1260,12 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
     fs.writeFileSync('docs/index.html', html);
 }
 
-// 主函数
 function main() {
     console.log('开始生成优化版HTML...');
     
     const { devices, totalRoms, totalLinks } = readDeviceData();
     console.log(`读取到 ${devices.length} 个设备，总计 ${totalRoms} 个ROM版本，${totalLinks} 个下载链接`);
     
-    // 确保输出目录存在
     if (!fs.existsSync('docs')) {
         fs.mkdirSync('docs');
     }
@@ -1312,15 +1273,12 @@ function main() {
         fs.mkdirSync('docs/data');
     }
     
-    // 生成文件
     generateDeviceList(devices);
     generateDeviceDataFiles(devices);
     generateMainHTML(devices, totalRoms, totalLinks);
     
-    // 创建.nojekyll文件禁用Jekyll处理
     fs.writeFileSync('docs/.nojekyll', '');
     
-    // 复制ico.png到docs目录
     if (fs.existsSync('ico.png')) {
         fs.copyFileSync('ico.png', 'docs/ico.png');
         console.log('📎 已复制 ico.png 到 docs 目录');
