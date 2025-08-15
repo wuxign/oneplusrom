@@ -90,11 +90,22 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             background: linear-gradient(-45deg, #667eea, #764ba2, #f093fb, #f5576c);
             background-size: 400% 400%;
             animation: gradientShift 20s ease infinite;
-            min-height: 100vh;
+            /* 使用固定高度避免工具栏影响布局 */
+            min-height: 100%;
+            height: auto;
             color: #333;
             line-height: 1.6;
             position: relative;
             overflow-x: hidden;
+            /* 背景固定，避免滚动时重绘 */
+            background-attachment: fixed;
+        }
+        
+        /* 确保html高度稳定 */
+        html {
+            height: 100%;
+            /* 使用CSS自定义属性处理动态高度 */
+            --real-vh: 1vh;
         }
         
         /* 为低性能设备优化 - 减少动画复杂度 */
@@ -118,8 +129,13 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             position: fixed;
             width: 100%;
             height: 100%;
+            height: 100vh;
+            height: 100dvh; /* 动态视口高度 */
             top: 0;
             left: 0;
+            /* 移动端浏览器优化 */
+            -webkit-overflow-scrolling: touch;
+            overscroll-behavior: none;
         }
         
         /* 优化模态框滚动性能 */
@@ -175,6 +191,9 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             padding: 2rem;
             position: relative;
             z-index: 2;
+            /* 确保容器不受视口变化影响 */
+            box-sizing: border-box;
+            min-height: auto;
         }
         
         .header {
@@ -230,6 +249,19 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
             gap: 1.5rem;
+            /* 固定间距，不受视口变化影响 */
+            margin-bottom: 2rem;
+            padding: 0;
+        }
+        
+        /* 移动端浏览器优化：稳定的间距 */
+        @media screen and (max-width: 768px) {
+            .devices-grid {
+                grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+                gap: 1rem;
+                /* 使用固定像素值而非视口单位 */
+                padding: 0 0.5rem;
+            }
         }
         
         .device-card {
@@ -383,11 +415,16 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             left: 0;
             width: 100%;
             height: 100%;
+            /* 修复移动端浏览器工具栏隐藏问题 */
+            height: 100vh;
+            height: 100dvh; /* 动态视口高度，适配工具栏隐藏 */
             background: rgba(0, 0, 0, 0.7);
             backdrop-filter: blur(5px);
             z-index: 1000;
             animation: fadeIn 0.2s ease-out;
             will-change: opacity;
+            /* 防止滚动穿透 */
+            overscroll-behavior: contain;
         }
         
         /* 低性能设备优化 */
@@ -396,6 +433,71 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
                 backdrop-filter: blur(2px);
                 animation: none;
             }
+        }
+        
+        /* 移动端浏览器全屏模式修复 */
+        @media screen and (max-width: 768px) {
+            .modal-overlay {
+                /* 使用固定像素值避免工具栏影响 */
+                min-height: 100vh;
+                min-height: 100dvh;
+                /* iOS Safari 修复 */
+                min-height: -webkit-fill-available;
+            }
+            
+            .modal-content {
+                /* 确保模态框不会超出视口 */
+                max-height: calc(100vh - 2rem);
+                max-height: calc(100dvh - 2rem);
+                max-height: calc(-webkit-fill-available - 2rem);
+                margin: 1rem;
+                width: calc(100% - 2rem);
+            }
+        }
+        
+        /* 特别针对 Via 浏览器等全屏浏览器 */
+        @media screen and (max-width: 768px) and (display-mode: fullscreen) {
+            .modal-overlay {
+                height: 100vh !important;
+                height: 100dvh !important;
+            }
+            
+            body.modal-open {
+                height: 100vh !important;
+                height: 100dvh !important;
+            }
+        }
+        
+        /* 使用CSS自定义属性处理动态视口高度 */
+        :root {
+            --vh: 1vh;
+        }
+        
+        .fullscreen-browser .modal-overlay {
+            height: calc(var(--vh, 1vh) * 100);
+        }
+        
+        .fullscreen-browser body.modal-open {
+            height: calc(var(--vh, 1vh) * 100);
+        }
+        
+        /* Via浏览器特别优化：固定布局不受工具栏影响 */
+        .fullscreen-browser body {
+            background-attachment: fixed;
+            /* 使用最大可用高度而非动态高度 */
+            min-height: -webkit-fill-available;
+        }
+        
+        .fullscreen-browser .container {
+            /* 在Via浏览器中使用更保守的布局 */
+            padding-top: 1rem;
+            padding-bottom: 3rem;
+        }
+        
+        .fullscreen-browser .devices-grid {
+            /* 固定间距避免工具栏影响 */
+            gap: 1.25rem !important;
+            margin-bottom: 1.5rem;
         }
         
         .modal-overlay.show {
@@ -940,6 +1042,51 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
     </div>
     
     <script>
+        // 移动端浏览器视口高度修复
+        let viewportTimer;
+        let lastHeight = window.innerHeight;
+        
+        function fixViewportHeight() {
+            const currentHeight = window.innerHeight;
+            
+            // 只有当高度变化超过50px时才更新（避免小幅度变化）
+            if (Math.abs(currentHeight - lastHeight) > 50) {
+                const vh = currentHeight * 0.01;
+                document.documentElement.style.setProperty('--vh', \`\${vh}px\`);
+                document.documentElement.style.setProperty('--real-vh', \`\${vh}px\`);
+                lastHeight = currentHeight;
+            }
+        }
+        
+        // 防抖版本的视口高度修复
+        function debouncedFixViewportHeight() {
+            clearTimeout(viewportTimer);
+            viewportTimer = setTimeout(fixViewportHeight, 100);
+        }
+        
+        // 页面加载时设置
+        fixViewportHeight();
+        
+        // 监听窗口大小变化（包括工具栏隐藏/显示）
+        window.addEventListener('resize', debouncedFixViewportHeight);
+        window.addEventListener('orientationchange', function() {
+            // 延迟执行，等待浏览器完成方向变化
+            setTimeout(debouncedFixViewportHeight, 300);
+        });
+        
+        // 检测Via浏览器等全屏模式
+        function detectFullscreenBrowser() {
+            const isFullscreen = window.navigator.standalone || 
+                                 window.matchMedia('(display-mode: fullscreen)').matches ||
+                                 window.innerHeight === screen.height;
+            
+            if (isFullscreen) {
+                document.body.classList.add('fullscreen-browser');
+            }
+        }
+        
+        detectFullscreenBrowser();
+        
         // 搜索功能
         document.getElementById('searchInput').addEventListener('input', function(e) {
             const searchTerm = e.target.value.toLowerCase();
@@ -966,6 +1113,9 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             
             // 锁定页面滚动
             document.body.classList.add('modal-open');
+            
+            // 修复移动端浏览器视口高度问题
+            fixViewportHeight();
             
             // 显示加载模态框
             loadingModal.classList.add('show');
