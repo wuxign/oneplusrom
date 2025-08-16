@@ -68,7 +68,7 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OnePlus ROM 数据库</title>
+    <title>OnePlus ROM</title>
     <link rel="icon" type="image/png" href="./ico.png">
     <link rel="shortcut icon" type="image/png" href="./ico.png">
     <link rel="apple-touch-icon" href="./ico.png">
@@ -962,7 +962,7 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
 <body>
     <div class="container">
         <div class="header">
-            <h1>OnePlus ROM 数据库</h1>
+            <h1>OnePlus ROM</h1>
         </div>
         
 
