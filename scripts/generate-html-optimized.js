@@ -173,6 +173,21 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             .modal-body {
                 contain: none;
                 transform: none;
+                will-change: auto;
+            }
+            
+            .rom-item {
+                will-change: auto;
+                transition: none;
+            }
+            
+            .copy-button {
+                will-change: auto;
+                transition: none;
+            }
+            
+            .copy-button:hover {
+                transform: none;
             }
         }
         
@@ -646,6 +661,15 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             padding: var(--spacing-lg);
             max-height: 70vh;
             overflow-y: auto;
+            /* 性能优化 */
+            will-change: scroll-position;
+            contain: layout style paint;
+            transform: translateZ(0);
+            -webkit-overflow-scrolling: touch;
+            scroll-behavior: smooth;
+            /* 减少重绘 */
+            backface-visibility: hidden;
+            perspective: 1000px;
         }
         
         .modal-body::-webkit-scrollbar {
@@ -739,25 +763,27 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         }
         
         .rom-item {
-            background: var(--glass-bg);
-            backdrop-filter: blur(16px);
-            -webkit-backdrop-filter: blur(16px);
+            background: rgba(255, 255, 255, 0.06);
             border: 1px solid var(--glass-border);
             border-radius: var(--border-radius);
             padding: var(--spacing-lg);
             margin-bottom: var(--spacing-md);
-            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-            box-shadow: var(--glass-shadow);
+            transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
             overflow: visible;
             position: relative;
+            /* 性能优化 */
+            will-change: transform;
+            contain: layout;
+            transform: translateZ(0);
         }
         
         .rom-item:hover {
-            transform: translateY(-4px);
+            transform: translateY(-2px) translateZ(0);
             border-color: var(--accent-color);
             box-shadow: 
-                var(--glass-shadow),
-                0 16px 32px rgba(0, 212, 255, 0.15);
+                0 4px 16px rgba(0, 0, 0, 0.2),
+                0 8px 24px rgba(0, 212, 255, 0.1);
         }
         
         .rom-version {
@@ -776,9 +802,7 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         }
         
         .rom-toggle {
-            background: var(--glass-bg);
-            backdrop-filter: blur(8px);
-            -webkit-backdrop-filter: blur(8px);
+            background: rgba(255, 255, 255, 0.05);
             border: 1px solid var(--glass-border);
             border-radius: 8px;
             color: var(--text-secondary);
@@ -786,7 +810,7 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             font-size: 0.8rem;
             font-weight: 500;
             cursor: pointer;
-            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
             margin-left: var(--spacing-xs);
         }
         
@@ -829,47 +853,30 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         
         .copy-button {
             padding: var(--spacing-sm) var(--spacing-md);
-            background: var(--glass-bg);
-            backdrop-filter: blur(16px);
-            -webkit-backdrop-filter: blur(16px);
+            background: rgba(255, 255, 255, 0.06);
             border: 1px solid var(--glass-border);
             color: var(--text-primary);
             border-radius: var(--border-radius);
             cursor: pointer;
             font-size: 0.9rem;
             font-weight: 600;
-            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.15s ease;
             flex: none;
             width: 140px;
             text-align: center;
             white-space: nowrap;
-            box-shadow: var(--glass-shadow);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
             position: relative;
-            overflow: hidden;
-        }
-        
-        .copy-button::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: -100%;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(90deg, transparent, rgba(0,212,255,0.2), transparent);
-            transition: left 0.5s cubic-bezier(0.4, 0, 0.2, 1);
-        }
-        
-        .copy-button:hover::before {
-            left: 100%;
+            /* 性能优化 */
+            will-change: transform;
+            backface-visibility: hidden;
         }
         
         .copy-button:hover {
             border-color: var(--accent-color);
             color: var(--accent-color);
-            transform: translateY(-2px) scale(1.02);
-            box-shadow: 
-                var(--glass-shadow),
-                0 8px 25px rgba(0, 212, 255, 0.25);
+            background: rgba(0, 212, 255, 0.1);
+            transform: translateY(-1px) scale(1.01);
         }
         
         .copy-button.copied {
@@ -889,6 +896,34 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
                 --spacing-xl: 2rem;
                 --border-radius: 12px;
                 --border-radius-lg: 16px;
+            }
+            
+            /* 移动设备性能优化 */
+            .modal-body {
+                -webkit-overflow-scrolling: touch;
+                overscroll-behavior: none;
+            }
+            
+            .rom-item {
+                will-change: auto;
+                contain: layout;
+            }
+            
+            .rom-item:hover {
+                transform: none;
+                border-color: var(--glass-border);
+                box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+            }
+            
+            .copy-button {
+                will-change: auto;
+            }
+            
+            .copy-button:hover {
+                transform: none;
+                background: rgba(255, 255, 255, 0.06);
+                color: var(--text-primary);
+                border-color: var(--glass-border);
             }
             
             .container {
