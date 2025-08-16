@@ -2,13 +2,13 @@
     "model": "一加 ACE 3 Pro",
     "roms": [
         {
-            "version": "一加 ACE 3 Pro/ColorOS PJX110_15.0.0.840(CN01) C.32",
+            "version": "ColorOS PJX110_15.0.0.840(CN01) C.32",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b8747910cfbf7b3ea7e852a8b6fa3532/component-ota/25/07/14/75a28092ccc947b291856892b258a98d.zip"
             ]
         },
         {
-            "version": "一加 ACE 3 Pro/ColorOS PJX110_15.0.0.831(CN01) C.34",
+            "version": "ColorOS PJX110_15.0.0.831(CN01) C.34",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-c8508f8b1a16b0a4ea1be931d1a5d844/component-ota/25/06/26/451954f641dc4933851542208b0fdf47.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-c8508f8b1a16b0a4ea1be931d1a5d844/component-ota/25/06/26/451954f641dc4933851542208b0fdf47.zip",
@@ -22,7 +22,7 @@
             ]
         },
         {
-            "version": "一加 ACE 3 Pro/ColorOS PJX110_15.0.0.830(CN01) C.33",
+            "version": "ColorOS PJX110_15.0.0.830(CN01) C.33",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-5a3479d23a093b962b7929d6ac682a3b/component-ota/25/06/09/a304bd012ecc4cc59cfee9fd0a72c023.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-5a3479d23a093b962b7929d6ac682a3b/component-ota/25/06/09/a304bd012ecc4cc59cfee9fd0a72c023.zip",
@@ -36,7 +36,7 @@
             ]
         },
         {
-            "version": "一加 ACE 3 Pro/ColorOS PJX110_15.0.0.820(CN01) C.30",
+            "version": "ColorOS PJX110_15.0.0.820(CN01) C.30",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-eb6b0dd2e851ece50c900f17c10bd50e/component-ota/25/05/08/661896f2e4ed45f48236906fa425fb6b.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-eb6b0dd2e851ece50c900f17c10bd50e/component-ota/25/05/08/661896f2e4ed45f48236906fa425fb6b.zip",
@@ -50,7 +50,7 @@
             ]
         },
         {
-            "version": "一加 ACE 3 Pro/ColorOS PJX110_15.0.0.801(CN01) C.28",
+            "version": "ColorOS PJX110_15.0.0.801(CN01) C.28",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3caebf6b0d38f74b2a354e62ddf23ed1/component-ota/25/04/15/cd259763278d4f559611cd349d813144.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-3caebf6b0d38f74b2a354e62ddf23ed1/component-ota/25/04/15/cd259763278d4f559611cd349d813144.zip",
@@ -64,7 +64,7 @@
             ]
         },
         {
-            "version": "一加 ACE 3 Pro/ColorOS PJX110_15.0.0.703(CN01) C.25",
+            "version": "ColorOS PJX110_15.0.0.703(CN01) C.25",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-d6c331f8321e710a3f9da5b9a22690d9/component-ota/25/03/27/98ac33649c514b8cb5bfc5cf50bb4509.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-d6c331f8321e710a3f9da5b9a22690d9/component-ota/25/03/27/98ac33649c514b8cb5bfc5cf50bb4509.zip",
@@ -78,7 +78,7 @@
             ]
         },
         {
-            "version": "一加 ACE 3 Pro/ColorOS PJX110_15.0.0.701(CN01) C.23",
+            "version": "ColorOS PJX110_15.0.0.701(CN01) C.23",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-319f3cfa547dd5f6abdd0080b4a190f8/component-ota/25/03/15/63d9d910434d404ba6b58302d3ab2e54.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-319f3cfa547dd5f6abdd0080b4a190f8/component-ota/25/03/15/63d9d910434d404ba6b58302d3ab2e54.zip",
@@ -92,7 +92,7 @@
             ]
         },
         {
-            "version": "一加 ACE 3 Pro/ColorOS PJX110_15.0.0.600(CN01) C.22",
+            "version": "ColorOS PJX110_15.0.0.600(CN01) C.22",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-fb64ece1b9066590754ab22f152aa7b7/component-ota/25/02/20/f8a04de31b664b9e8398c91d57af3728.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-fb64ece1b9066590754ab22f152aa7b7/component-ota/25/02/20/f8a04de31b664b9e8398c91d57af3728.zip",
@@ -106,7 +106,7 @@
             ]
         },
         {
-            "version": "一加 ACE 3 Pro/ColorOS PJX110_15.0.0.500(CN01) C.21",
+            "version": "ColorOS PJX110_15.0.0.500(CN01) C.21",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-fb9a30edf5c0265945458d096b41ac92/component-ota/25/01/15/76b976c19a77438db30c1fccdcbb6e10.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-fb9a30edf5c0265945458d096b41ac92/component-ota/25/01/15/76b976c19a77438db30c1fccdcbb6e10.zip",
@@ -120,7 +120,7 @@
             ]
         },
         {
-            "version": "一加 ACE 3 Pro/ColorOS PJX110_15.0.0.401(CN01) C.20",
+            "version": "ColorOS PJX110_15.0.0.401(CN01) C.20",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-cdf5df365448c41cded3adbff16bbcb9/component-ota/24/12/18/13180a1cbb7b4f55a02e210488caec69.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-cdf5df365448c41cded3adbff16bbcb9/component-ota/24/12/18/13180a1cbb7b4f55a02e210488caec69.zip",
@@ -131,7 +131,7 @@
             ]
         },
         {
-            "version": "一加 ACE 3 Pro/ColorOS PJX110_14.1.0.510(CN01) A.41",
+            "version": "ColorOS PJX110_14.1.0.510(CN01) A.41",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-874b410246d7a9bdc63b500d7aeebe47/component-ota/24/10/24/bbfc4e2fcf734aab874d6787d15d558b.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-874b410246d7a9bdc63b500d7aeebe47/component-ota/24/10/24/bbfc4e2fcf734aab874d6787d15d558b.zip",
@@ -142,7 +142,7 @@
             ]
         },
         {
-            "version": "一加 ACE 3 Pro/ColorOS PJX110_14.1.0.502(CN01) A.38",
+            "version": "ColorOS PJX110_14.1.0.502(CN01) A.38",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-245147a2c62cd9d78c4291079b45c544/component-ota/24/09/25/116df1f1869e41de96761f1f292c8d80.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-245147a2c62cd9d78c4291079b45c544/component-ota/24/09/25/116df1f1869e41de96761f1f292c8d80.zip",
@@ -153,7 +153,7 @@
             ]
         },
         {
-            "version": "一加 ACE 3 Pro/ColorOS PJX110_14.1.0.404(CN01) A.36",
+            "version": "ColorOS PJX110_14.1.0.404(CN01) A.36",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-1ba252eeb1467023efbb635cfd6b2432/component-ota/24/09/05/2e04e85e245047de9cc4a640fcf1780b.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-1ba252eeb1467023efbb635cfd6b2432/component-ota/24/09/05/2e04e85e245047de9cc4a640fcf1780b.zip",
@@ -164,7 +164,7 @@
             ]
         },
         {
-            "version": "一加 ACE 3 Pro/ColorOS PJX110_14.1.0.403(CN01) A.35",
+            "version": "ColorOS PJX110_14.1.0.403(CN01) A.35",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b06826d367f2ad8fa1e8ea349a269258/component-ota/24/08/13/e3d55c3b72ef46b6ad5d383a37e71f5f.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-b06826d367f2ad8fa1e8ea349a269258/component-ota/24/08/13/e3d55c3b72ef46b6ad5d383a37e71f5f.zip",
@@ -175,7 +175,7 @@
             ]
         },
         {
-            "version": "一加 ACE 3 Pro/ColorOS PJX110_14.1.0.210(CN01) A.32",
+            "version": "ColorOS PJX110_14.1.0.210(CN01) A.32",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-811c1040cff6bb44ce1be28327e47339/component-ota/24/07/23/2c435d6e3f0d4dbe8b1c52fdf197c794.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-811c1040cff6bb44ce1be28327e47339/component-ota/24/07/23/2c435d6e3f0d4dbe8b1c52fdf197c794.zip",
@@ -186,7 +186,7 @@
             ]
         },
         {
-            "version": "一加 ACE 3 Pro/ColorOS PJX110_14.1.0.209(CN01) A.31",
+            "version": "ColorOS PJX110_14.1.0.209(CN01) A.31",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-dbe8ea56b310f9cc543029790f3865a6/component-ota/24/07/17/99de04e5f3704d49a4214be9f8d1e6eb.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-dbe8ea56b310f9cc543029790f3865a6/component-ota/24/07/17/99de04e5f3704d49a4214be9f8d1e6eb.zip",
@@ -197,7 +197,7 @@
             ]
         },
         {
-            "version": "一加 ACE 3 Pro/ColorOS PJX110_14.1.0.208(CN01) A.30",
+            "version": "ColorOS PJX110_14.1.0.208(CN01) A.30",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b746cb8b21da9b0ed279b3e97a8e9499/component-ota/24/07/11/fa00d05120a5492396b817d8be5cbc78.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-b746cb8b21da9b0ed279b3e97a8e9499/component-ota/24/07/11/fa00d05120a5492396b817d8be5cbc78.zip",
@@ -208,7 +208,7 @@
             ]
         },
         {
-            "version": "一加 ACE 3 Pro/ColorOS PJX110_14.1.0.205(CN01) A.27",
+            "version": "ColorOS PJX110_14.1.0.205(CN01) A.27",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f00fea26c047ad4063e7d3f700dc5bf6/component-ota/24/06/27/9b263af99fc941b2aaff846b5ebd4084.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-f00fea26c047ad4063e7d3f700dc5bf6/component-ota/24/06/27/9b263af99fc941b2aaff846b5ebd4084.zip",
@@ -219,7 +219,7 @@
             ]
         },
         {
-            "version": "一加 ACE 3 Pro/ColorOS PJX110_14.1.0.204(CN01) A.26",
+            "version": "ColorOS PJX110_14.1.0.204(CN01) A.26",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-4389ca2b1cc4aa10c775178c4edae79e/component-ota/24/06/25/33e6b8725c924367b8079b3add65a8db.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-4389ca2b1cc4aa10c775178c4edae79e/component-ota/24/06/25/33e6b8725c924367b8079b3add65a8db.zip",

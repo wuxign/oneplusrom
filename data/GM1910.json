@@ -2,56 +2,7 @@
     "model": "一加7 Pro",
     "roms": [
         {
-            "version": "一加7 Pro/氧OS 12.1 H.40",
-            "links": [
-                "https://gauss-otacostmanual-eu.allawnofs.com/remove-d74c973c240292cb011317bb07f424a2/component-ota/23/03/28/6d4604798d27450e8de05671d5effbae.zip",
-                "https://gauss-otacostmanual-in.allawnofs.com/remove-d74c973c240292cb011317bb07f424a2/component-ota/23/03/28/6d4604798d27450e8de05671d5effbae.zip",
-                "https://gauss-otacostmanual-sg.allawnofs.com/remove-d74c973c240292cb011317bb07f424a2/component-ota/23/03/28/6d4604798d27450e8de05671d5effbae.zip"
-            ]
-        },
-        {
-            "version": "一加7 Pro/氧OS 12.1 H.38",
-            "links": [
-                "https://gauss-otacostmanual-eu.allawnofs.com/remove-568fb260ee6a57e4e4a241587fee4e0e/component-ota/23/02/16/6c63289e5fb249b0b0a7bf67b28c326c.zip",
-                "https://gauss-otacostmanual-in.allawnofs.com/remove-568fb260ee6a57e4e4a241587fee4e0e/component-ota/23/02/16/6c63289e5fb249b0b0a7bf67b28c326c.zip",
-                "https://gauss-otacostmanual-sg.allawnofs.com/remove-568fb260ee6a57e4e4a241587fee4e0e/component-ota/23/02/16/6c63289e5fb249b0b0a7bf67b28c326c.zip"
-            ]
-        },
-        {
-            "version": "一加7 Pro/氧OS 12.1 H.32",
-            "links": [
-                "https://gauss-otacostmanual-eu.allawnofs.com/remove-bcdf72a07357e913a87445231bb67787/component-ota/22/12/26/59112b2996284650b1c4fd13ed6776c7.zip",
-                "https://gauss-otacostmanual-in.allawnofs.com/remove-bcdf72a07357e913a87445231bb67787/component-ota/22/12/26/59112b2996284650b1c4fd13ed6776c7.zip",
-                "https://gauss-otacostmanual-sg.allawnofs.com/remove-bcdf72a07357e913a87445231bb67787/component-ota/22/12/26/59112b2996284650b1c4fd13ed6776c7.zip"
-            ]
-        },
-        {
-            "version": "一加7 Pro/氧OS 12.1 H.31",
-            "links": [
-                "https://gauss-otacostmanual-sg.allawnofs.com/remove-6c01548bbf3ebab9ba34f38b1ef19dfe/ota/22/10/15/4a76f089-b533-4d78-be34-72778d66a7a3.zip"
-            ]
-        },
-        {
-            "version": "一加7 Pro/氧OS 11.0.9.1",
-            "links": [
-                "https://gauss-otacostmanual-sg.allawnofs.com/remove-33325826969665b5a648edd9420126c1/ota/22/06/27/fc21c371-da9d-4a18-8bd9-914dcbc5e8b9.zip",
-                "https://gauss-otacostmanual-sg.allawnofs.com/ota/22/06/27/fc21c371-da9d-4a18-8bd9-914dcbc5e8b9.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-33325826969665b5a648edd9420126c1/ota/22/06/27/fc21c371-da9d-4a18-8bd9-914dcbc5e8b9.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/ota/22/06/27/fc21c371-da9d-4a18-8bd9-914dcbc5e8b9.zip",
-                "https://gauss-otacostmanual-in.allawnofs.com/remove-33325826969665b5a648edd9420126c1/ota/22/06/27/fc21c371-da9d-4a18-8bd9-914dcbc5e8b9.zip",
-                "https://gauss-otacostmanual-eu.allawnofs.com/remove-33325826969665b5a648edd9420126c1/ota/22/06/27/fc21c371-da9d-4a18-8bd9-914dcbc5e8b9.zip"
-            ]
-        },
-        {
-            "version": "一加7 Pro/OxygenOS_GM1911 12.1 H.41_GLO",
-            "links": [
-                "https://gauss-otacostmanual-eu.allawnofs.com/remove-3c5b8c00b8ea6fc68e1738ceb3ef2467/ota/23/03/31/0aed83c2-3b6a-4c32-bfea-569f02f73f08.zip",
-                "https://gauss-otacostmanual-in.allawnofs.com/remove-3c5b8c00b8ea6fc68e1738ceb3ef2467/ota/23/03/31/0aed83c2-3b6a-4c32-bfea-569f02f73f08.zip",
-                "https://gauss-otacostmanual-sg.allawnofs.com/remove-3c5b8c00b8ea6fc68e1738ceb3ef2467/ota/23/03/31/0aed83c2-3b6a-4c32-bfea-569f02f73f08.zip"
-            ]
-        },
-        {
-            "version": "一加7 Pro/ColorOS 12.1 H.40",
+            "version": "ColorOS 12.1 H.40",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-4d65db050d52e76f5a61df49d02d417c/component-ota/23/03/28/b01e0f8dab434b79b884b1c31b11ccca.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-4d65db050d52e76f5a61df49d02d417c/component-ota/23/03/28/b01e0f8dab434b79b884b1c31b11ccca.zip",
@@ -62,7 +13,7 @@
             ]
         },
         {
-            "version": "一加7 Pro/ColorOS 12.1 H.36",
+            "version": "ColorOS 12.1 H.36",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-c43b4cf92b0825f52d94666ca3dceb9a/component-ota/23/02/01/24fef65cdbe442f88dd4248976aefe8b.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-c43b4cf92b0825f52d94666ca3dceb9a/component-ota/23/02/01/24fef65cdbe442f88dd4248976aefe8b.zip",
@@ -73,7 +24,7 @@
             ]
         },
         {
-            "version": "一加7 Pro/ColorOS 12.1 H.32",
+            "version": "ColorOS 12.1 H.32",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-5d6a6f075be494fa7818fb52bc7ebfcd/component-ota/22/12/26/dd55197eec2a42528731beb01731067c.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-5d6a6f075be494fa7818fb52bc7ebfcd/component-ota/22/12/26/dd55197eec2a42528731beb01731067c.zip",
@@ -84,7 +35,7 @@
             ]
         },
         {
-            "version": "一加7 Pro/ColorOS 12.1 H.30",
+            "version": "ColorOS 12.1 H.30",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-eff87a4e45de5ee65d045932210db66b/component-ota/22/10/14/7e3a37fb542046a4b5c43e6d0ee33366.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-eff87a4e45de5ee65d045932210db66b/component-ota/22/10/14/7e3a37fb542046a4b5c43e6d0ee33366.zip",
@@ -95,7 +46,7 @@
             ]
         },
         {
-            "version": "一加7 Pro/ColorOS 12.1 H.28",
+            "version": "ColorOS 12.1 H.28",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-abaf832b4d763d3aceecc96b6e082dcf/component-ota/22/10/08/45adcb805e284a42b65085f14aa4d111.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-abaf832b4d763d3aceecc96b6e082dcf/component-ota/22/10/08/45adcb805e284a42b65085f14aa4d111.zip",
@@ -106,7 +57,7 @@
             ]
         },
         {
-            "version": "一加7 Pro/ColorOS 12.1 H.26",
+            "version": "ColorOS 12.1 H.26",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-fea9ff7029fdc91827afe8afe3874d54/component-ota/22/08/03/7d6505ca7fe44ec787a25196e62252fd.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-fea9ff7029fdc91827afe8afe3874d54/component-ota/22/08/03/7d6505ca7fe44ec787a25196e62252fd.zip",
@@ -117,14 +68,14 @@
             ]
         },
         {
-            "version": "一加7 Pro/ColorOS 12.1 H.24",
+            "version": "ColorOS 12.1 H.24",
             "links": [
                 "https://componentota-auto-cn.allawnfs.comcomponent-ota/22/07/19/042987a8b3d444259194adeef127327b.zip",
                 "https://componentota-manual-cn.allawnfs.com/component-ota/22/07/19/042987a8b3d444259194adeef127327b.zip"
             ]
         },
         {
-            "version": "一加7 Pro/ColorOS 12.1 H.20",
+            "version": "ColorOS 12.1 H.20",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-1e300c97f1f1d208602225a4a1058f19/component-ota/22/06/18/20b8b038f8f1411fac9163d2b7cd9d3f.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-1e300c97f1f1d208602225a4a1058f19/component-ota/22/06/18/20b8b038f8f1411fac9163d2b7cd9d3f.zip",
@@ -135,7 +86,7 @@
             ]
         },
         {
-            "version": "一加7 Pro/ColorOS 12.1 H.18",
+            "version": "ColorOS 12.1 H.18",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-008b8308839358fd7c9ee57361022fa2/component-ota/22/06/09/ffc3736c39784a188e76645f660558a3.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-008b8308839358fd7c9ee57361022fa2/component-ota/22/06/09/ffc3736c39784a188e76645f660558a3.zip",
@@ -144,9 +95,58 @@
             ]
         },
         {
-            "version": "一加7 Pro/ColorOS 12.1 H.16",
+            "version": "ColorOS 12.1 H.16",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f8f20161af33f0f0842387d2d249f115/component-ota/22/06/07/b510ab57d0c541818ad86de4c245fc89.zip"
+            ]
+        },
+        {
+            "version": "氧OS 12.1 H.40",
+            "links": [
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-d74c973c240292cb011317bb07f424a2/component-ota/23/03/28/6d4604798d27450e8de05671d5effbae.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-d74c973c240292cb011317bb07f424a2/component-ota/23/03/28/6d4604798d27450e8de05671d5effbae.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-d74c973c240292cb011317bb07f424a2/component-ota/23/03/28/6d4604798d27450e8de05671d5effbae.zip"
+            ]
+        },
+        {
+            "version": "氧OS 12.1 H.38",
+            "links": [
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-568fb260ee6a57e4e4a241587fee4e0e/component-ota/23/02/16/6c63289e5fb249b0b0a7bf67b28c326c.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-568fb260ee6a57e4e4a241587fee4e0e/component-ota/23/02/16/6c63289e5fb249b0b0a7bf67b28c326c.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-568fb260ee6a57e4e4a241587fee4e0e/component-ota/23/02/16/6c63289e5fb249b0b0a7bf67b28c326c.zip"
+            ]
+        },
+        {
+            "version": "氧OS 12.1 H.32",
+            "links": [
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-bcdf72a07357e913a87445231bb67787/component-ota/22/12/26/59112b2996284650b1c4fd13ed6776c7.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-bcdf72a07357e913a87445231bb67787/component-ota/22/12/26/59112b2996284650b1c4fd13ed6776c7.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-bcdf72a07357e913a87445231bb67787/component-ota/22/12/26/59112b2996284650b1c4fd13ed6776c7.zip"
+            ]
+        },
+        {
+            "version": "氧OS 12.1 H.31",
+            "links": [
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-6c01548bbf3ebab9ba34f38b1ef19dfe/ota/22/10/15/4a76f089-b533-4d78-be34-72778d66a7a3.zip"
+            ]
+        },
+        {
+            "version": "氧OS 11.0.9.1",
+            "links": [
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-33325826969665b5a648edd9420126c1/ota/22/06/27/fc21c371-da9d-4a18-8bd9-914dcbc5e8b9.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/ota/22/06/27/fc21c371-da9d-4a18-8bd9-914dcbc5e8b9.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-33325826969665b5a648edd9420126c1/ota/22/06/27/fc21c371-da9d-4a18-8bd9-914dcbc5e8b9.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/ota/22/06/27/fc21c371-da9d-4a18-8bd9-914dcbc5e8b9.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-33325826969665b5a648edd9420126c1/ota/22/06/27/fc21c371-da9d-4a18-8bd9-914dcbc5e8b9.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-33325826969665b5a648edd9420126c1/ota/22/06/27/fc21c371-da9d-4a18-8bd9-914dcbc5e8b9.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS_GM1911 12.1 H.41_GLO",
+            "links": [
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-3c5b8c00b8ea6fc68e1738ceb3ef2467/ota/23/03/31/0aed83c2-3b6a-4c32-bfea-569f02f73f08.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-3c5b8c00b8ea6fc68e1738ceb3ef2467/ota/23/03/31/0aed83c2-3b6a-4c32-bfea-569f02f73f08.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-3c5b8c00b8ea6fc68e1738ceb3ef2467/ota/23/03/31/0aed83c2-3b6a-4c32-bfea-569f02f73f08.zip"
             ]
         }
     ]

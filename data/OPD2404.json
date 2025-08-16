@@ -2,115 +2,19 @@
     "model": "一加 Pad Pro",
     "roms": [
         {
-            "version": "一加 Pad Pro/OxygenOS OPD2403_15.0.0.820(EX01) C.21_IN",
-            "links": [
-                "https://gauss-opexcostmanual-in.allawnofs.com/remove-9ed992fa9bbb106687828670a89cc854/component-ota/25/04/25/79bc69f372ac4512a7bc0511554bc04a.zip",
-                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-9ed992fa9bbb106687828670a89cc854/component-ota/25/04/25/79bc69f372ac4512a7bc0511554bc04a.zip",
-                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-9ed992fa9bbb106687828670a89cc854/component-ota/25/04/25/79bc69f372ac4512a7bc0511554bc04a.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-9ed992fa9bbb106687828670a89cc854/component-ota/25/04/25/79bc69f372ac4512a7bc0511554bc04a.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-9ed992fa9bbb106687828670a89cc854/component-ota/25/04/25/79bc69f372ac4512a7bc0511554bc04a.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-9ed992fa9bbb106687828670a89cc854/component-ota/25/04/25/79bc69f372ac4512a7bc0511554bc04a.zip",
-                "https://gauss-otacostmanual-eu.allawnofs.com/remove-9ed992fa9bbb106687828670a89cc854/component-ota/25/04/25/79bc69f372ac4512a7bc0511554bc04a.zip",
-                "https://gauss-otacostmanual-in.allawnofs.com/remove-9ed992fa9bbb106687828670a89cc854/component-ota/25/04/25/79bc69f372ac4512a7bc0511554bc04a.zip",
-                "https://gauss-otacostmanual-sg.allawnofs.com/remove-9ed992fa9bbb106687828670a89cc854/component-ota/25/04/25/79bc69f372ac4512a7bc0511554bc04a.zip"
-            ]
-        },
-        {
-            "version": "一加 Pad Pro/OxygenOS OPD2403_15.0.0.820(EX01) C.21_GLO",
-            "links": [
-                "https://gauss-opexcostmanual-in.allawnofs.com/remove-d36f71ff9609a67a97ea436f2b236758/component-ota/25/04/25/c4ae74a287da4797a8b04e7faecec623.zip",
-                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-d36f71ff9609a67a97ea436f2b236758/component-ota/25/04/25/c4ae74a287da4797a8b04e7faecec623.zip",
-                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-d36f71ff9609a67a97ea436f2b236758/component-ota/25/04/25/c4ae74a287da4797a8b04e7faecec623.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-d36f71ff9609a67a97ea436f2b236758/component-ota/25/04/25/c4ae74a287da4797a8b04e7faecec623.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-d36f71ff9609a67a97ea436f2b236758/component-ota/25/04/25/c4ae74a287da4797a8b04e7faecec623.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-d36f71ff9609a67a97ea436f2b236758/component-ota/25/04/25/c4ae74a287da4797a8b04e7faecec623.zip",
-                "https://gauss-otacostmanual-eu.allawnofs.com/remove-d36f71ff9609a67a97ea436f2b236758/component-ota/25/04/25/c4ae74a287da4797a8b04e7faecec623.zip",
-                "https://gauss-otacostmanual-in.allawnofs.com/remove-d36f71ff9609a67a97ea436f2b236758/component-ota/25/04/25/c4ae74a287da4797a8b04e7faecec623.zip",
-                "https://gauss-otacostmanual-sg.allawnofs.com/remove-d36f71ff9609a67a97ea436f2b236758/component-ota/25/04/25/c4ae74a287da4797a8b04e7faecec623.zip"
-            ]
-        },
-        {
-            "version": "一加 Pad Pro/OxygenOS OPD2403_15.0.0.820(EX01) C.21_EEA",
-            "links": [
-                "https://gauss-opexcostmanual-in.allawnofs.com/remove-53c065de7dcfa27b78ea741880fffeef/component-ota/25/04/25/4117d41bf9b14ffd803abbb80ae79e49.zip",
-                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-53c065de7dcfa27b78ea741880fffeef/component-ota/25/04/25/4117d41bf9b14ffd803abbb80ae79e49.zip",
-                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-53c065de7dcfa27b78ea741880fffeef/component-ota/25/04/25/4117d41bf9b14ffd803abbb80ae79e49.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-53c065de7dcfa27b78ea741880fffeef/component-ota/25/04/25/4117d41bf9b14ffd803abbb80ae79e49.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-53c065de7dcfa27b78ea741880fffeef/component-ota/25/04/25/4117d41bf9b14ffd803abbb80ae79e49.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-53c065de7dcfa27b78ea741880fffeef/component-ota/25/04/25/4117d41bf9b14ffd803abbb80ae79e49.zip",
-                "https://gauss-otacostmanual-eu.allawnofs.com/remove-53c065de7dcfa27b78ea741880fffeef/component-ota/25/04/25/4117d41bf9b14ffd803abbb80ae79e49.zip",
-                "https://gauss-otacostmanual-in.allawnofs.com/remove-53c065de7dcfa27b78ea741880fffeef/component-ota/25/04/25/4117d41bf9b14ffd803abbb80ae79e49.zip",
-                "https://gauss-otacostmanual-sg.allawnofs.com/remove-53c065de7dcfa27b78ea741880fffeef/component-ota/25/04/25/4117d41bf9b14ffd803abbb80ae79e49.zip"
-            ]
-        },
-        {
-            "version": "一加 Pad Pro/OxygenOS OPD2403_15.0.0.202(EX01) C.11_IN",
-            "links": [
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-6d4c96ad3574e653c8c2f09ac8a90323/component-ota/24/11/20/5d3551848471420b9609cf12ec26fcf1.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-6d4c96ad3574e653c8c2f09ac8a90323/component-ota/24/11/20/5d3551848471420b9609cf12ec26fcf1.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-6d4c96ad3574e653c8c2f09ac8a90323/component-ota/24/11/20/5d3551848471420b9609cf12ec26fcf1.zip"
-            ]
-        },
-        {
-            "version": "一加 Pad Pro/OxygenOS OPD2403_14.1.0.602(EX01) A.54_GLO",
-            "links": [
-                "https://gauss-opexcostmanual-in.allawnofs.com/remove-c1d28ddeec663d0f79229f327806b014/component-ota/24/10/29/ecf5b372f09e4245b11602d53e39ea87.zip",
-                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-c1d28ddeec663d0f79229f327806b014/component-ota/24/10/29/ecf5b372f09e4245b11602d53e39ea87.zip",
-                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-c1d28ddeec663d0f79229f327806b014/component-ota/24/10/29/ecf5b372f09e4245b11602d53e39ea87.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-c1d28ddeec663d0f79229f327806b014/component-ota/24/10/29/ecf5b372f09e4245b11602d53e39ea87.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-c1d28ddeec663d0f79229f327806b014/component-ota/24/10/29/ecf5b372f09e4245b11602d53e39ea87.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-c1d28ddeec663d0f79229f327806b014/component-ota/24/10/29/ecf5b372f09e4245b11602d53e39ea87.zip",
-                "https://gauss-otacostmanual-eu.allawnofs.com/remove-c1d28ddeec663d0f79229f327806b014/component-ota/24/10/29/ecf5b372f09e4245b11602d53e39ea87.zip",
-                "https://gauss-otacostmanual-in.allawnofs.com/remove-c1d28ddeec663d0f79229f327806b014/component-ota/24/10/29/ecf5b372f09e4245b11602d53e39ea87.zip",
-                "https://gauss-otacostmanual-sg.allawnofs.com/remove-c1d28ddeec663d0f79229f327806b014/component-ota/24/10/29/ecf5b372f09e4245b11602d53e39ea87.zip"
-            ]
-        },
-        {
-            "version": "一加 Pad Pro/OxygenOS OPD2403_14.1.0.233(EX01) A.41_IN",
-            "links": [
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-bf42d2500588fd8ee0af9aaef3f4ffd5/component-ota/24/08/09/1d5a7c53308d4974b1090ae590c5d92e.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-bf42d2500588fd8ee0af9aaef3f4ffd5/component-ota/24/08/09/1d5a7c53308d4974b1090ae590c5d92e.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-bf42d2500588fd8ee0af9aaef3f4ffd5/component-ota/24/08/09/1d5a7c53308d4974b1090ae590c5d92e.zip"
-            ]
-        },
-        {
-            "version": "一加 Pad Pro/OxygenOS OPD2403_14.1.0.229(EX01) A.37_IN",
-            "links": [
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-df313c21563f12fe62ea96a580fe0291/component-ota/24/07/23/69507f91ddee4aaca0a07da381e00c6a.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-df313c21563f12fe62ea96a580fe0291/component-ota/24/07/23/69507f91ddee4aaca0a07da381e00c6a.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-df313c21563f12fe62ea96a580fe0291/component-ota/24/07/23/69507f91ddee4aaca0a07da381e00c6a.zip"
-            ]
-        },
-        {
-            "version": "一加 Pad Pro/OxygenOS OPD2403_14.1.0.229(EX01) A.37_GLO",
-            "links": [
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-6f5a6ee83e8d6de9fdce0d47fd975642/component-ota/24/07/23/1991116f65b84effac07648fcef2f106.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-6f5a6ee83e8d6de9fdce0d47fd975642/component-ota/24/07/23/1991116f65b84effac07648fcef2f106.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-6f5a6ee83e8d6de9fdce0d47fd975642/component-ota/24/07/23/1991116f65b84effac07648fcef2f106.zip"
-            ]
-        },
-        {
-            "version": "一加 Pad Pro/OxygenOS OPD2403_14.1.0.229(EX01) A.37_EEA",
-            "links": [
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-0c697b558faee57b8db3327784222ad0/component-ota/24/07/23/085327c443f74597bfca5d8432177ca4.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-0c697b558faee57b8db3327784222ad0/component-ota/24/07/23/085327c443f74597bfca5d8432177ca4.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-0c697b558faee57b8db3327784222ad0/component-ota/24/07/23/085327c443f74597bfca5d8432177ca4.zip"
-            ]
-        },
-        {
-            "version": "一加OnePlus Pad Pro/ColorOS OPD2404_15.0.0.1103(CN01) C.23",
+            "version": "ColorOS OPD2404_15.0.0.1103(CN01) C.23",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-17f241d00adc51731306992bc71c1ab4/component-ota/25/07/24/3f6538f591ca4fcaad96adc267405769.zip"
             ]
         },
         {
-            "version": "一加OnePlus Pad Pro/ColorOS OPD2404_15.0.0.1101(CN01) C.22",
+            "version": "ColorOS OPD2404_15.0.0.1101(CN01) C.22",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-382d57ca0e3d065da856091bd72f7062/component-ota/25/07/11/3ecc2d006b244be885f752491da159b1.zip"
             ]
         },
         {
-            "version": "一加 Pad Pro/ColorOS OPD2404_15.0.0.820(CN01) C.21",
+            "version": "ColorOS OPD2404_15.0.0.820(CN01) C.21",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-e3cdff5c22118c303a1503dc70fa401f/component-ota/25/04/25/156c48d112914c48ba0c4a987fdd786b.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-e3cdff5c22118c303a1503dc70fa401f/component-ota/25/04/25/156c48d112914c48ba0c4a987fdd786b.zip",
@@ -124,7 +28,7 @@
             ]
         },
         {
-            "version": "一加 Pad Pro/ColorOS OPD2404_15.0.0.801(CN01) C.19",
+            "version": "ColorOS OPD2404_15.0.0.801(CN01) C.19",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-9eb38c0cfdb1a9217f30a94566384e9e/component-ota/25/04/11/1dece277db2d495b976f97cea2a53d36.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-9eb38c0cfdb1a9217f30a94566384e9e/component-ota/25/04/11/1dece277db2d495b976f97cea2a53d36.zip",
@@ -138,7 +42,7 @@
             ]
         },
         {
-            "version": "一加 Pad Pro/ColorOS OPD2404_15.0.0.701(CN01) C.18",
+            "version": "ColorOS OPD2404_15.0.0.701(CN01) C.18",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-0a20eb6e19b49002734f194ea56845aa/component-ota/25/03/11/4e724736ccfe4f03a6e122f0dafae155.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-0a20eb6e19b49002734f194ea56845aa/component-ota/25/03/11/4e724736ccfe4f03a6e122f0dafae155.zip",
@@ -152,7 +56,7 @@
             ]
         },
         {
-            "version": "一加 Pad Pro/ColorOS OPD2404_15.0.0.601(CN01) C.17",
+            "version": "ColorOS OPD2404_15.0.0.601(CN01) C.17",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-784268a4ebe6f8a66439f2c5464c9a53/component-ota/25/02/22/2afb1b55d11a4e918c4e330885d9021d.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-784268a4ebe6f8a66439f2c5464c9a53/component-ota/25/02/22/2afb1b55d11a4e918c4e330885d9021d.zip",
@@ -166,7 +70,7 @@
             ]
         },
         {
-            "version": "一加 Pad Pro/ColorOS OPD2404_15.0.0.403(CN01) C.15",
+            "version": "ColorOS OPD2404_15.0.0.403(CN01) C.15",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-48446e9aaa7c5f7cbcb6ce8e2a8092eb/component-ota/25/01/15/760c0f8710f248cc9807c738f2d0e603.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-48446e9aaa7c5f7cbcb6ce8e2a8092eb/component-ota/25/01/15/760c0f8710f248cc9807c738f2d0e603.zip",
@@ -180,7 +84,7 @@
             ]
         },
         {
-            "version": "一加 Pad Pro/ColorOS OPD2404_15.0.0.202(CN01) C.11",
+            "version": "ColorOS OPD2404_15.0.0.202(CN01) C.11",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-461b9494e4de842e5872c05154eada39/component-ota/24/11/27/a50027899d7147d4a7a72ccfb57e77d0.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-461b9494e4de842e5872c05154eada39/component-ota/24/11/27/a50027899d7147d4a7a72ccfb57e77d0.zip",
@@ -191,7 +95,7 @@
             ]
         },
         {
-            "version": "一加 Pad Pro/ColorOS OPD2404_14.1.0.602(CN01) A.65",
+            "version": "ColorOS OPD2404_14.1.0.602(CN01) A.65",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-acbe8d46df71c729f3ff0797d07415fe/component-ota/24/10/25/1f486d919ce84b6cb180d06843dcf788.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-acbe8d46df71c729f3ff0797d07415fe/component-ota/24/10/25/1f486d919ce84b6cb180d06843dcf788.zip",
@@ -202,7 +106,7 @@
             ]
         },
         {
-            "version": "一加 Pad Pro/ColorOS OPD2404_14.1.0.502(CN01) A.59",
+            "version": "ColorOS OPD2404_14.1.0.502(CN01) A.59",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f57105f064d64a8a523b010e4abbe694/component-ota/24/09/13/4ab49260ff904f749ecd8b1bf1d6bb29.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-f57105f064d64a8a523b010e4abbe694/component-ota/24/09/13/4ab49260ff904f749ecd8b1bf1d6bb29.zip",
@@ -213,7 +117,7 @@
             ]
         },
         {
-            "version": "一加 Pad Pro/ColorOS OPD2404_14.1.0.402(CN01) A.54",
+            "version": "ColorOS OPD2404_14.1.0.402(CN01) A.54",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-70cb7514db5742cb6aebe3a1a669fca8/component-ota/24/08/23/c9367ce7ae1741fd99fa5ecf96f3cd11.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-70cb7514db5742cb6aebe3a1a669fca8/component-ota/24/08/23/c9367ce7ae1741fd99fa5ecf96f3cd11.zip",
@@ -230,7 +134,7 @@
             ]
         },
         {
-            "version": "一加 Pad Pro/ColorOS OPD2404_14.1.0.246(CN01) A.50",
+            "version": "ColorOS OPD2404_14.1.0.246(CN01) A.50",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-8b3f02a2eeea83b6deebbf222ea12ef5/component-ota/24/08/12/c7116dcbb1944edd9a132d73c6253348.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-8b3f02a2eeea83b6deebbf222ea12ef5/component-ota/24/08/12/c7116dcbb1944edd9a132d73c6253348.zip",
@@ -241,7 +145,7 @@
             ]
         },
         {
-            "version": "一加 Pad Pro/ColorOS OPD2404_14.1.0.241(CN01) A.46",
+            "version": "ColorOS OPD2404_14.1.0.241(CN01) A.46",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-0a7ff227987ed5d460ef4aca9288070c/component-ota/24/08/03/051aaaa64fba4b09809847b890125b84.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-0a7ff227987ed5d460ef4aca9288070c/component-ota/24/08/03/051aaaa64fba4b09809847b890125b84.zip",
@@ -252,7 +156,7 @@
             ]
         },
         {
-            "version": "一加 Pad Pro/ColorOS OPD2404_14.1.0.239(CN01) A.44",
+            "version": "ColorOS OPD2404_14.1.0.239(CN01) A.44",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-08a6d906f67b42658e7338222f2f681e/component-ota/24/07/23/61256489f7e141c8969add4eaeb60242.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-08a6d906f67b42658e7338222f2f681e/component-ota/24/07/23/61256489f7e141c8969add4eaeb60242.zip",
@@ -263,7 +167,7 @@
             ]
         },
         {
-            "version": "一加 Pad Pro/ColorOS OPD2404_14.1.0.237(CN01) A.42",
+            "version": "ColorOS OPD2404_14.1.0.237(CN01) A.42",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f40012853309af5b365846844d0458ef/component-ota/24/07/18/90115eb6422d450cb091d52eae99b76b.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-f40012853309af5b365846844d0458ef/component-ota/24/07/18/90115eb6422d450cb091d52eae99b76b.zip",
@@ -274,7 +178,7 @@
             ]
         },
         {
-            "version": "一加 Pad Pro/ColorOS OPD2404_14.1.0.233(CN01) A.38",
+            "version": "ColorOS OPD2404_14.1.0.233(CN01) A.38",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-8750c88aece03c146ae204e84873c405/component-ota/24/07/05/6a251d83c811420fa3bc4d1e69181118.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-8750c88aece03c146ae204e84873c405/component-ota/24/07/05/6a251d83c811420fa3bc4d1e69181118.zip",
@@ -285,7 +189,7 @@
             ]
         },
         {
-            "version": "一加 Pad Pro/ColorOS OPD2404_14.1.0.226(CN01) A.31",
+            "version": "ColorOS OPD2404_14.1.0.226(CN01) A.31",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f8de047e53a9b0257e3d1393c17f7cea/component-ota/24/06/22/9d02220d2534456b8ce76d0a538fcef5.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-f8de047e53a9b0257e3d1393c17f7cea/component-ota/24/06/22/9d02220d2534456b8ce76d0a538fcef5.zip",
@@ -293,6 +197,102 @@
                 "https://gauss-otacostauto-cn.allawnfs.com/remove-f8de047e53a9b0257e3d1393c17f7cea/component-ota/24/06/22/9d02220d2534456b8ce76d0a538fcef5.zip",
                 "https://componentota-manual-cn.allawnfs.com/component-ota/24/06/22/9d02220d2534456b8ce76d0a538fcef5.zip",
                 "https://componentota-auto-cn.allawnfs.com/component-ota/24/06/22/9d02220d2534456b8ce76d0a538fcef5.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS OPD2403_15.0.0.820(EX01) C.21_IN",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-9ed992fa9bbb106687828670a89cc854/component-ota/25/04/25/79bc69f372ac4512a7bc0511554bc04a.zip",
+                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-9ed992fa9bbb106687828670a89cc854/component-ota/25/04/25/79bc69f372ac4512a7bc0511554bc04a.zip",
+                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-9ed992fa9bbb106687828670a89cc854/component-ota/25/04/25/79bc69f372ac4512a7bc0511554bc04a.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-9ed992fa9bbb106687828670a89cc854/component-ota/25/04/25/79bc69f372ac4512a7bc0511554bc04a.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-9ed992fa9bbb106687828670a89cc854/component-ota/25/04/25/79bc69f372ac4512a7bc0511554bc04a.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-9ed992fa9bbb106687828670a89cc854/component-ota/25/04/25/79bc69f372ac4512a7bc0511554bc04a.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-9ed992fa9bbb106687828670a89cc854/component-ota/25/04/25/79bc69f372ac4512a7bc0511554bc04a.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-9ed992fa9bbb106687828670a89cc854/component-ota/25/04/25/79bc69f372ac4512a7bc0511554bc04a.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-9ed992fa9bbb106687828670a89cc854/component-ota/25/04/25/79bc69f372ac4512a7bc0511554bc04a.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS OPD2403_15.0.0.820(EX01) C.21_GLO",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-d36f71ff9609a67a97ea436f2b236758/component-ota/25/04/25/c4ae74a287da4797a8b04e7faecec623.zip",
+                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-d36f71ff9609a67a97ea436f2b236758/component-ota/25/04/25/c4ae74a287da4797a8b04e7faecec623.zip",
+                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-d36f71ff9609a67a97ea436f2b236758/component-ota/25/04/25/c4ae74a287da4797a8b04e7faecec623.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-d36f71ff9609a67a97ea436f2b236758/component-ota/25/04/25/c4ae74a287da4797a8b04e7faecec623.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-d36f71ff9609a67a97ea436f2b236758/component-ota/25/04/25/c4ae74a287da4797a8b04e7faecec623.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-d36f71ff9609a67a97ea436f2b236758/component-ota/25/04/25/c4ae74a287da4797a8b04e7faecec623.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-d36f71ff9609a67a97ea436f2b236758/component-ota/25/04/25/c4ae74a287da4797a8b04e7faecec623.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-d36f71ff9609a67a97ea436f2b236758/component-ota/25/04/25/c4ae74a287da4797a8b04e7faecec623.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-d36f71ff9609a67a97ea436f2b236758/component-ota/25/04/25/c4ae74a287da4797a8b04e7faecec623.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS OPD2403_15.0.0.820(EX01) C.21_EEA",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-53c065de7dcfa27b78ea741880fffeef/component-ota/25/04/25/4117d41bf9b14ffd803abbb80ae79e49.zip",
+                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-53c065de7dcfa27b78ea741880fffeef/component-ota/25/04/25/4117d41bf9b14ffd803abbb80ae79e49.zip",
+                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-53c065de7dcfa27b78ea741880fffeef/component-ota/25/04/25/4117d41bf9b14ffd803abbb80ae79e49.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-53c065de7dcfa27b78ea741880fffeef/component-ota/25/04/25/4117d41bf9b14ffd803abbb80ae79e49.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-53c065de7dcfa27b78ea741880fffeef/component-ota/25/04/25/4117d41bf9b14ffd803abbb80ae79e49.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-53c065de7dcfa27b78ea741880fffeef/component-ota/25/04/25/4117d41bf9b14ffd803abbb80ae79e49.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-53c065de7dcfa27b78ea741880fffeef/component-ota/25/04/25/4117d41bf9b14ffd803abbb80ae79e49.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-53c065de7dcfa27b78ea741880fffeef/component-ota/25/04/25/4117d41bf9b14ffd803abbb80ae79e49.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-53c065de7dcfa27b78ea741880fffeef/component-ota/25/04/25/4117d41bf9b14ffd803abbb80ae79e49.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS OPD2403_15.0.0.202(EX01) C.11_IN",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-6d4c96ad3574e653c8c2f09ac8a90323/component-ota/24/11/20/5d3551848471420b9609cf12ec26fcf1.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-6d4c96ad3574e653c8c2f09ac8a90323/component-ota/24/11/20/5d3551848471420b9609cf12ec26fcf1.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-6d4c96ad3574e653c8c2f09ac8a90323/component-ota/24/11/20/5d3551848471420b9609cf12ec26fcf1.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS OPD2403_14.1.0.602(EX01) A.54_GLO",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-c1d28ddeec663d0f79229f327806b014/component-ota/24/10/29/ecf5b372f09e4245b11602d53e39ea87.zip",
+                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-c1d28ddeec663d0f79229f327806b014/component-ota/24/10/29/ecf5b372f09e4245b11602d53e39ea87.zip",
+                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-c1d28ddeec663d0f79229f327806b014/component-ota/24/10/29/ecf5b372f09e4245b11602d53e39ea87.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-c1d28ddeec663d0f79229f327806b014/component-ota/24/10/29/ecf5b372f09e4245b11602d53e39ea87.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-c1d28ddeec663d0f79229f327806b014/component-ota/24/10/29/ecf5b372f09e4245b11602d53e39ea87.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-c1d28ddeec663d0f79229f327806b014/component-ota/24/10/29/ecf5b372f09e4245b11602d53e39ea87.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-c1d28ddeec663d0f79229f327806b014/component-ota/24/10/29/ecf5b372f09e4245b11602d53e39ea87.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-c1d28ddeec663d0f79229f327806b014/component-ota/24/10/29/ecf5b372f09e4245b11602d53e39ea87.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-c1d28ddeec663d0f79229f327806b014/component-ota/24/10/29/ecf5b372f09e4245b11602d53e39ea87.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS OPD2403_14.1.0.233(EX01) A.41_IN",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-bf42d2500588fd8ee0af9aaef3f4ffd5/component-ota/24/08/09/1d5a7c53308d4974b1090ae590c5d92e.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-bf42d2500588fd8ee0af9aaef3f4ffd5/component-ota/24/08/09/1d5a7c53308d4974b1090ae590c5d92e.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-bf42d2500588fd8ee0af9aaef3f4ffd5/component-ota/24/08/09/1d5a7c53308d4974b1090ae590c5d92e.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS OPD2403_14.1.0.229(EX01) A.37_IN",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-df313c21563f12fe62ea96a580fe0291/component-ota/24/07/23/69507f91ddee4aaca0a07da381e00c6a.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-df313c21563f12fe62ea96a580fe0291/component-ota/24/07/23/69507f91ddee4aaca0a07da381e00c6a.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-df313c21563f12fe62ea96a580fe0291/component-ota/24/07/23/69507f91ddee4aaca0a07da381e00c6a.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS OPD2403_14.1.0.229(EX01) A.37_GLO",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-6f5a6ee83e8d6de9fdce0d47fd975642/component-ota/24/07/23/1991116f65b84effac07648fcef2f106.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-6f5a6ee83e8d6de9fdce0d47fd975642/component-ota/24/07/23/1991116f65b84effac07648fcef2f106.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-6f5a6ee83e8d6de9fdce0d47fd975642/component-ota/24/07/23/1991116f65b84effac07648fcef2f106.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS OPD2403_14.1.0.229(EX01) A.37_EEA",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-0c697b558faee57b8db3327784222ad0/component-ota/24/07/23/085327c443f74597bfca5d8432177ca4.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-0c697b558faee57b8db3327784222ad0/component-ota/24/07/23/085327c443f74597bfca5d8432177ca4.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-0c697b558faee57b8db3327784222ad0/component-ota/24/07/23/085327c443f74597bfca5d8432177ca4.zip"
             ]
         }
     ]

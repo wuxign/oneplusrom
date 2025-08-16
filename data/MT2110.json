@@ -2,179 +2,7 @@
     "model": "一加9RT",
     "roms": [
         {
-            "version": "一加9RT/氧OS MT2111_14.0.0.730(EX01) H.21",
-            "links": [
-                "https://gauss-opexcostmanual-in.allawnofs.com/remove-c48f9f4b42a739c17dd2695d8f7d50b2/component-ota/24/12/11/386bc89b3ab046498fa074cb191221f9.zip",
-                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-c48f9f4b42a739c17dd2695d8f7d50b2/component-ota/24/12/11/386bc89b3ab046498fa074cb191221f9.zip",
-                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-c48f9f4b42a739c17dd2695d8f7d50b2/component-ota/24/12/11/386bc89b3ab046498fa074cb191221f9.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-c48f9f4b42a739c17dd2695d8f7d50b2/component-ota/24/12/11/386bc89b3ab046498fa074cb191221f9.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-c48f9f4b42a739c17dd2695d8f7d50b2/component-ota/24/12/11/386bc89b3ab046498fa074cb191221f9.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-c48f9f4b42a739c17dd2695d8f7d50b2/component-ota/24/12/11/386bc89b3ab046498fa074cb191221f9.zip",
-                "https://gauss-otacostmanual-eu.allawnofs.com/remove-c48f9f4b42a739c17dd2695d8f7d50b2/component-ota/24/12/11/386bc89b3ab046498fa074cb191221f9.zip",
-                "https://gauss-otacostmanual-in.allawnofs.com/remove-c48f9f4b42a739c17dd2695d8f7d50b2/component-ota/24/12/11/386bc89b3ab046498fa074cb191221f9.zip",
-                "https://gauss-otacostmanual-sg.allawnofs.com/remove-c48f9f4b42a739c17dd2695d8f7d50b2/component-ota/24/12/11/386bc89b3ab046498fa074cb191221f9.zip"
-            ]
-        },
-        {
-            "version": "一加9RT/氧OS MT2111_14.0.0.720(EX01) H.20",
-            "links": [
-                "https://gauss-opexcostmanual-in.allawnofs.com/remove-437db5098703eea463c8728b518825d3/component-ota/24/10/17/1a8e8993f6bc4c7ab89eb6ec63af3144.zip",
-                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-437db5098703eea463c8728b518825d3/component-ota/24/10/17/1a8e8993f6bc4c7ab89eb6ec63af3144.zip",
-                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-437db5098703eea463c8728b518825d3/component-ota/24/10/17/1a8e8993f6bc4c7ab89eb6ec63af3144.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-437db5098703eea463c8728b518825d3/component-ota/24/10/17/1a8e8993f6bc4c7ab89eb6ec63af3144.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-437db5098703eea463c8728b518825d3/component-ota/24/10/17/1a8e8993f6bc4c7ab89eb6ec63af3144.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-437db5098703eea463c8728b518825d3/component-ota/24/10/17/1a8e8993f6bc4c7ab89eb6ec63af3144.zip",
-                "https://gauss-otacostmanual-eu.allawnofs.com/remove-437db5098703eea463c8728b518825d3/component-ota/24/10/17/1a8e8993f6bc4c7ab89eb6ec63af3144.zip",
-                "https://gauss-otacostmanual-in.allawnofs.com/remove-437db5098703eea463c8728b518825d3/component-ota/24/10/17/1a8e8993f6bc4c7ab89eb6ec63af3144.zip",
-                "https://gauss-otacostmanual-sg.allawnofs.com/remove-437db5098703eea463c8728b518825d3/component-ota/24/10/17/1a8e8993f6bc4c7ab89eb6ec63af3144.zip"
-            ]
-        },
-        {
-            "version": "一加9RT/氧OS MT2111_14.0.0.500(EX01) H.16",
-            "links": [
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-67d2445ba10a5d98f3bdbdbd53e20b9e/component-ota/24/02/27/e8b7216b4f9e4e558ca8196c2f15e9ac.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-67d2445ba10a5d98f3bdbdbd53e20b9e/component-ota/24/02/27/e8b7216b4f9e4e558ca8196c2f15e9ac.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-67d2445ba10a5d98f3bdbdbd53e20b9e/component-ota/24/02/27/e8b7216b4f9e4e558ca8196c2f15e9ac.zip"
-            ]
-        },
-        {
-            "version": "一加9RT/氧OS MT2111_14.0.0.212(EX01) H.15",
-            "links": [
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-51725c7403db66fce4e41aff01be0ecd/component-ota/24/01/19/846279f515934af4a20f996d9693fabd.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-51725c7403db66fce4e41aff01be0ecd/component-ota/24/01/19/846279f515934af4a20f996d9693fabd.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-51725c7403db66fce4e41aff01be0ecd/component-ota/24/01/19/846279f515934af4a20f996d9693fabd.zip"
-            ]
-        },
-        {
-            "version": "一加9RT/氧OS MT2111_14.0.0.211(EX01) H.14",
-            "links": [
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-2752a852589c91261dbdfaedc4106b1f/component-ota/23/12/21/e9a3399940fc43269b764aece31bfddc.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-2752a852589c91261dbdfaedc4106b1f/component-ota/23/12/21/e9a3399940fc43269b764aece31bfddc.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-2752a852589c91261dbdfaedc4106b1f/component-ota/23/12/21/e9a3399940fc43269b764aece31bfddc.zip"
-            ]
-        },
-        {
-            "version": "一加9RT/氧OS MT2111_14.0.0.1901(EX01) H.32",
-            "links": [
-                "https://gauss-opexcostmanual-in.allawnofs.com/remove-f0b1c7691c14222747975da128875375/component-ota/25/03/26/035a0c154c7f4a88a65f6ed11f74fab3.zip",
-                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-f0b1c7691c14222747975da128875375/component-ota/25/03/26/035a0c154c7f4a88a65f6ed11f74fab3.zip",
-                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-f0b1c7691c14222747975da128875375/component-ota/25/03/26/035a0c154c7f4a88a65f6ed11f74fab3.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-f0b1c7691c14222747975da128875375/component-ota/25/03/26/035a0c154c7f4a88a65f6ed11f74fab3.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-f0b1c7691c14222747975da128875375/component-ota/25/03/26/035a0c154c7f4a88a65f6ed11f74fab3.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-f0b1c7691c14222747975da128875375/component-ota/25/03/26/035a0c154c7f4a88a65f6ed11f74fab3.zip",
-                "https://gauss-otacostmanual-eu.allawnofs.com/remove-f0b1c7691c14222747975da128875375/component-ota/25/03/26/035a0c154c7f4a88a65f6ed11f74fab3.zip",
-                "https://gauss-otacostmanual-in.allawnofs.com/remove-f0b1c7691c14222747975da128875375/component-ota/25/03/26/035a0c154c7f4a88a65f6ed11f74fab3.zip",
-                "https://gauss-otacostmanual-sg.allawnofs.com/remove-f0b1c7691c14222747975da128875375/component-ota/25/03/26/035a0c154c7f4a88a65f6ed11f74fab3.zip"
-            ]
-        },
-        {
-            "version": "一加9RT/氧OS MT2111_13.1.0.595(EX01) F.27",
-            "links": [
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-38be45dbd35baffc709af5bcc9959a3d/component-ota/23/12/23/fd25100ddeb84dbbb40247c73ab66566.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-38be45dbd35baffc709af5bcc9959a3d/component-ota/23/12/23/fd25100ddeb84dbbb40247c73ab66566.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-38be45dbd35baffc709af5bcc9959a3d/component-ota/23/12/23/fd25100ddeb84dbbb40247c73ab66566.zip"
-            ]
-        },
-        {
-            "version": "一加9RT/氧OS MT2111_13.1.0.592(EX01) F.24",
-            "links": [
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-7da44e6139eaa3d2b06cc7cd9422186b/component-ota/23/09/07/97666e18c00c4d4f87465e7c0111d167.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-7da44e6139eaa3d2b06cc7cd9422186b/component-ota/23/09/07/97666e18c00c4d4f87465e7c0111d167.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-7da44e6139eaa3d2b06cc7cd9422186b/component-ota/23/09/07/97666e18c00c4d4f87465e7c0111d167.zip"
-            ]
-        },
-        {
-            "version": "一加9RT/氧OS MT2111_13.1.0.591(EX01) F.23",
-            "links": [
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-021e84d67d507b0fb9f442b75162d2aa/component-ota/23/08/30/5fa8f9a3e645475988bfa64721aa920c.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-021e84d67d507b0fb9f442b75162d2aa/component-ota/23/08/30/5fa8f9a3e645475988bfa64721aa920c.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-021e84d67d507b0fb9f442b75162d2aa/component-ota/23/08/30/5fa8f9a3e645475988bfa64721aa920c.zip"
-            ]
-        },
-        {
-            "version": "一加9RT/氧OS MT2111_13.1.0.590(EX01) F.22",
-            "links": [
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-de7dfc1aede52dbae65d6930b5f84d08/component-ota/23/07/26/1339c34a602141da9a4a1387d582ebcd.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-de7dfc1aede52dbae65d6930b5f84d08/component-ota/23/07/26/1339c34a602141da9a4a1387d582ebcd.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-de7dfc1aede52dbae65d6930b5f84d08/component-ota/23/07/26/1339c34a602141da9a4a1387d582ebcd.zip"
-            ]
-        },
-        {
-            "version": "一加9RT/氧OS MT2111_13.0.0 F.15",
-            "links": [
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-bbbc6b27ae050c587085f47926e00dc6/component-ota/23/03/22/c856d40b269c4985aec657ec073beec1.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-bbbc6b27ae050c587085f47926e00dc6/component-ota/23/03/22/c856d40b269c4985aec657ec073beec1.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-bbbc6b27ae050c587085f47926e00dc6/component-ota/23/03/22/c856d40b269c4985aec657ec073beec1.zip"
-            ]
-        },
-        {
-            "version": "一加9RT/氧OS MT2111_13.0.0 F.14",
-            "links": [
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-bf781b335a05a803100ca84305da709e/component-ota/23/02/06/c9973520c448450e876752480f75b896.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-bf781b335a05a803100ca84305da709e/component-ota/23/02/06/c9973520c448450e876752480f75b896.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-bf781b335a05a803100ca84305da709e/component-ota/23/02/06/c9973520c448450e876752480f75b896.zip"
-            ]
-        },
-        {
-            "version": "一加9RT/氧OS MT2111_13.0.0 F.12",
-            "links": [
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-290150a7fd49244a43db66e888d7ea56/component-ota/22/11/23/0351e83992ea4613a89be84ca4e6e0fa.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-290150a7fd49244a43db66e888d7ea56/component-ota/22/11/23/0351e83992ea4613a89be84ca4e6e0fa.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-290150a7fd49244a43db66e888d7ea56/component-ota/22/11/23/0351e83992ea4613a89be84ca4e6e0fa.zip"
-            ]
-        },
-        {
-            "version": "一加9RT/氧OS MT2111_13.0.0 F.11",
-            "links": [
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-a76ac0aa9e62e896e3b458a805c08890/component-ota/22/11/07/451a56b39ab04ff58fcbf11dba101c37.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-a76ac0aa9e62e896e3b458a805c08890/component-ota/22/11/07/451a56b39ab04ff58fcbf11dba101c37.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-a76ac0aa9e62e896e3b458a805c08890/component-ota/22/11/07/451a56b39ab04ff58fcbf11dba101c37.zip"
-            ]
-        },
-        {
-            "version": "一加9RT/氧OS MT2111_13.0.0 F.08",
-            "links": [
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-d71506555329407ad457ed1a4236b59b/component-ota/22/10/22/7f0c51967f1b47c096b57c1b3e6242a5.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-d71506555329407ad457ed1a4236b59b/component-ota/22/10/22/7f0c51967f1b47c096b57c1b3e6242a5.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-d71506555329407ad457ed1a4236b59b/component-ota/22/10/22/7f0c51967f1b47c096b57c1b3e6242a5.zip"
-            ]
-        },
-        {
-            "version": "一加9RT/氧OS MT2111_12.1 C.08",
-            "links": [
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-7203e2b7c40f0df6012a8b18c5340756/component-ota/22/11/03/029002eff77c495ba8edfa0be3118e64.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-7203e2b7c40f0df6012a8b18c5340756/component-ota/22/11/03/029002eff77c495ba8edfa0be3118e64.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-7203e2b7c40f0df6012a8b18c5340756/component-ota/22/11/03/029002eff77c495ba8edfa0be3118e64.zip"
-            ]
-        },
-        {
-            "version": "一加9RT/氧OS MT2111_12.1 C.07",
-            "links": [
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-2f73136625a684f47a3662c867766b51/component-ota/22/09/19/2a73ceb259ab4647bfc30b4cf1ec4db6.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-2f73136625a684f47a3662c867766b51/component-ota/22/09/19/2a73ceb259ab4647bfc30b4cf1ec4db6.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-2f73136625a684f47a3662c867766b51/component-ota/22/09/19/2a73ceb259ab4647bfc30b4cf1ec4db6.zip"
-            ]
-        },
-        {
-            "version": "一加9RT/氧OS MT2111_12.1 C.05",
-            "links": [
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-f71adb57a705c9ec774bbfa348a7cfcc/component-ota/22/07/31/74c3d4ddda6249238c930a143923ba3d.zip"
-            ]
-        },
-        {
-            "version": "一加9RT/氧OS MT2111_12.1 C.04",
-            "links": [
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-3ac236921cd334ed8859d9e49d6af698/component-ota/22/07/22/0c51ea802980454a87f5134d6cffefad.zip"
-            ]
-        },
-        {
-            "version": "一加9RT/氧OS MT2111_12.1 C.02",
-            "links": [
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-7f83fb81b1c70857b0108d2d3bee5b75/component-ota/22/06/02/6d24e55bf1ab4b4b9d2e26f5d4c05739.zip"
-            ]
-        },
-        {
-            "version": "一加9RT/ColorOS MT2110_14.0.0.740(CN01) H.22",
+            "version": "ColorOS MT2110_14.0.0.740(CN01) H.22",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-72a4e31ccbeb12aaaaeca85360403bd4/component-ota/25/02/14/d5a93f660be54184aee299c34ea369bb.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-72a4e31ccbeb12aaaaeca85360403bd4/component-ota/25/02/14/d5a93f660be54184aee299c34ea369bb.zip",
@@ -188,7 +16,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_14.0.0.720(CN01) H.21",
+            "version": "ColorOS MT2110_14.0.0.720(CN01) H.21",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-592b47b9be705166a3573673eca5e364/component-ota/24/10/17/c3426ad1d4244abdaf764a191e0bca7b.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-592b47b9be705166a3573673eca5e364/component-ota/24/10/17/c3426ad1d4244abdaf764a191e0bca7b.zip",
@@ -199,7 +27,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_14.0.0.710(CN01) H.19",
+            "version": "ColorOS MT2110_14.0.0.710(CN01) H.19",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-977d8af66acf3b5618b3a5153a73d055/component-ota/24/08/21/7a9f7cfe2d6644348e939a7e5f1fa9f7.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-977d8af66acf3b5618b3a5153a73d055/component-ota/24/08/21/7a9f7cfe2d6644348e939a7e5f1fa9f7.zip",
@@ -210,7 +38,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_14.0.0.700(CN01) H.18",
+            "version": "ColorOS MT2110_14.0.0.700(CN01) H.18",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-cd28f31c1137a01e911b38169c717c92/component-ota/24/06/21/805542e9b3ed45f59259033657c4589d.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-cd28f31c1137a01e911b38169c717c92/component-ota/24/06/21/805542e9b3ed45f59259033657c4589d.zip",
@@ -221,7 +49,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_14.0.0.600(CN01) H.17",
+            "version": "ColorOS MT2110_14.0.0.600(CN01) H.17",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7baead91c6d6d351b25e17dac25a63e4/component-ota/24/04/08/455b39c282b04a8d951fe791047ae249.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-7baead91c6d6d351b25e17dac25a63e4/component-ota/24/04/08/455b39c282b04a8d951fe791047ae249.zip",
@@ -232,7 +60,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_14.0.0.500(CN01) H.16",
+            "version": "ColorOS MT2110_14.0.0.500(CN01) H.16",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-8273e9d52cfac152948e2ab37fdc7826/component-ota/24/02/27/040383d39c81426e9629c0daf8a4e75c.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-8273e9d52cfac152948e2ab37fdc7826/component-ota/24/02/27/040383d39c81426e9629c0daf8a4e75c.zip",
@@ -243,7 +71,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_14.0.0.212(CN01) H.15",
+            "version": "ColorOS MT2110_14.0.0.212(CN01) H.15",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-8907d510787afed80b002773b1c3accc/component-ota/24/01/19/73ef3d4fbab641dbabb5d6ab4f82c429.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-8907d510787afed80b002773b1c3accc/component-ota/24/01/19/73ef3d4fbab641dbabb5d6ab4f82c429.zip",
@@ -254,7 +82,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_14.0.0.211(CN01) H.14",
+            "version": "ColorOS MT2110_14.0.0.211(CN01) H.14",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3648037cf5b4cfd39db39e2e6ca2c2fa/component-ota/23/12/21/f0590abf4b784a14976929d444bf8160.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-3648037cf5b4cfd39db39e2e6ca2c2fa/component-ota/23/12/21/f0590abf4b784a14976929d444bf8160.zip",
@@ -265,7 +93,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_14.0.0.2101(CN01) H.24",
+            "version": "ColorOS MT2110_14.0.0.2101(CN01) H.24",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-e612ada32db3a4f42455f99462620c6a/component-ota/25/06/20/b7f1a7d2104542309f3ecbbd04dbd159.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-e612ada32db3a4f42455f99462620c6a/component-ota/25/06/20/b7f1a7d2104542309f3ecbbd04dbd159.zip",
@@ -279,7 +107,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_14.0.0.1901(CN01) H.23",
+            "version": "ColorOS MT2110_14.0.0.1901(CN01) H.23",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-0736ee897842126f551de0319ec549d6/component-ota/25/03/28/f181aec9930541f19c0a839be24af279.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-0736ee897842126f551de0319ec549d6/component-ota/25/03/28/f181aec9930541f19c0a839be24af279.zip",
@@ -293,7 +121,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_13.1.0.195(CN01) F.26",
+            "version": "ColorOS MT2110_13.1.0.195(CN01) F.26",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-c0a1a34d1cd580d997e5351c45ab1adc/component-ota/23/12/23/2d719a1ac80c4d7aa22b017b4e371b1b.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-c0a1a34d1cd580d997e5351c45ab1adc/component-ota/23/12/23/2d719a1ac80c4d7aa22b017b4e371b1b.zip",
@@ -304,7 +132,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_13.1.0.193(CN01) F.24",
+            "version": "ColorOS MT2110_13.1.0.193(CN01) F.24",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-92cca84efe2e677548f80c3469cad246/component-ota/23/11/09/f2249e127db74dedad12ff26fdde3ba4.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-92cca84efe2e677548f80c3469cad246/component-ota/23/11/09/f2249e127db74dedad12ff26fdde3ba4.zip",
@@ -315,7 +143,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_13.1.0.192(CN01) F.23",
+            "version": "ColorOS MT2110_13.1.0.192(CN01) F.23",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-5e6d6baeaf553f4f88deb04b093390e1/component-ota/23/09/07/675550281e8c4098b188c434daf406c4.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-5e6d6baeaf553f4f88deb04b093390e1/component-ota/23/09/07/675550281e8c4098b188c434daf406c4.zip",
@@ -326,7 +154,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_13.1.0.191(CN01) F.22",
+            "version": "ColorOS MT2110_13.1.0.191(CN01) F.22",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f97f317405f477bcef2e3cdb5ef7fbe9/component-ota/23/08/30/b37335587da94f2e9958a3676f562f15.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-f97f317405f477bcef2e3cdb5ef7fbe9/component-ota/23/08/30/b37335587da94f2e9958a3676f562f15.zip",
@@ -337,7 +165,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_13.1.0.190(CN01) F.21",
+            "version": "ColorOS MT2110_13.1.0.190(CN01) F.21",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-cf7aa2d60c048659fb7f3c15f167636a/component-ota/23/07/26/23b7695837c9403a896bf7df483bc37e.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-cf7aa2d60c048659fb7f3c15f167636a/component-ota/23/07/26/23b7695837c9403a896bf7df483bc37e.zip",
@@ -348,7 +176,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_13.1.0.182(CN01) F.20",
+            "version": "ColorOS MT2110_13.1.0.182(CN01) F.20",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-82d1be36f82144ba1f4e0f5443bb2c58/component-ota/23/06/30/39d9e7115ec74ccaa6bb48e1d67c9b4f.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-82d1be36f82144ba1f4e0f5443bb2c58/component-ota/23/06/30/39d9e7115ec74ccaa6bb48e1d67c9b4f.zip",
@@ -359,7 +187,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_13.1.0.180(CN01) F.18",
+            "version": "ColorOS MT2110_13.1.0.180(CN01) F.18",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-2adfffc8584cdbb4fc9f7776fa7a550c/component-ota/23/06/12/caf42a69391c4a04bac5ce03319c382c.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-2adfffc8584cdbb4fc9f7776fa7a550c/component-ota/23/06/12/caf42a69391c4a04bac5ce03319c382c.zip",
@@ -370,7 +198,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_13.1.0.100(CN01) F.17",
+            "version": "ColorOS MT2110_13.1.0.100(CN01) F.17",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-64ee8a5493b454cf62cc7fb2cd38ee84/component-ota/23/05/06/f56a3c303eca43feaf79ff0df2f37539.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-64ee8a5493b454cf62cc7fb2cd38ee84/component-ota/23/05/06/f56a3c303eca43feaf79ff0df2f37539.zip",
@@ -381,7 +209,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_13.0.0 F.14",
+            "version": "ColorOS MT2110_13.0.0 F.14",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-844e9eeed6bc0448df44f2ab15df9d6b/component-ota/23/03/27/87b80de02a224ab38a5a87418a2b0649.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-844e9eeed6bc0448df44f2ab15df9d6b/component-ota/23/03/27/87b80de02a224ab38a5a87418a2b0649.zip",
@@ -392,7 +220,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_13.0.0 F.13",
+            "version": "ColorOS MT2110_13.0.0 F.13",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-8cfa8f27c8b47a1b5efa510fdb3baaf7/component-ota/23/02/06/e8a1426c68ec49c0be662d86b75c47ce.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-8cfa8f27c8b47a1b5efa510fdb3baaf7/component-ota/23/02/06/e8a1426c68ec49c0be662d86b75c47ce.zip",
@@ -403,7 +231,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_13.0.0 F.12",
+            "version": "ColorOS MT2110_13.0.0 F.12",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-2b6093d6feeb3ea002d5e286b77086e5/component-ota/22/12/16/457ab422f6374996adb326bce2a9ac9c.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-2b6093d6feeb3ea002d5e286b77086e5/component-ota/22/12/16/457ab422f6374996adb326bce2a9ac9c.zip",
@@ -414,7 +242,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_13.0.0 F.11",
+            "version": "ColorOS MT2110_13.0.0 F.11",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-91ca74d466ff7ffac160bc76b44412b4/component-ota/22/11/07/f1631a43fb4745ef9e78b1e71a50ac2a.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-91ca74d466ff7ffac160bc76b44412b4/component-ota/22/11/07/f1631a43fb4745ef9e78b1e71a50ac2a.zip",
@@ -425,7 +253,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_13.0.0 F.09",
+            "version": "ColorOS MT2110_13.0.0 F.09",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-0e277e579217290ebaf5f19a15131f89/component-ota/22/10/29/cbc0e19c77a641d5ad5300491efb1c8b.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-0e277e579217290ebaf5f19a15131f89/component-ota/22/10/29/cbc0e19c77a641d5ad5300491efb1c8b.zip",
@@ -436,7 +264,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_13.0.0 F.07",
+            "version": "ColorOS MT2110_13.0.0 F.07",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-2cf5520d57e161eecff494ba5d969c69/component-ota/22/10/11/7c0c58147f0c4e879aa521a2904fbebd.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-2cf5520d57e161eecff494ba5d969c69/component-ota/22/10/11/7c0c58147f0c4e879aa521a2904fbebd.zip",
@@ -447,7 +275,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_13.0.0 F.06",
+            "version": "ColorOS MT2110_13.0.0 F.06",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-8d7adae64583dd41d17a5b18693df2ea/component-ota/22/10/11/f3319ee2bfd04df28ace3c060817dc43.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-8d7adae64583dd41d17a5b18693df2ea/component-ota/22/10/11/f3319ee2bfd04df28ace3c060817dc43.zip",
@@ -458,7 +286,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_13.0.0 F.05",
+            "version": "ColorOS MT2110_13.0.0 F.05",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-fbc0093b873b520a9584aff2ad603cd7/component-ota/22/09/23/c790e7652f6a4a858dc6fd8c8cd93916.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-fbc0093b873b520a9584aff2ad603cd7/component-ota/22/09/23/c790e7652f6a4a858dc6fd8c8cd93916.zip",
@@ -469,7 +297,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_13.0.0 F.04",
+            "version": "ColorOS MT2110_13.0.0 F.04",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-74f398c1f4a846b27bf53fd8bcef20b3/component-ota/22/09/16/962ab913578a49a598f98a0755b7d831.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-74f398c1f4a846b27bf53fd8bcef20b3/component-ota/22/09/16/962ab913578a49a598f98a0755b7d831.zip",
@@ -480,7 +308,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_13.0.0 F.03",
+            "version": "ColorOS MT2110_13.0.0 F.03",
             "links": [
                 "https://componentota-auto-cn.allawnfs.com/component-ota/22/09/02/381a51c7efa74908a8e625700fd99b83.zip",
                 "https://componentota-manual-cn.allawnfs.com/component-ota/22/09/02/381a51c7efa74908a8e625700fd99b83.zip",
@@ -491,7 +319,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_13.0.0 F.02",
+            "version": "ColorOS MT2110_13.0.0 F.02",
             "links": [
                 "https://componentota-auto-cn.allawnfs.com/component-ota/22/08/26/ac8abf8934a041f2b104e2b7432f8cb1.zip",
                 "https://componentota-manual-cn.allawnfs.com/component-ota/22/08/26/ac8abf8934a041f2b104e2b7432f8cb1.zip",
@@ -502,7 +330,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_12.1 C.09",
+            "version": "ColorOS MT2110_12.1 C.09",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-9395bb35a390d7b83907babbad5f5033/component-ota/22/12/22/1c767d8355f74c2c98b31189ccafdf4f.zip",
                 "https://gauss-componentotacostauto-cn.allawnfs.com/remove-9395bb35a390d7b83907babbad5f5033/component-ota/22/12/22/1c767d8355f74c2c98b31189ccafdf4f.zip",
@@ -511,7 +339,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_12.1 C.08",
+            "version": "ColorOS MT2110_12.1 C.08",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-68659206bd3ea01d9746e307658086e1/component-ota/22/11/03/6481530e46754fe48e5eff4da3faebd7.zip",
                 "https://gauss-componentotacostauto-cn.allawnfs.com/remove-68659206bd3ea01d9746e307658086e1/component-ota/22/11/03/6481530e46754fe48e5eff4da3faebd7.zip",
@@ -520,7 +348,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_12.1 C.07",
+            "version": "ColorOS MT2110_12.1 C.07",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-0053ae191683d2d035d77e08600fb182/component-ota/22/09/19/6d48e993af654f47a9a4e41b26942bef.zip",
                 "https://gauss-componentotacostauto-cn.allawnfs.com/remove-0053ae191683d2d035d77e08600fb182/component-ota/22/09/19/6d48e993af654f47a9a4e41b26942bef.zip",
@@ -529,7 +357,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_12.1 C.06",
+            "version": "ColorOS MT2110_12.1 C.06",
             "links": [
                 "https://componentota-auto-cn.allawnfs.com/component-ota/22/08/16/aaae65455ef54a9a926167e48485182f.zip",
                 "https://componentota-manual-cn.allawnfs.com/component-ota/22/08/16/aaae65455ef54a9a926167e48485182f.zip",
@@ -538,7 +366,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_12.1 C.04",
+            "version": "ColorOS MT2110_12.1 C.04",
             "links": [
                 "https://componentota-auto-cn.allawnfs.com/component-ota/22/07/14/cac2d38fdcaa4984989dc5026a7b7c3d.zip",
                 "https://componentota-manual-cn.allawnfs.com/component-ota/22/07/14/cac2d38fdcaa4984989dc5026a7b7c3d.zip",
@@ -547,7 +375,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_12.1 C.03",
+            "version": "ColorOS MT2110_12.1 C.03",
             "links": [
                 "https://componentota-auto-cn.allawnfs.com/component-ota/22/06/10/a3b49266f6554b13802a5fbad0e21cdb.zip",
                 "https://componentota-manual-cn.allawnfs.com/component-ota/22/06/10/a3b49266f6554b13802a5fbad0e21cdb.zip",
@@ -556,7 +384,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_12.1 C.02",
+            "version": "ColorOS MT2110_12.1 C.02",
             "links": [
                 "https://componentota-auto-cn.allawnfs.com/component-ota/22/06/02/567165ceb9f7457da10c0617bf07e425.zip",
                 "https://componentota-manual-cn.allawnfs.com/component-ota/22/06/02/567165ceb9f7457da10c0617bf07e425.zip",
@@ -565,7 +393,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_12.1 C.01",
+            "version": "ColorOS MT2110_12.1 C.01",
             "links": [
                 "https://componentota-auto-cn.allawnfs.com/component-ota/22/05/19/a075397f11d043ea94924b1dd55e3eab.zip",
                 "https://componentota-manual-cn.allawnfs.com/component-ota/22/05/19/a075397f11d043ea94924b1dd55e3eab.zip",
@@ -574,7 +402,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_12 A.14",
+            "version": "ColorOS MT2110_12 A.14",
             "links": [
                 "https://componentota-auto-cn.allawnfs.com/component-ota/22/06/07/1ad9ccdf77be4945a3d5aafbf0f69789.zip",
                 "https://componentota-manual-cn.allawnfs.com/component-ota/22/06/07/1ad9ccdf77be4945a3d5aafbf0f69789.zip",
@@ -583,7 +411,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_12 A.13",
+            "version": "ColorOS MT2110_12 A.13",
             "links": [
                 "https://componentota-auto-cn.allawnfs.com/component-ota/22/04/07/739d00cba49d44baba35de754a2688d0.zip",
                 "https://componentota-manual-cn.allawnfs.com/component-ota/22/04/07/739d00cba49d44baba35de754a2688d0.zip",
@@ -592,7 +420,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_12 A.12",
+            "version": "ColorOS MT2110_12 A.12",
             "links": [
                 "https://componentota-auto-cn.allawnfs.com/component-ota/22/03/29/15e09c34889a485fa17a22702593da20.zip",
                 "https://componentota-manual-cn.allawnfs.com/component-ota/22/03/29/15e09c34889a485fa17a22702593da20.zip",
@@ -601,7 +429,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_12 A.11",
+            "version": "ColorOS MT2110_12 A.11",
             "links": [
                 "https://componentota-manual-cn.allawnfs.com/component-ota/22/01/19/85d8705f2ff84c0b8e3d48cc93396e47.zip",
                 "https://componentota-auto-cn.allawnfs.com/component-ota/22/01/19/85d8705f2ff84c0b8e3d48cc93396e47.zip",
@@ -610,7 +438,7 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_12 A.10",
+            "version": "ColorOS MT2110_12 A.10",
             "links": [
                 "https://componentota-auto-cn.allawnfs.com/component-ota/21/12/15/edf75791c9544be3a5b25c5b5bd1dff9.zip",
                 "https://componentota-manual-cn.allawnfs.com/component-ota/21/12/15/edf75791c9544be3a5b25c5b5bd1dff9.zip",
@@ -619,12 +447,184 @@
             ]
         },
         {
-            "version": "一加9RT/ColorOS MT2110_12 A.09",
+            "version": "ColorOS MT2110_12 A.09",
             "links": [
                 "https://componentota-auto-cn.allawnfs.com/component-ota/21/12/02/6ea2d51e9562434e835b4116fa95eb59.zip",
                 "https://componentota-manual-cn.allawnfs.com/component-ota/21/12/02/6ea2d51e9562434e835b4116fa95eb59.zip",
                 "https://gauss-componentotacostauto-cn.allawnfs.com/remove-4c9d2194794916353818abb5a5e156ea/component-ota/21/12/02/6ea2d51e9562434e835b4116fa95eb59.zip",
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-4c9d2194794916353818abb5a5e156ea/component-ota/21/12/02/6ea2d51e9562434e835b4116fa95eb59.zip"
+            ]
+        },
+        {
+            "version": "氧OS MT2111_14.0.0.730(EX01) H.21",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-c48f9f4b42a739c17dd2695d8f7d50b2/component-ota/24/12/11/386bc89b3ab046498fa074cb191221f9.zip",
+                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-c48f9f4b42a739c17dd2695d8f7d50b2/component-ota/24/12/11/386bc89b3ab046498fa074cb191221f9.zip",
+                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-c48f9f4b42a739c17dd2695d8f7d50b2/component-ota/24/12/11/386bc89b3ab046498fa074cb191221f9.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-c48f9f4b42a739c17dd2695d8f7d50b2/component-ota/24/12/11/386bc89b3ab046498fa074cb191221f9.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-c48f9f4b42a739c17dd2695d8f7d50b2/component-ota/24/12/11/386bc89b3ab046498fa074cb191221f9.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-c48f9f4b42a739c17dd2695d8f7d50b2/component-ota/24/12/11/386bc89b3ab046498fa074cb191221f9.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-c48f9f4b42a739c17dd2695d8f7d50b2/component-ota/24/12/11/386bc89b3ab046498fa074cb191221f9.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-c48f9f4b42a739c17dd2695d8f7d50b2/component-ota/24/12/11/386bc89b3ab046498fa074cb191221f9.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-c48f9f4b42a739c17dd2695d8f7d50b2/component-ota/24/12/11/386bc89b3ab046498fa074cb191221f9.zip"
+            ]
+        },
+        {
+            "version": "氧OS MT2111_14.0.0.720(EX01) H.20",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-437db5098703eea463c8728b518825d3/component-ota/24/10/17/1a8e8993f6bc4c7ab89eb6ec63af3144.zip",
+                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-437db5098703eea463c8728b518825d3/component-ota/24/10/17/1a8e8993f6bc4c7ab89eb6ec63af3144.zip",
+                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-437db5098703eea463c8728b518825d3/component-ota/24/10/17/1a8e8993f6bc4c7ab89eb6ec63af3144.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-437db5098703eea463c8728b518825d3/component-ota/24/10/17/1a8e8993f6bc4c7ab89eb6ec63af3144.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-437db5098703eea463c8728b518825d3/component-ota/24/10/17/1a8e8993f6bc4c7ab89eb6ec63af3144.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-437db5098703eea463c8728b518825d3/component-ota/24/10/17/1a8e8993f6bc4c7ab89eb6ec63af3144.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-437db5098703eea463c8728b518825d3/component-ota/24/10/17/1a8e8993f6bc4c7ab89eb6ec63af3144.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-437db5098703eea463c8728b518825d3/component-ota/24/10/17/1a8e8993f6bc4c7ab89eb6ec63af3144.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-437db5098703eea463c8728b518825d3/component-ota/24/10/17/1a8e8993f6bc4c7ab89eb6ec63af3144.zip"
+            ]
+        },
+        {
+            "version": "氧OS MT2111_14.0.0.500(EX01) H.16",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-67d2445ba10a5d98f3bdbdbd53e20b9e/component-ota/24/02/27/e8b7216b4f9e4e558ca8196c2f15e9ac.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-67d2445ba10a5d98f3bdbdbd53e20b9e/component-ota/24/02/27/e8b7216b4f9e4e558ca8196c2f15e9ac.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-67d2445ba10a5d98f3bdbdbd53e20b9e/component-ota/24/02/27/e8b7216b4f9e4e558ca8196c2f15e9ac.zip"
+            ]
+        },
+        {
+            "version": "氧OS MT2111_14.0.0.212(EX01) H.15",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-51725c7403db66fce4e41aff01be0ecd/component-ota/24/01/19/846279f515934af4a20f996d9693fabd.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-51725c7403db66fce4e41aff01be0ecd/component-ota/24/01/19/846279f515934af4a20f996d9693fabd.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-51725c7403db66fce4e41aff01be0ecd/component-ota/24/01/19/846279f515934af4a20f996d9693fabd.zip"
+            ]
+        },
+        {
+            "version": "氧OS MT2111_14.0.0.211(EX01) H.14",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-2752a852589c91261dbdfaedc4106b1f/component-ota/23/12/21/e9a3399940fc43269b764aece31bfddc.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-2752a852589c91261dbdfaedc4106b1f/component-ota/23/12/21/e9a3399940fc43269b764aece31bfddc.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-2752a852589c91261dbdfaedc4106b1f/component-ota/23/12/21/e9a3399940fc43269b764aece31bfddc.zip"
+            ]
+        },
+        {
+            "version": "氧OS MT2111_14.0.0.1901(EX01) H.32",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-f0b1c7691c14222747975da128875375/component-ota/25/03/26/035a0c154c7f4a88a65f6ed11f74fab3.zip",
+                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-f0b1c7691c14222747975da128875375/component-ota/25/03/26/035a0c154c7f4a88a65f6ed11f74fab3.zip",
+                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-f0b1c7691c14222747975da128875375/component-ota/25/03/26/035a0c154c7f4a88a65f6ed11f74fab3.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-f0b1c7691c14222747975da128875375/component-ota/25/03/26/035a0c154c7f4a88a65f6ed11f74fab3.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-f0b1c7691c14222747975da128875375/component-ota/25/03/26/035a0c154c7f4a88a65f6ed11f74fab3.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-f0b1c7691c14222747975da128875375/component-ota/25/03/26/035a0c154c7f4a88a65f6ed11f74fab3.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-f0b1c7691c14222747975da128875375/component-ota/25/03/26/035a0c154c7f4a88a65f6ed11f74fab3.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-f0b1c7691c14222747975da128875375/component-ota/25/03/26/035a0c154c7f4a88a65f6ed11f74fab3.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-f0b1c7691c14222747975da128875375/component-ota/25/03/26/035a0c154c7f4a88a65f6ed11f74fab3.zip"
+            ]
+        },
+        {
+            "version": "氧OS MT2111_13.1.0.595(EX01) F.27",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-38be45dbd35baffc709af5bcc9959a3d/component-ota/23/12/23/fd25100ddeb84dbbb40247c73ab66566.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-38be45dbd35baffc709af5bcc9959a3d/component-ota/23/12/23/fd25100ddeb84dbbb40247c73ab66566.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-38be45dbd35baffc709af5bcc9959a3d/component-ota/23/12/23/fd25100ddeb84dbbb40247c73ab66566.zip"
+            ]
+        },
+        {
+            "version": "氧OS MT2111_13.1.0.592(EX01) F.24",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-7da44e6139eaa3d2b06cc7cd9422186b/component-ota/23/09/07/97666e18c00c4d4f87465e7c0111d167.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-7da44e6139eaa3d2b06cc7cd9422186b/component-ota/23/09/07/97666e18c00c4d4f87465e7c0111d167.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-7da44e6139eaa3d2b06cc7cd9422186b/component-ota/23/09/07/97666e18c00c4d4f87465e7c0111d167.zip"
+            ]
+        },
+        {
+            "version": "氧OS MT2111_13.1.0.591(EX01) F.23",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-021e84d67d507b0fb9f442b75162d2aa/component-ota/23/08/30/5fa8f9a3e645475988bfa64721aa920c.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-021e84d67d507b0fb9f442b75162d2aa/component-ota/23/08/30/5fa8f9a3e645475988bfa64721aa920c.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-021e84d67d507b0fb9f442b75162d2aa/component-ota/23/08/30/5fa8f9a3e645475988bfa64721aa920c.zip"
+            ]
+        },
+        {
+            "version": "氧OS MT2111_13.1.0.590(EX01) F.22",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-de7dfc1aede52dbae65d6930b5f84d08/component-ota/23/07/26/1339c34a602141da9a4a1387d582ebcd.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-de7dfc1aede52dbae65d6930b5f84d08/component-ota/23/07/26/1339c34a602141da9a4a1387d582ebcd.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-de7dfc1aede52dbae65d6930b5f84d08/component-ota/23/07/26/1339c34a602141da9a4a1387d582ebcd.zip"
+            ]
+        },
+        {
+            "version": "氧OS MT2111_13.0.0 F.15",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-bbbc6b27ae050c587085f47926e00dc6/component-ota/23/03/22/c856d40b269c4985aec657ec073beec1.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-bbbc6b27ae050c587085f47926e00dc6/component-ota/23/03/22/c856d40b269c4985aec657ec073beec1.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-bbbc6b27ae050c587085f47926e00dc6/component-ota/23/03/22/c856d40b269c4985aec657ec073beec1.zip"
+            ]
+        },
+        {
+            "version": "氧OS MT2111_13.0.0 F.14",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-bf781b335a05a803100ca84305da709e/component-ota/23/02/06/c9973520c448450e876752480f75b896.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-bf781b335a05a803100ca84305da709e/component-ota/23/02/06/c9973520c448450e876752480f75b896.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-bf781b335a05a803100ca84305da709e/component-ota/23/02/06/c9973520c448450e876752480f75b896.zip"
+            ]
+        },
+        {
+            "version": "氧OS MT2111_13.0.0 F.12",
+            "links": [
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-290150a7fd49244a43db66e888d7ea56/component-ota/22/11/23/0351e83992ea4613a89be84ca4e6e0fa.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-290150a7fd49244a43db66e888d7ea56/component-ota/22/11/23/0351e83992ea4613a89be84ca4e6e0fa.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-290150a7fd49244a43db66e888d7ea56/component-ota/22/11/23/0351e83992ea4613a89be84ca4e6e0fa.zip"
+            ]
+        },
+        {
+            "version": "氧OS MT2111_13.0.0 F.11",
+            "links": [
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-a76ac0aa9e62e896e3b458a805c08890/component-ota/22/11/07/451a56b39ab04ff58fcbf11dba101c37.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-a76ac0aa9e62e896e3b458a805c08890/component-ota/22/11/07/451a56b39ab04ff58fcbf11dba101c37.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-a76ac0aa9e62e896e3b458a805c08890/component-ota/22/11/07/451a56b39ab04ff58fcbf11dba101c37.zip"
+            ]
+        },
+        {
+            "version": "氧OS MT2111_13.0.0 F.08",
+            "links": [
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-d71506555329407ad457ed1a4236b59b/component-ota/22/10/22/7f0c51967f1b47c096b57c1b3e6242a5.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-d71506555329407ad457ed1a4236b59b/component-ota/22/10/22/7f0c51967f1b47c096b57c1b3e6242a5.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-d71506555329407ad457ed1a4236b59b/component-ota/22/10/22/7f0c51967f1b47c096b57c1b3e6242a5.zip"
+            ]
+        },
+        {
+            "version": "氧OS MT2111_12.1 C.08",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-7203e2b7c40f0df6012a8b18c5340756/component-ota/22/11/03/029002eff77c495ba8edfa0be3118e64.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-7203e2b7c40f0df6012a8b18c5340756/component-ota/22/11/03/029002eff77c495ba8edfa0be3118e64.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-7203e2b7c40f0df6012a8b18c5340756/component-ota/22/11/03/029002eff77c495ba8edfa0be3118e64.zip"
+            ]
+        },
+        {
+            "version": "氧OS MT2111_12.1 C.07",
+            "links": [
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-2f73136625a684f47a3662c867766b51/component-ota/22/09/19/2a73ceb259ab4647bfc30b4cf1ec4db6.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-2f73136625a684f47a3662c867766b51/component-ota/22/09/19/2a73ceb259ab4647bfc30b4cf1ec4db6.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-2f73136625a684f47a3662c867766b51/component-ota/22/09/19/2a73ceb259ab4647bfc30b4cf1ec4db6.zip"
+            ]
+        },
+        {
+            "version": "氧OS MT2111_12.1 C.05",
+            "links": [
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-f71adb57a705c9ec774bbfa348a7cfcc/component-ota/22/07/31/74c3d4ddda6249238c930a143923ba3d.zip"
+            ]
+        },
+        {
+            "version": "氧OS MT2111_12.1 C.04",
+            "links": [
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-3ac236921cd334ed8859d9e49d6af698/component-ota/22/07/22/0c51ea802980454a87f5134d6cffefad.zip"
+            ]
+        },
+        {
+            "version": "氧OS MT2111_12.1 C.02",
+            "links": [
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-7f83fb81b1c70857b0108d2d3bee5b75/component-ota/22/06/02/6d24e55bf1ab4b4b9d2e26f5d4c05739.zip"
             ]
         }
     ]

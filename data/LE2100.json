@@ -2,189 +2,7 @@
     "model": "一加9R",
     "roms": [
         {
-            "version": "一加9R/氧OS LE2101_14.0.0.80(EX01) H.13",
-            "links": [
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-21c12ea5808ec3dd8bcceed512cd13cd/component-ota/23/11/21/1924048f3aa64ec1bc15ce59f31c1fa7.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-21c12ea5808ec3dd8bcceed512cd13cd/component-ota/23/11/21/1924048f3aa64ec1bc15ce59f31c1fa7.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-21c12ea5808ec3dd8bcceed512cd13cd/component-ota/23/11/21/1924048f3aa64ec1bc15ce59f31c1fa7.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_14.0.0.604(EX01) H.27",
-            "links": [
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-61784442f825893073406c63d70b4038/component-ota/24/12/11/4c3a44ef6c91457e9d7403d996b9f76a.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-61784442f825893073406c63d70b4038/component-ota/24/12/11/4c3a44ef6c91457e9d7403d996b9f76a.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-61784442f825893073406c63d70b4038/component-ota/24/12/11/4c3a44ef6c91457e9d7403d996b9f76a.zip",
-                "https://gauss-otacostmanual-eu.allawnofs.com/remove-61784442f825893073406c63d70b4038/component-ota/24/12/11/4c3a44ef6c91457e9d7403d996b9f76a.zip",
-                "https://gauss-otacostmanual-in.allawnofs.com/remove-61784442f825893073406c63d70b4038/component-ota/24/12/11/4c3a44ef6c91457e9d7403d996b9f76a.zip",
-                "https://gauss-otacostmanual-sg.allawnofs.com/remove-61784442f825893073406c63d70b4038/component-ota/24/12/11/4c3a44ef6c91457e9d7403d996b9f76a.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_14.0.0.603(EX01) H.26",
-            "links": [
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-5f825e80472c5991c16f3d8d91a02a1d/component-ota/24/10/14/4962f5c4a8e24523a62f34cf3afe50a3.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-5f825e80472c5991c16f3d8d91a02a1d/component-ota/24/10/14/4962f5c4a8e24523a62f34cf3afe50a3.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-5f825e80472c5991c16f3d8d91a02a1d/component-ota/24/10/14/4962f5c4a8e24523a62f34cf3afe50a3.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_14.0.0.602(EX01) H.25",
-            "links": [
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-5e3dbcbd9ef22a77d7cd8149d5c34b27/component-ota/24/08/19/23d8cbb6a881483babdb802e675a2be9.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-5e3dbcbd9ef22a77d7cd8149d5c34b27/component-ota/24/08/19/23d8cbb6a881483babdb802e675a2be9.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-5e3dbcbd9ef22a77d7cd8149d5c34b27/component-ota/24/08/19/23d8cbb6a881483babdb802e675a2be9.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_14.0.0.601(EX01) H.24",
-            "links": [
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-91963151a7673a344593300284fc5f8c/component-ota/24/06/07/bafcde740ebf439ca1131f8600f13868.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-91963151a7673a344593300284fc5f8c/component-ota/24/06/07/bafcde740ebf439ca1131f8600f13868.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-91963151a7673a344593300284fc5f8c/component-ota/24/06/07/bafcde740ebf439ca1131f8600f13868.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_14.0.0.600(EX01) H.23",
-            "links": [
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-e5b5338fa61fdfbe9af822e080022ead/component-ota/24/04/22/e9dd9849fa1640479f9f7b8344481c15.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-e5b5338fa61fdfbe9af822e080022ead/component-ota/24/04/22/e9dd9849fa1640479f9f7b8344481c15.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-e5b5338fa61fdfbe9af822e080022ead/component-ota/24/04/22/e9dd9849fa1640479f9f7b8344481c15.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_14.0.0.500(EX01) H.21",
-            "links": [
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-abd346d1159d28097d553050f743a020/component-ota/24/03/07/8f89cb9167a5466a8f0d701eeaf095b7.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-abd346d1159d28097d553050f743a020/component-ota/24/03/07/8f89cb9167a5466a8f0d701eeaf095b7.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-abd346d1159d28097d553050f743a020/component-ota/24/03/07/8f89cb9167a5466a8f0d701eeaf095b7.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_14.0.0.301(EX01) H.20",
-            "links": [
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-fabc36dbb2a2f5de5b9d972082e202a4/component-ota/23/12/21/10950f5eac1e4f4fa625881fafac6397.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-fabc36dbb2a2f5de5b9d972082e202a4/component-ota/23/12/21/10950f5eac1e4f4fa625881fafac6397.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-fabc36dbb2a2f5de5b9d972082e202a4/component-ota/23/12/21/10950f5eac1e4f4fa625881fafac6397.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_14.0.0.300(EX01) H.17",
-            "links": [
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-fabc36dbb2a2f5de5b9d972082e202a4/component-ota/23/12/21/10950f5eac1e4f4fa625881fafac6397.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-fabc36dbb2a2f5de5b9d972082e202a4/component-ota/23/12/21/10950f5eac1e4f4fa625881fafac6397.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-fabc36dbb2a2f5de5b9d972082e202a4/component-ota/23/12/21/10950f5eac1e4f4fa625881fafac6397.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_14.0.0.2100(EX01) H.29",
-            "links": [
-                "https://gauss-opexcostmanual-in.allawnofs.com/remove-0b53690b2c1e9955bec467b87a409287/component-ota/25/05/26/537d9ddec3db43f8ba68b88df194a70b.zip",
-                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-0b53690b2c1e9955bec467b87a409287/component-ota/25/05/26/537d9ddec3db43f8ba68b88df194a70b.zip",
-                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-0b53690b2c1e9955bec467b87a409287/component-ota/25/05/26/537d9ddec3db43f8ba68b88df194a70b.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-0b53690b2c1e9955bec467b87a409287/component-ota/25/05/26/537d9ddec3db43f8ba68b88df194a70b.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-0b53690b2c1e9955bec467b87a409287/component-ota/25/05/26/537d9ddec3db43f8ba68b88df194a70b.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-0b53690b2c1e9955bec467b87a409287/component-ota/25/05/26/537d9ddec3db43f8ba68b88df194a70b.zip",
-                "https://gauss-otacostmanual-eu.allawnofs.com/remove-0b53690b2c1e9955bec467b87a409287/component-ota/25/05/26/537d9ddec3db43f8ba68b88df194a70b.zip",
-                "https://gauss-otacostmanual-in.allawnofs.com/remove-0b53690b2c1e9955bec467b87a409287/component-ota/25/05/26/537d9ddec3db43f8ba68b88df194a70b.zip",
-                "https://gauss-otacostmanual-sg.allawnofs.com/remove-0b53690b2c1e9955bec467b87a409287/component-ota/25/05/26/537d9ddec3db43f8ba68b88df194a70b.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_13.1.0.583(EX01) F.30",
-            "links": [
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-d740d956d0f2e0891b55d1c83b71737d/component-ota/23/10/18/e6f0e1d927ee48ed97875afc67405ec3.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-d740d956d0f2e0891b55d1c83b71737d/component-ota/23/10/18/e6f0e1d927ee48ed97875afc67405ec3.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-d740d956d0f2e0891b55d1c83b71737d/component-ota/23/10/18/e6f0e1d927ee48ed97875afc67405ec3.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_13.1.0.582(EX01) F.29",
-            "links": [
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-4530b5205590df2d5c4e9a4531a15251/component-ota/23/08/16/af4b6181d5014aff83024d912217e4f0.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-4530b5205590df2d5c4e9a4531a15251/component-ota/23/08/16/af4b6181d5014aff83024d912217e4f0.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-4530b5205590df2d5c4e9a4531a15251/component-ota/23/08/16/af4b6181d5014aff83024d912217e4f0.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_13.1.0.581(EX01) F.28",
-            "links": [
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-8abedc06f031a21f9384793d37bb2b62/component-ota/23/06/30/157c29bcba194c8ebd795e1523c75f7f.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-8abedc06f031a21f9384793d37bb2b62/component-ota/23/06/30/157c29bcba194c8ebd795e1523c75f7f.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-8abedc06f031a21f9384793d37bb2b62/component-ota/23/06/30/157c29bcba194c8ebd795e1523c75f7f.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_13.1.0.500(EX01) F.26",
-            "links": [
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-57b2f08c72fa1ba639602ee202510550/component-ota/23/05/05/36523447c2514bb388f7bfe9bff21f8a.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-57b2f08c72fa1ba639602ee202510550/component-ota/23/05/05/36523447c2514bb388f7bfe9bff21f8a.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-57b2f08c72fa1ba639602ee202510550/component-ota/23/05/05/36523447c2514bb388f7bfe9bff21f8a.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_13.0.0 F.22",
-            "links": [
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-7e771b6f6320efffca7ea5198e9b784c/component-ota/23/03/16/57a654354d954a7ba27d51420e605d8d.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-7e771b6f6320efffca7ea5198e9b784c/component-ota/23/03/16/57a654354d954a7ba27d51420e605d8d.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-7e771b6f6320efffca7ea5198e9b784c/component-ota/23/03/16/57a654354d954a7ba27d51420e605d8d.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_13.0.0 F.21",
-            "links": [
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-8e2cebfd1af8ac4cec915f4707352c55/component-ota/23/01/16/9cb382c007504449b08e26ce618d67bf.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-8e2cebfd1af8ac4cec915f4707352c55/component-ota/23/01/16/9cb382c007504449b08e26ce618d67bf.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-8e2cebfd1af8ac4cec915f4707352c55/component-ota/23/01/16/9cb382c007504449b08e26ce618d67bf.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_13.0.0 F.16",
-            "links": [
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-99170089147ba163d84e7d7570249615/component-ota/22/11/12/337f7337ac424befa8f41cd19d40e074.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-99170089147ba163d84e7d7570249615/component-ota/22/11/12/337f7337ac424befa8f41cd19d40e074.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-99170089147ba163d84e7d7570249615/component-ota/22/11/12/337f7337ac424befa8f41cd19d40e074.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-9372fb9aaf9ef3a51c12e1dd546d5970/component-ota/22/11/12/0b2c95009a994e5db884da0ecf10b00f.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-9372fb9aaf9ef3a51c12e1dd546d5970/component-ota/22/11/12/0b2c95009a994e5db884da0ecf10b00f.zip",
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-9372fb9aaf9ef3a51c12e1dd546d5970/component-ota/22/11/12/0b2c95009a994e5db884da0ecf10b00f.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_12.1 C.36",
-            "links": [
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-ebcbff3804bbd7d8c80f81fbe7758e33/component-ota/22/10/19/55ba4c0c8ee34dcea2262e965554e74b.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-ebcbff3804bbd7d8c80f81fbe7758e33/component-ota/22/10/19/55ba4c0c8ee34dcea2262e965554e74b.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-ebcbff3804bbd7d8c80f81fbe7758e33/component-ota/22/10/19/55ba4c0c8ee34dcea2262e965554e74b.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_12.1 C.35",
-            "links": [
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-93c748f063aff6ad8bcef8ef9bdaa655/component-ota/22/08/27/7f69d9fbe9904ec2a724140a669c2ab2.zip",
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-93c748f063aff6ad8bcef8ef9bdaa655/component-ota/22/08/27/7f69d9fbe9904ec2a724140a669c2ab2.zip",
-                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-93c748f063aff6ad8bcef8ef9bdaa655/component-ota/22/08/27/7f69d9fbe9904ec2a724140a669c2ab2.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_12.1 C.33",
-            "links": [
-                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-4aca43d1294f027a7afa446f6e628f8e/component-ota/22/08/01/ab1e2256b524429080b968ca385d3c40.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_12.1 C.21",
-            "links": [
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-451bc760d4b8b15840e4e1811e741f8c/component-ota/22/06/11/ec0b57d10bf44889852d943f3ba41995.zip"
-            ]
-        },
-        {
-            "version": "一加9R/氧OS LE2101_12.1 C.20",
-            "links": [
-                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-185f80766049b76ec68e5d7ca091b950/component-ota/22/05/27/6298a9751d0f4b8ebf0617dc53f1a58c.zip"
-            ]
-        },
-        {
-            "version": "一加9R/ColorOS LE2100_14.0.0.605(CN01) H.28",
+            "version": "ColorOS LE2100_14.0.0.605(CN01) H.28",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-4a397bb9b303cfe4fe5bf0f86369c0c7/component-ota/25/03/17/c1ace47600074fbe9f670f6448b986a7.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-4a397bb9b303cfe4fe5bf0f86369c0c7/component-ota/25/03/17/c1ace47600074fbe9f670f6448b986a7.zip",
@@ -198,7 +16,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_14.0.0.604(CN01) H.27",
+            "version": "ColorOS LE2100_14.0.0.604(CN01) H.27",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-42dcc518044c2a3bbd02e3c0b04c4eb4/component-ota/24/12/16/2c3b5d9c289f42dd9a24d5171e453ad2.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-42dcc518044c2a3bbd02e3c0b04c4eb4/component-ota/24/12/16/2c3b5d9c289f42dd9a24d5171e453ad2.zip",
@@ -209,7 +27,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_14.0.0.603(CN01) H.26",
+            "version": "ColorOS LE2100_14.0.0.603(CN01) H.26",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f92b347612689dd70a98e1bb04ecaf1b/component-ota/24/10/16/46b01aca0f1444b187f493ba79b010a1.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-f92b347612689dd70a98e1bb04ecaf1b/component-ota/24/10/16/46b01aca0f1444b187f493ba79b010a1.zip",
@@ -220,7 +38,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_14.0.0.602(CN01) H.25",
+            "version": "ColorOS LE2100_14.0.0.602(CN01) H.25",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-0dbdbd527f8fc8d98bf59ed6a4489f1c/component-ota/24/08/21/305f27f8e9934f83a51c773dd61af21c.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-0dbdbd527f8fc8d98bf59ed6a4489f1c/component-ota/24/08/21/305f27f8e9934f83a51c773dd61af21c.zip",
@@ -231,7 +49,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_14.0.0.601(CN01) H.24",
+            "version": "ColorOS LE2100_14.0.0.601(CN01) H.24",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-ee17db2984ef8544006ee50bb25e3742/component-ota/24/06/21/e4b3a351a4c64209bcfd8bc7f14cd9a9.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-ee17db2984ef8544006ee50bb25e3742/component-ota/24/06/21/e4b3a351a4c64209bcfd8bc7f14cd9a9.zip",
@@ -242,7 +60,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_14.0.0.600(CN01) H.23",
+            "version": "ColorOS LE2100_14.0.0.600(CN01) H.23",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3c78ad285e233ae5105559d94d88010b/component-ota/24/04/22/344dac2f07ce4026a56f4f9de2d5b1b8.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-3c78ad285e233ae5105559d94d88010b/component-ota/24/04/22/344dac2f07ce4026a56f4f9de2d5b1b8.zip",
@@ -253,7 +71,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_14.0.0.501(CN01) H.22",
+            "version": "ColorOS LE2100_14.0.0.501(CN01) H.22",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-c11fa8147ab83139bebdf49b648647a1/component-ota/24/03/26/be7d30dff71f4bfeac7749b92d13592d.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-c11fa8147ab83139bebdf49b648647a1/component-ota/24/03/26/be7d30dff71f4bfeac7749b92d13592d.zip",
@@ -264,7 +82,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_14.0.0.301(CN01) H.20",
+            "version": "ColorOS LE2100_14.0.0.301(CN01) H.20",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-97e1731d9d90bbd5ae8d04c1fb8abb7d/component-ota/24/02/02/67b41e893510479ba956665ba5d56897.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-97e1731d9d90bbd5ae8d04c1fb8abb7d/component-ota/24/02/02/67b41e893510479ba956665ba5d56897.zip",
@@ -275,7 +93,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_14.0.0.300(CN01) H.19",
+            "version": "ColorOS LE2100_14.0.0.300(CN01) H.19",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-25e69e0bad49a0350de63d101edce4bb/component-ota/24/01/26/bd83d6b7fdc54f9484bb02c0fdb204b1.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-25e69e0bad49a0350de63d101edce4bb/component-ota/24/01/26/bd83d6b7fdc54f9484bb02c0fdb204b1.zip",
@@ -286,7 +104,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_14.0.0.300(CN01) H.17",
+            "version": "ColorOS LE2100_14.0.0.300(CN01) H.17",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-611086691ece7c0c2eab22bf28104be8/component-ota/24/01/05/739ce562f8e04da6a97783a203e0adc3.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-611086691ece7c0c2eab22bf28104be8/component-ota/24/01/05/739ce562f8e04da6a97783a203e0adc3.zip",
@@ -303,7 +121,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.1.0.186(CN01) F.32",
+            "version": "ColorOS LE2100_13.1.0.186(CN01) F.32",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-fc5b6822806f2cf29d4a7de40a6975f0/component-ota/24/02/04/4971d3ac1e34408bbf50858059de885f.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-fc5b6822806f2cf29d4a7de40a6975f0/component-ota/24/02/04/4971d3ac1e34408bbf50858059de885f.zip",
@@ -314,7 +132,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.1.0.185(CN01) F.31",
+            "version": "ColorOS LE2100_13.1.0.185(CN01) F.31",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-0b75dec2b34aa00ed9b69435f50914b1/component-ota/23/12/12/2c95a0be1aeb4f8dacf2ebb395bea988.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-0b75dec2b34aa00ed9b69435f50914b1/component-ota/23/12/12/2c95a0be1aeb4f8dacf2ebb395bea988.zip",
@@ -325,7 +143,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.1.0.183(CN01) F.30",
+            "version": "ColorOS LE2100_13.1.0.183(CN01) F.30",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-adc54206b793753af44ab343b16fe344/component-ota/23/10/23/2c19eb228b394f33a8cbef7896ee2c82.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-adc54206b793753af44ab343b16fe344/component-ota/23/10/23/2c19eb228b394f33a8cbef7896ee2c82.zip",
@@ -336,7 +154,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.1.0.182(CN01) F.29",
+            "version": "ColorOS LE2100_13.1.0.182(CN01) F.29",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-2a3d8895756aa59cd0f1c166802eb6b2/component-ota/23/08/30/74cc6df158a44d31a98180c3e3465111.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-2a3d8895756aa59cd0f1c166802eb6b2/component-ota/23/08/30/74cc6df158a44d31a98180c3e3465111.zip",
@@ -347,7 +165,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.1.0.181(CN01) F.28",
+            "version": "ColorOS LE2100_13.1.0.181(CN01) F.28",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-9b3646a3992e01a5ca2b715f0355e9fa/component-ota/23/06/28/e1f4b556ebdd413288e1755c08e3693b.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-9b3646a3992e01a5ca2b715f0355e9fa/component-ota/23/06/28/e1f4b556ebdd413288e1755c08e3693b.zip",
@@ -358,7 +176,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.1.0.100(CN01) F.26",
+            "version": "ColorOS LE2100_13.1.0.100(CN01) F.26",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-a4b15264983729dffaaa251226d5e56d/component-ota/23/05/05/88765e2d85e04a6092427ec9b0254383.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-a4b15264983729dffaaa251226d5e56d/component-ota/23/05/05/88765e2d85e04a6092427ec9b0254383.zip",
@@ -369,7 +187,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.0.0 F.23",
+            "version": "ColorOS LE2100_13.0.0 F.23",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-2aabcef3a8c9c1a3794c32a1abc6daaa/component-ota/23/04/10/a856181fef1f4279bab1ec0a230c1ea9.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-2aabcef3a8c9c1a3794c32a1abc6daaa/component-ota/23/04/10/a856181fef1f4279bab1ec0a230c1ea9.zip",
@@ -380,7 +198,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.0.0 F.22",
+            "version": "ColorOS LE2100_13.0.0 F.22",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-93c326d63fe26f869d0ac66d0fcac7a4/component-ota/23/02/21/f87a0c24891949ccbc60f0e9e1b40f31.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-93c326d63fe26f869d0ac66d0fcac7a4/component-ota/23/02/21/f87a0c24891949ccbc60f0e9e1b40f31.zip",
@@ -391,7 +209,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.0.0 F.21",
+            "version": "ColorOS LE2100_13.0.0 F.21",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-13bb2b8cbb6a3139cb879dd6ba08be5b/component-ota/23/01/16/8bf9b0d3b2da4628af201db6c9d3601f.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-13bb2b8cbb6a3139cb879dd6ba08be5b/component-ota/23/01/16/8bf9b0d3b2da4628af201db6c9d3601f.zip",
@@ -402,7 +220,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.0.0 F.19",
+            "version": "ColorOS LE2100_13.0.0 F.19",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-2a6df2d1e2c38ac387494c553de03d7c/component-ota/22/12/07/da005111f260431cb68d6f28daafb385.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-2a6df2d1e2c38ac387494c553de03d7c/component-ota/22/12/07/da005111f260431cb68d6f28daafb385.zip",
@@ -413,7 +231,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.0.0 F.18",
+            "version": "ColorOS LE2100_13.0.0 F.18",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-47fdb2f6d770eceded1e477b7ced93da/component-ota/22/11/30/004071a1f1994e4fb56877c991b973bb.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-47fdb2f6d770eceded1e477b7ced93da/component-ota/22/11/30/004071a1f1994e4fb56877c991b973bb.zip",
@@ -424,7 +242,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.0.0 F.17",
+            "version": "ColorOS LE2100_13.0.0 F.17",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-830ba5d2a7e3a4cc65d416428b9d6e76/component-ota/22/11/15/3de891f0e5b74927921198485280822b.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-830ba5d2a7e3a4cc65d416428b9d6e76/component-ota/22/11/15/3de891f0e5b74927921198485280822b.zip",
@@ -435,7 +253,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.0.0 F.16",
+            "version": "ColorOS LE2100_13.0.0 F.16",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-d7ef39d2d9e09a817d1cf66a0fb65b2e/component-ota/22/11/12/5f7350ceb63b442998d02f2c3622016f.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-d7ef39d2d9e09a817d1cf66a0fb65b2e/component-ota/22/11/12/5f7350ceb63b442998d02f2c3622016f.zip",
@@ -446,7 +264,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.0.0 F.15",
+            "version": "ColorOS LE2100_13.0.0 F.15",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-912656068f00f3c99592fb1ca156544d/component-ota/22/10/31/041bdc62b16b49f79a6d6966d0227e2b.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-912656068f00f3c99592fb1ca156544d/component-ota/22/10/31/041bdc62b16b49f79a6d6966d0227e2b.zip",
@@ -457,7 +275,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.0.0 F.14",
+            "version": "ColorOS LE2100_13.0.0 F.14",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-5bb21ed6b6b4a4da4b20218156f4e2c0/component-ota/22/10/21/aa7eb79dbb564c919ee5d6f360e8620b.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-5bb21ed6b6b4a4da4b20218156f4e2c0/component-ota/22/10/21/aa7eb79dbb564c919ee5d6f360e8620b.zip",
@@ -468,7 +286,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.0.0 F.13",
+            "version": "ColorOS LE2100_13.0.0 F.13",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-c0fe500fcd6468882c5d62880ea40ae0/component-ota/22/10/21/12ad0b055b41407d85f87946d95ffa8d.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-c0fe500fcd6468882c5d62880ea40ae0/component-ota/22/10/21/12ad0b055b41407d85f87946d95ffa8d.zip",
@@ -479,7 +297,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.0.0 F.11",
+            "version": "ColorOS LE2100_13.0.0 F.11",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3d6e8de981954db3dc15e492bee51675/component-ota/22/10/12/3d0c0ebfb138492f931b215736093212.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-3d6e8de981954db3dc15e492bee51675/component-ota/22/10/12/3d0c0ebfb138492f931b215736093212.zip",
@@ -490,7 +308,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.0.0 F.10",
+            "version": "ColorOS LE2100_13.0.0 F.10",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7f709da2423d38160525f0b171700a72/component-ota/22/10/09/c64e8020d23341b6aada1d0fd1c68cf0.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-7f709da2423d38160525f0b171700a72/component-ota/22/10/09/c64e8020d23341b6aada1d0fd1c68cf0.zip",
@@ -501,7 +319,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.0.0 F.09",
+            "version": "ColorOS LE2100_13.0.0 F.09",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-bba6e515258f10fc49ec2760197551f8/component-ota/22/09/28/431af07fa72a46a1ad8f69970f44c09f.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-bba6e515258f10fc49ec2760197551f8/component-ota/22/09/28/431af07fa72a46a1ad8f69970f44c09f.zip",
@@ -512,7 +330,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.0.0 F.08",
+            "version": "ColorOS LE2100_13.0.0 F.08",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-d04869fdc3dee64c8c6a635aa29b7eb4/component-ota/22/09/22/74563651d13e4af584484167ebe4e662.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-d04869fdc3dee64c8c6a635aa29b7eb4/component-ota/22/09/22/74563651d13e4af584484167ebe4e662.zip",
@@ -523,7 +341,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.0.0 F.07",
+            "version": "ColorOS LE2100_13.0.0 F.07",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-76e32fbcd9ec7139bd00e5bd72b8e1aa/component-ota/22/09/14/d9e635f6660749acb1ebc2f779fd4087.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-76e32fbcd9ec7139bd00e5bd72b8e1aa/component-ota/22/09/14/d9e635f6660749acb1ebc2f779fd4087.zip",
@@ -534,7 +352,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.0.0 F.06",
+            "version": "ColorOS LE2100_13.0.0 F.06",
             "links": [
                 "https://componentota-auto-cn.allawnfs.com/component-ota/22/09/08/de767ccf6e2c4ee7b20782e3f248e760.zip",
                 "https://componentota-manual-cn.allawnfs.com/component-ota/22/09/08/de767ccf6e2c4ee7b20782e3f248e760.zip",
@@ -545,7 +363,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.0.0 F.05",
+            "version": "ColorOS LE2100_13.0.0 F.05",
             "links": [
                 "https://componentota-auto-cn.allawnfs.com/component-ota/22/09/02/59de2aa2057d47efb7e8f2b7154007e6.zip",
                 "https://componentota-manual-cn.allawnfs.com/component-ota/22/09/02/59de2aa2057d47efb7e8f2b7154007e6.zip",
@@ -556,7 +374,7 @@
             ]
         },
         {
-            "version": "一加9R/ColorOS LE2100_13.0.0 F.03",
+            "version": "ColorOS LE2100_13.0.0 F.03",
             "links": [
                 "https://componentota-auto-cn.allawnfs.com/component-ota/22/08/25/c6d12898e69e47fb9e50b0f5f5b3dbe6.zip",
                 "https://componentota-manual-cn.allawnfs.com/component-ota/22/08/25/c6d12898e69e47fb9e50b0f5f5b3dbe6.zip",
@@ -564,6 +382,188 @@
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-f74a279af88e58c32216b1dc42ab7dbf/component-ota/22/08/25/c6d12898e69e47fb9e50b0f5f5b3dbe6.zip",
                 "https://gauss-otacostauto-cn.allawnfs.com/remove-f74a279af88e58c32216b1dc42ab7dbf/component-ota/22/08/25/c6d12898e69e47fb9e50b0f5f5b3dbe6.zip",
                 "https://gauss-otacostmanual-cn.allawnfs.com/remove-f74a279af88e58c32216b1dc42ab7dbf/component-ota/22/08/25/c6d12898e69e47fb9e50b0f5f5b3dbe6.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_14.0.0.80(EX01) H.13",
+            "links": [
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-21c12ea5808ec3dd8bcceed512cd13cd/component-ota/23/11/21/1924048f3aa64ec1bc15ce59f31c1fa7.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-21c12ea5808ec3dd8bcceed512cd13cd/component-ota/23/11/21/1924048f3aa64ec1bc15ce59f31c1fa7.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-21c12ea5808ec3dd8bcceed512cd13cd/component-ota/23/11/21/1924048f3aa64ec1bc15ce59f31c1fa7.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_14.0.0.604(EX01) H.27",
+            "links": [
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-61784442f825893073406c63d70b4038/component-ota/24/12/11/4c3a44ef6c91457e9d7403d996b9f76a.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-61784442f825893073406c63d70b4038/component-ota/24/12/11/4c3a44ef6c91457e9d7403d996b9f76a.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-61784442f825893073406c63d70b4038/component-ota/24/12/11/4c3a44ef6c91457e9d7403d996b9f76a.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-61784442f825893073406c63d70b4038/component-ota/24/12/11/4c3a44ef6c91457e9d7403d996b9f76a.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-61784442f825893073406c63d70b4038/component-ota/24/12/11/4c3a44ef6c91457e9d7403d996b9f76a.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-61784442f825893073406c63d70b4038/component-ota/24/12/11/4c3a44ef6c91457e9d7403d996b9f76a.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_14.0.0.603(EX01) H.26",
+            "links": [
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-5f825e80472c5991c16f3d8d91a02a1d/component-ota/24/10/14/4962f5c4a8e24523a62f34cf3afe50a3.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-5f825e80472c5991c16f3d8d91a02a1d/component-ota/24/10/14/4962f5c4a8e24523a62f34cf3afe50a3.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-5f825e80472c5991c16f3d8d91a02a1d/component-ota/24/10/14/4962f5c4a8e24523a62f34cf3afe50a3.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_14.0.0.602(EX01) H.25",
+            "links": [
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-5e3dbcbd9ef22a77d7cd8149d5c34b27/component-ota/24/08/19/23d8cbb6a881483babdb802e675a2be9.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-5e3dbcbd9ef22a77d7cd8149d5c34b27/component-ota/24/08/19/23d8cbb6a881483babdb802e675a2be9.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-5e3dbcbd9ef22a77d7cd8149d5c34b27/component-ota/24/08/19/23d8cbb6a881483babdb802e675a2be9.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_14.0.0.601(EX01) H.24",
+            "links": [
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-91963151a7673a344593300284fc5f8c/component-ota/24/06/07/bafcde740ebf439ca1131f8600f13868.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-91963151a7673a344593300284fc5f8c/component-ota/24/06/07/bafcde740ebf439ca1131f8600f13868.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-91963151a7673a344593300284fc5f8c/component-ota/24/06/07/bafcde740ebf439ca1131f8600f13868.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_14.0.0.600(EX01) H.23",
+            "links": [
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-e5b5338fa61fdfbe9af822e080022ead/component-ota/24/04/22/e9dd9849fa1640479f9f7b8344481c15.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-e5b5338fa61fdfbe9af822e080022ead/component-ota/24/04/22/e9dd9849fa1640479f9f7b8344481c15.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-e5b5338fa61fdfbe9af822e080022ead/component-ota/24/04/22/e9dd9849fa1640479f9f7b8344481c15.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_14.0.0.500(EX01) H.21",
+            "links": [
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-abd346d1159d28097d553050f743a020/component-ota/24/03/07/8f89cb9167a5466a8f0d701eeaf095b7.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-abd346d1159d28097d553050f743a020/component-ota/24/03/07/8f89cb9167a5466a8f0d701eeaf095b7.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-abd346d1159d28097d553050f743a020/component-ota/24/03/07/8f89cb9167a5466a8f0d701eeaf095b7.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_14.0.0.301(EX01) H.20",
+            "links": [
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-fabc36dbb2a2f5de5b9d972082e202a4/component-ota/23/12/21/10950f5eac1e4f4fa625881fafac6397.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-fabc36dbb2a2f5de5b9d972082e202a4/component-ota/23/12/21/10950f5eac1e4f4fa625881fafac6397.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-fabc36dbb2a2f5de5b9d972082e202a4/component-ota/23/12/21/10950f5eac1e4f4fa625881fafac6397.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_14.0.0.300(EX01) H.17",
+            "links": [
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-fabc36dbb2a2f5de5b9d972082e202a4/component-ota/23/12/21/10950f5eac1e4f4fa625881fafac6397.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-fabc36dbb2a2f5de5b9d972082e202a4/component-ota/23/12/21/10950f5eac1e4f4fa625881fafac6397.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-fabc36dbb2a2f5de5b9d972082e202a4/component-ota/23/12/21/10950f5eac1e4f4fa625881fafac6397.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_14.0.0.2100(EX01) H.29",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-0b53690b2c1e9955bec467b87a409287/component-ota/25/05/26/537d9ddec3db43f8ba68b88df194a70b.zip",
+                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-0b53690b2c1e9955bec467b87a409287/component-ota/25/05/26/537d9ddec3db43f8ba68b88df194a70b.zip",
+                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-0b53690b2c1e9955bec467b87a409287/component-ota/25/05/26/537d9ddec3db43f8ba68b88df194a70b.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-0b53690b2c1e9955bec467b87a409287/component-ota/25/05/26/537d9ddec3db43f8ba68b88df194a70b.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-0b53690b2c1e9955bec467b87a409287/component-ota/25/05/26/537d9ddec3db43f8ba68b88df194a70b.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-0b53690b2c1e9955bec467b87a409287/component-ota/25/05/26/537d9ddec3db43f8ba68b88df194a70b.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-0b53690b2c1e9955bec467b87a409287/component-ota/25/05/26/537d9ddec3db43f8ba68b88df194a70b.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-0b53690b2c1e9955bec467b87a409287/component-ota/25/05/26/537d9ddec3db43f8ba68b88df194a70b.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-0b53690b2c1e9955bec467b87a409287/component-ota/25/05/26/537d9ddec3db43f8ba68b88df194a70b.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_13.1.0.583(EX01) F.30",
+            "links": [
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-d740d956d0f2e0891b55d1c83b71737d/component-ota/23/10/18/e6f0e1d927ee48ed97875afc67405ec3.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-d740d956d0f2e0891b55d1c83b71737d/component-ota/23/10/18/e6f0e1d927ee48ed97875afc67405ec3.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-d740d956d0f2e0891b55d1c83b71737d/component-ota/23/10/18/e6f0e1d927ee48ed97875afc67405ec3.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_13.1.0.582(EX01) F.29",
+            "links": [
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-4530b5205590df2d5c4e9a4531a15251/component-ota/23/08/16/af4b6181d5014aff83024d912217e4f0.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-4530b5205590df2d5c4e9a4531a15251/component-ota/23/08/16/af4b6181d5014aff83024d912217e4f0.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-4530b5205590df2d5c4e9a4531a15251/component-ota/23/08/16/af4b6181d5014aff83024d912217e4f0.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_13.1.0.581(EX01) F.28",
+            "links": [
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-8abedc06f031a21f9384793d37bb2b62/component-ota/23/06/30/157c29bcba194c8ebd795e1523c75f7f.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-8abedc06f031a21f9384793d37bb2b62/component-ota/23/06/30/157c29bcba194c8ebd795e1523c75f7f.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-8abedc06f031a21f9384793d37bb2b62/component-ota/23/06/30/157c29bcba194c8ebd795e1523c75f7f.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_13.1.0.500(EX01) F.26",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-57b2f08c72fa1ba639602ee202510550/component-ota/23/05/05/36523447c2514bb388f7bfe9bff21f8a.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-57b2f08c72fa1ba639602ee202510550/component-ota/23/05/05/36523447c2514bb388f7bfe9bff21f8a.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-57b2f08c72fa1ba639602ee202510550/component-ota/23/05/05/36523447c2514bb388f7bfe9bff21f8a.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_13.0.0 F.22",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-7e771b6f6320efffca7ea5198e9b784c/component-ota/23/03/16/57a654354d954a7ba27d51420e605d8d.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-7e771b6f6320efffca7ea5198e9b784c/component-ota/23/03/16/57a654354d954a7ba27d51420e605d8d.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-7e771b6f6320efffca7ea5198e9b784c/component-ota/23/03/16/57a654354d954a7ba27d51420e605d8d.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_13.0.0 F.21",
+            "links": [
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-8e2cebfd1af8ac4cec915f4707352c55/component-ota/23/01/16/9cb382c007504449b08e26ce618d67bf.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-8e2cebfd1af8ac4cec915f4707352c55/component-ota/23/01/16/9cb382c007504449b08e26ce618d67bf.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-8e2cebfd1af8ac4cec915f4707352c55/component-ota/23/01/16/9cb382c007504449b08e26ce618d67bf.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_13.0.0 F.16",
+            "links": [
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-99170089147ba163d84e7d7570249615/component-ota/22/11/12/337f7337ac424befa8f41cd19d40e074.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-99170089147ba163d84e7d7570249615/component-ota/22/11/12/337f7337ac424befa8f41cd19d40e074.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-99170089147ba163d84e7d7570249615/component-ota/22/11/12/337f7337ac424befa8f41cd19d40e074.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-9372fb9aaf9ef3a51c12e1dd546d5970/component-ota/22/11/12/0b2c95009a994e5db884da0ecf10b00f.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-9372fb9aaf9ef3a51c12e1dd546d5970/component-ota/22/11/12/0b2c95009a994e5db884da0ecf10b00f.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-9372fb9aaf9ef3a51c12e1dd546d5970/component-ota/22/11/12/0b2c95009a994e5db884da0ecf10b00f.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_12.1 C.36",
+            "links": [
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-ebcbff3804bbd7d8c80f81fbe7758e33/component-ota/22/10/19/55ba4c0c8ee34dcea2262e965554e74b.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-ebcbff3804bbd7d8c80f81fbe7758e33/component-ota/22/10/19/55ba4c0c8ee34dcea2262e965554e74b.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-ebcbff3804bbd7d8c80f81fbe7758e33/component-ota/22/10/19/55ba4c0c8ee34dcea2262e965554e74b.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_12.1 C.35",
+            "links": [
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-93c748f063aff6ad8bcef8ef9bdaa655/component-ota/22/08/27/7f69d9fbe9904ec2a724140a669c2ab2.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-93c748f063aff6ad8bcef8ef9bdaa655/component-ota/22/08/27/7f69d9fbe9904ec2a724140a669c2ab2.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-93c748f063aff6ad8bcef8ef9bdaa655/component-ota/22/08/27/7f69d9fbe9904ec2a724140a669c2ab2.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_12.1 C.33",
+            "links": [
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-4aca43d1294f027a7afa446f6e628f8e/component-ota/22/08/01/ab1e2256b524429080b968ca385d3c40.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_12.1 C.21",
+            "links": [
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-451bc760d4b8b15840e4e1811e741f8c/component-ota/22/06/11/ec0b57d10bf44889852d943f3ba41995.zip"
+            ]
+        },
+        {
+            "version": "氧OS LE2101_12.1 C.20",
+            "links": [
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-185f80766049b76ec68e5d7ca091b950/component-ota/22/05/27/6298a9751d0f4b8ebf0617dc53f1a58c.zip"
             ]
         }
     ]

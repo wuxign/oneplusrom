@@ -2,31 +2,31 @@
     "model": "一加 ACE 5 竞速版",
     "roms": [
         {
-            "version": "一加 ACE 5 竞速 ColorOS PLF110_15.0.2.206(CN01) A.20",
+            "version": "ColorOS PLF110_15.0.2.206(CN01) A.20",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-c9d439ad5ea5bb27d5fc13055254a33b/component-ota/25/06/23/8a0d0492e9174832b0ebda84f734397f.zip"
             ]
         },
         {
-            "version": "一加 ACE 5 竞速 ColorOS PLF110_15.0.2.303(CN01) A.17",
+            "version": "ColorOS PLF110_15.0.2.303(CN01) A.17",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-bb4e9fd99b44355657b1e90137170570/component-ota/25/05/23/10ceea0e151e4c17bcedabbc7aa34728.zip"
             ]
         },
         {
-            "version": "一加 ACE 5 竞速 ColorOS PLF110_15.0.2.305(CN01) A.18",
+            "version": "ColorOS PLF110_15.0.2.305(CN01) A.18",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-598e51300947df06dae0ea22f67e7339/component-ota/25/05/27/c664979978594ad2b1c611a2ab95b922.zip"
             ]
         },
         {
-            "version": "一加 ACE 5 竞速 ColorOS PLF110_15.0.2.306(CN01) A.21",
+            "version": "ColorOS PLF110_15.0.2.306(CN01) A.21",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-ddec93d69c3ce360ff291e69fa8456f8/component-ota/25/06/27/56ef78d0f320422585982dfc1a7cf92c.zip"
             ]
         },
         {
-            "version": "一加 ACE 5 竞速 ColorOS PLF110_15.0.2.410(CN01) A.23",
+            "version": "ColorOS PLF110_15.0.2.410(CN01) A.23",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-8e4983286dd0b487569fccfccf82eca8/component-ota/25/07/12/c4337e8285514e3a815ae6c1756e353e.zip"
             ]
