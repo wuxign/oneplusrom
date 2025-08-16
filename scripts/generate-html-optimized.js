@@ -16,8 +16,8 @@ function readDeviceData() {
             const content = fs.readFileSync(path.join('./data', file), 'utf8');
             const data = JSON.parse(content);
             const deviceCode = path.basename(file, '.json');
-            const deviceName = data.model || deviceCode; 
-            
+            const deviceName = data.name || deviceCode;
+
             devices.push({
                 code: deviceCode,
                 name: deviceName,

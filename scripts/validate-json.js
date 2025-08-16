@@ -20,8 +20,8 @@ jsonFiles.forEach(file => {
     const data = JSON.parse(content);
     
     // 检查必需字段
-    if (!data.model) {
-      console.log(`❌ ${file}: 缺少 'model' 字段`);
+    if (!data.name) {
+      console.log(`❌ ${file}: 缺少 'name' 字段`);
       invalidFiles++;
       return;
     }
@@ -54,7 +54,7 @@ jsonFiles.forEach(file => {
       return;
     }
     
-    console.log(`✅ ${file}: ${data.model} (${validRoms}个ROM, ${data.roms.reduce((sum, rom) => sum + (rom.links ? rom.links.length : 0), 0)}个链接)`);
+    console.log(`✅ ${file}: ${data.name} (${validRoms}个ROM, ${data.roms.reduce((sum, rom) => sum + (rom.links ? rom.links.length : 0), 0)}个链接)`);
     validFiles++;
     totalDevices++;
     totalRoms += validRoms;
