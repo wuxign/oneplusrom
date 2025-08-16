@@ -1,30 +1,68 @@
 {
-  "code": "PLC110",
-  "name": "一加 ACE 5 至尊版",
-  "roms": [
-    {
-      "version": "ColorOS PLC110_15.0.2.501(CN01) A.21",
-      "links": [
-        "https://gauss-cdnctrltrialmanual-cn.allawnfs.com/component-ota/25/08/08/ca2743bd2bca4c1a82ea71aa5264cbed.zip"
-      ]
-    },
-    {
-      "version": "ColorOS PLC110_15.0.2.401(CN01) A.19",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-8f1f8aea4ad9f9306b2274158e460b38/component-ota/25/07/15/7a747bdd00614f129ba74d273dba3d61.zip"
-      ]
-    },
-    {
-      "version": "ColorOS PLC110_15.0.2.215(CN01) A.16",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-964285481eb7babf8c54469077cabebb/component-ota/25/06/12/617f366b715647dd8c1fa115d9bf2a35.zip"
-      ]
-    },
-    {
-      "version": "ColorOS PLC110_15.0.2.211(CN01) A.12",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-459c1cd82d58f5ea6367b41fa34b4206/component-ota/25/05/21/ed15d83f5d174e298d1997e863f53a93.zip"
-      ]
-    }
-  ]
+    "code": "PLC110",
+    "name": "一加 ACE 5 至尊版",
+    "roms": [
+        {
+            "version": "ColorOS PLC110_15.0.2.211(CN01) A.12",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-459c1cd82d58f5ea6367b41fa34b4206/component-ota/25/05/21/ed15d83f5d174e298d1997e863f53a93.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-459c1cd82d58f5ea6367b41fa34b4206/component-ota/25/05/21/ed15d83f5d174e298d1997e863f53a93.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-459c1cd82d58f5ea6367b41fa34b4206/component-ota/25/05/21/ed15d83f5d174e298d1997e863f53a93.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-459c1cd82d58f5ea6367b41fa34b4206/component-ota/25/05/21/ed15d83f5d174e298d1997e863f53a93.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-459c1cd82d58f5ea6367b41fa34b4206/component-ota/25/05/21/ed15d83f5d174e298d1997e863f53a93.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-459c1cd82d58f5ea6367b41fa34b4206/component-ota/25/05/21/ed15d83f5d174e298d1997e863f53a93.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-459c1cd82d58f5ea6367b41fa34b4206/component-ota/25/05/21/ed15d83f5d174e298d1997e863f53a93.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/05/21/ed15d83f5d174e298d1997e863f53a93.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/05/21/ed15d83f5d174e298d1997e863f53a93.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/05/21/ed15d83f5d174e298d1997e863f53a93.zip"
+            ]
+        },
+        {
+            "version": "ColorOS PLC110_15.0.2.215(CN01) A.16",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-964285481eb7babf8c54469077cabebb/component-ota/25/06/12/617f366b715647dd8c1fa115d9bf2a35.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-964285481eb7babf8c54469077cabebb/component-ota/25/06/12/617f366b715647dd8c1fa115d9bf2a35.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-964285481eb7babf8c54469077cabebb/component-ota/25/06/12/617f366b715647dd8c1fa115d9bf2a35.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-964285481eb7babf8c54469077cabebb/component-ota/25/06/12/617f366b715647dd8c1fa115d9bf2a35.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-964285481eb7babf8c54469077cabebb/component-ota/25/06/12/617f366b715647dd8c1fa115d9bf2a35.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-964285481eb7babf8c54469077cabebb/component-ota/25/06/12/617f366b715647dd8c1fa115d9bf2a35.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-964285481eb7babf8c54469077cabebb/component-ota/25/06/12/617f366b715647dd8c1fa115d9bf2a35.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/06/12/617f366b715647dd8c1fa115d9bf2a35.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/06/12/617f366b715647dd8c1fa115d9bf2a35.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/06/12/617f366b715647dd8c1fa115d9bf2a35.zip"
+            ]
+        },
+        {
+            "version": "ColorOS PLC110_15.0.2.401(CN01) A.19",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-8f1f8aea4ad9f9306b2274158e460b38/component-ota/25/07/15/7a747bdd00614f129ba74d273dba3d61.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-8f1f8aea4ad9f9306b2274158e460b38/component-ota/25/07/15/7a747bdd00614f129ba74d273dba3d61.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-8f1f8aea4ad9f9306b2274158e460b38/component-ota/25/07/15/7a747bdd00614f129ba74d273dba3d61.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-8f1f8aea4ad9f9306b2274158e460b38/component-ota/25/07/15/7a747bdd00614f129ba74d273dba3d61.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-8f1f8aea4ad9f9306b2274158e460b38/component-ota/25/07/15/7a747bdd00614f129ba74d273dba3d61.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-8f1f8aea4ad9f9306b2274158e460b38/component-ota/25/07/15/7a747bdd00614f129ba74d273dba3d61.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-8f1f8aea4ad9f9306b2274158e460b38/component-ota/25/07/15/7a747bdd00614f129ba74d273dba3d61.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/07/15/7a747bdd00614f129ba74d273dba3d61.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/07/15/7a747bdd00614f129ba74d273dba3d61.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/07/15/7a747bdd00614f129ba74d273dba3d61.zip"
+            ]
+        },
+        {
+            "version": "ColorOS PLC110_15.0.2.501(CN01) A.21",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/component-ota/25/08/08/ca2743bd2bca4c1a82ea71aa5264cbed.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/component-ota/25/08/08/ca2743bd2bca4c1a82ea71aa5264cbed.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/component-ota/25/08/08/ca2743bd2bca4c1a82ea71aa5264cbed.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/component-ota/25/08/08/ca2743bd2bca4c1a82ea71aa5264cbed.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/component-ota/25/08/08/ca2743bd2bca4c1a82ea71aa5264cbed.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/component-ota/25/08/08/ca2743bd2bca4c1a82ea71aa5264cbed.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/component-ota/25/08/08/ca2743bd2bca4c1a82ea71aa5264cbed.zip",
+                "https://gauss-cdnctrltrialauto-cn.allawnfs.com/component-ota/25/08/08/ca2743bd2bca4c1a82ea71aa5264cbed.zip",
+                "https://gauss-cdnctrltrialmanual-cn.allawnfs.com/component-ota/25/08/08/ca2743bd2bca4c1a82ea71aa5264cbed.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/08/08/ca2743bd2bca4c1a82ea71aa5264cbed.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/08/08/ca2743bd2bca4c1a82ea71aa5264cbed.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/08/08/ca2743bd2bca4c1a82ea71aa5264cbed.zip"
+            ]
+        }
+    ]
 }

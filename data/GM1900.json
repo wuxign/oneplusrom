@@ -1,142 +1,284 @@
 {
-  "code": "GM1900",
-  "name": "一加7",
-  "roms": [
-    {
-      "version": "ColorOS 12.1 H.40",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-fff044e75e61d76e97bd2c5cdfa4f3e7/component-ota/23/03/28/5f79a15ec8cb4a79ab518f0763f27d21.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-fff044e75e61d76e97bd2c5cdfa4f3e7/component-ota/23/03/28/5f79a15ec8cb4a79ab518f0763f27d21.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-fff044e75e61d76e97bd2c5cdfa4f3e7/component-ota/23/03/28/5f79a15ec8cb4a79ab518f0763f27d21.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-fff044e75e61d76e97bd2c5cdfa4f3e7/component-ota/23/03/28/5f79a15ec8cb4a79ab518f0763f27d21.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/23/03/28/5f79a15ec8cb4a79ab518f0763f27d21.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/23/03/28/5f79a15ec8cb4a79ab518f0763f27d21.zip"
-      ]
-    },
-    {
-      "version": "ColorOS 12.1 H.36",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-00827e7b08350bf716382b98480f1b50/component-ota/23/02/01/83a563ac077248d38d2fd55ffc178076.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-00827e7b08350bf716382b98480f1b50/component-ota/23/02/01/83a563ac077248d38d2fd55ffc178076.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-00827e7b08350bf716382b98480f1b50/component-ota/23/02/01/83a563ac077248d38d2fd55ffc178076.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-00827e7b08350bf716382b98480f1b50/component-ota/23/02/01/83a563ac077248d38d2fd55ffc178076.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/23/02/01/83a563ac077248d38d2fd55ffc178076.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/23/02/01/83a563ac077248d38d2fd55ffc178076.zip"
-      ]
-    },
-    {
-      "version": "ColorOS 12.1 H.32",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-52d93beb71788f717480c4fb841800f8/component-ota/22/12/26/bb30b569d304494cb18b8fb1afc32c96.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-52d93beb71788f717480c4fb841800f8/component-ota/22/12/26/bb30b569d304494cb18b8fb1afc32c96.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-52d93beb71788f717480c4fb841800f8/component-ota/22/12/26/bb30b569d304494cb18b8fb1afc32c96.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-52d93beb71788f717480c4fb841800f8/component-ota/22/12/26/bb30b569d304494cb18b8fb1afc32c96.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/22/12/26/bb30b569d304494cb18b8fb1afc32c96.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/22/12/26/bb30b569d304494cb18b8fb1afc32c96.zip"
-      ]
-    },
-    {
-      "version": "ColorOS 12.1 H.30",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-781760d8ac214d4515b34fbd7eeeacc2/component-ota/22/10/14/50e20002c8324c499f33e45d7c1628bd.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-781760d8ac214d4515b34fbd7eeeacc2/component-ota/22/10/14/50e20002c8324c499f33e45d7c1628bd.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-781760d8ac214d4515b34fbd7eeeacc2/component-ota/22/10/14/50e20002c8324c499f33e45d7c1628bd.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-781760d8ac214d4515b34fbd7eeeacc2/component-ota/22/10/14/50e20002c8324c499f33e45d7c1628bd.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/22/10/14/50e20002c8324c499f33e45d7c1628bd.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/22/10/14/50e20002c8324c499f33e45d7c1628bd.zip"
-      ]
-    },
-    {
-      "version": "ColorOS 12.1 H.28",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7a82d89d53d6b7e95d7308159dfe4396/component-ota/22/10/08/944f5e306b92494788f6bbc6e80dd2a9.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-7a82d89d53d6b7e95d7308159dfe4396/component-ota/22/10/08/944f5e306b92494788f6bbc6e80dd2a9.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-7a82d89d53d6b7e95d7308159dfe4396/component-ota/22/10/08/944f5e306b92494788f6bbc6e80dd2a9.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-7a82d89d53d6b7e95d7308159dfe4396/component-ota/22/10/08/944f5e306b92494788f6bbc6e80dd2a9.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/22/10/08/944f5e306b92494788f6bbc6e80dd2a9.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/22/10/08/944f5e306b92494788f6bbc6e80dd2a9.zip"
-      ]
-    },
-    {
-      "version": "ColorOS 12.1 H.26",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-06cb615e93c2bf8fee72e783cb8965ac/component-ota/22/08/03/23f93949998f47289552cec4cfb190eb.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-06cb615e93c2bf8fee72e783cb8965ac/component-ota/22/08/03/23f93949998f47289552cec4cfb190eb.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-06cb615e93c2bf8fee72e783cb8965ac/component-ota/22/08/03/23f93949998f47289552cec4cfb190eb.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-06cb615e93c2bf8fee72e783cb8965ac/component-ota/22/08/03/23f93949998f47289552cec4cfb190eb.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/22/08/03/23f93949998f47289552cec4cfb190eb.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/22/08/03/23f93949998f47289552cec4cfb190eb.zip"
-      ]
-    },
-    {
-      "version": "ColorOS 12.1 H.20",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-9b405998ec4bb851c621b5748e557967/component-ota/22/06/18/0f81a238259d4f79a52665c07b8b3f3b.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-9b405998ec4bb851c621b5748e557967/component-ota/22/06/18/0f81a238259d4f79a52665c07b8b3f3b.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-9b405998ec4bb851c621b5748e557967/component-ota/22/06/18/0f81a238259d4f79a52665c07b8b3f3b.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-9b405998ec4bb851c621b5748e557967/component-ota/22/06/18/0f81a238259d4f79a52665c07b8b3f3b.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/22/06/18/0f81a238259d4f79a52665c07b8b3f3b.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/22/06/18/0f81a238259d4f79a52665c07b8b3f3b.zip"
-      ]
-    },
-    {
-      "version": "ColorOS 12.1 H.18",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7b3b2039041b0941897b1c36801e03a5/component-ota/22/06/09/7008b34df11e48ff98cc6d49c5bb156e.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-7b3b2039041b0941897b1c36801e03a5/component-ota/22/06/09/7008b34df11e48ff98cc6d49c5bb156e.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-7b3b2039041b0941897b1c36801e03a5/component-ota/22/06/09/7008b34df11e48ff98cc6d49c5bb156e.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/22/06/09/7008b34df11e48ff98cc6d49c5bb156e.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/22/06/09/7008b34df11e48ff98cc6d49c5bb156e.zip"
-      ]
-    },
-    {
-      "version": "氧OS 12.1 H.41",
-      "links": [
-        "https://gauss-otacostmanual-eu.allawnofs.com/remove-5cb9254939779b23d4be6bba4d339054/ota/23/03/31/7697b07a-0b88-463f-98af-eb5d8e4d8e5e.zip",
-        "https://gauss-otacostmanual-in.allawnofs.com/remove-5cb9254939779b23d4be6bba4d339054/ota/23/03/31/7697b07a-0b88-463f-98af-eb5d8e4d8e5e.zip",
-        "https://gauss-otacostmanual-sg.allawnofs.com/remove-5cb9254939779b23d4be6bba4d339054/ota/23/03/31/7697b07a-0b88-463f-98af-eb5d8e4d8e5e.zip"
-      ]
-    },
-    {
-      "version": "氧OS 12.1 H.40",
-      "links": [
-        "https://gauss-otacostmanual-eu.allawnofs.com/remove-063a33dd6484067aefeb0fc46ae38ea9/component-ota/23/03/28/2e230481204745b0adbad125a1511fd5.zip",
-        "https://gauss-otacostmanual-in.allawnofs.com/remove-063a33dd6484067aefeb0fc46ae38ea9/component-ota/23/03/28/2e230481204745b0adbad125a1511fd5.zip",
-        "https://gauss-otacostmanual-sg.allawnofs.com/remove-063a33dd6484067aefeb0fc46ae38ea9/component-ota/23/03/28/2e230481204745b0adbad125a1511fd5.zip"
-      ]
-    },
-    {
-      "version": "氧OS 12.1 H.38",
-      "links": [
-        "https://gauss-otacostmanual-eu.allawnofs.com/remove-d0b0aeea6b098312f1ead540f8afe4a3/component-ota/23/02/16/d0e27a2a4e0948d6bce9874776fda181.zip",
-        "https://gauss-otacostmanual-in.allawnofs.com/remove-d0b0aeea6b098312f1ead540f8afe4a3/component-ota/23/02/16/d0e27a2a4e0948d6bce9874776fda181.zip",
-        "https://gauss-otacostmanual-sg.allawnofs.com/remove-d0b0aeea6b098312f1ead540f8afe4a3/component-ota/23/02/16/d0e27a2a4e0948d6bce9874776fda181.zip"
-      ]
-    },
-    {
-      "version": "氧OS 12.1 H.32",
-      "links": [
-        "https://gauss-otacostmanual-eu.allawnofs.com/remove-66212337f70834c98b457789c94548eb/component-ota/22/12/26/6393320e5fee4d859dc8e6dcea69e7a9.zip",
-        "https://gauss-otacostmanual-in.allawnofs.com/remove-66212337f70834c98b457789c94548eb/component-ota/22/12/26/6393320e5fee4d859dc8e6dcea69e7a9.zip",
-        "https://gauss-otacostmanual-sg.allawnofs.com/remove-66212337f70834c98b457789c94548eb/component-ota/22/12/26/6393320e5fee4d859dc8e6dcea69e7a9.zip"
-      ]
-    },
-    {
-      "version": "氧OS 12.1 H.31",
-      "links": [
-        "https://gauss-otacostmanual-sg.allawnofs.com/remove-4aac6822afc4775456879de1c46daee1/ota/22/10/15/1ce00031-f041-4af3-afbd-5dc214690eaf.zip"
-      ]
-    },
-    {
-      "version": "氧OS 11.0.9.1",
-      "links": [
-        "https://gauss-otacostmanual-sg.allawnofs.com/remove-adc69987d7a4a50017d830af95d53083/ota/22/06/27/84defc61-252f-424f-bb38-831ae10a7317.zip",
-        "https://gauss-otacostmanual-sg.allawnofs.com/ota/22/06/27/84defc61-252f-424f-bb38-831ae10a7317.zip",
-        "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-adc69987d7a4a50017d830af95d53083/ota/22/06/27/84defc61-252f-424f-bb38-831ae10a7317.zip",
-        "https://gauss-componentotacostmanual-sg.allawnofs.com/ota/22/06/27/84defc61-252f-424f-bb38-831ae10a7317.zip",
-        "https://gauss-otacostmanual-in.allawnofs.com/remove-adc69987d7a4a50017d830af95d53083/ota/22/06/27/84defc61-252f-424f-bb38-831ae10a7317.zip",
-        "https://gauss-otacostmanual-eu.allawnofs.com/remove-adc69987d7a4a50017d830af95d53083/ota/22/06/27/84defc61-252f-424f-bb38-831ae10a7317.zip"
-      ]
-    }
-  ]
+    "code": "GM1900",
+    "name": "一加7",
+    "roms": [
+        {
+            "version": "9008线刷救砖包ColorOS 12.1 H.36",
+            "links": [
+                "https://service-sg-cdn.myoppo.com/GM1900domestic_11_H.36_0130.zip"
+            ]
+        },
+        {
+            "version": "ColorOS 12.1 H.18",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7b3b2039041b0941897b1c36801e03a5/component-ota/22/06/09/7008b34df11e48ff98cc6d49c5bb156e.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-7b3b2039041b0941897b1c36801e03a5/component-ota/22/06/09/7008b34df11e48ff98cc6d49c5bb156e.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-7b3b2039041b0941897b1c36801e03a5/component-ota/22/06/09/7008b34df11e48ff98cc6d49c5bb156e.zip",
+                "https://component-ota-afs.coloros.com/component-ota/22/06/09/7008b34df11e48ff98cc6d49c5bb156e.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/22/06/09/7008b34df11e48ff98cc6d49c5bb156e.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/22/06/09/7008b34df11e48ff98cc6d49c5bb156e.zip"
+            ]
+        },
+        {
+            "version": "ColorOS 12.1 H.20",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-9b405998ec4bb851c621b5748e557967/component-ota/22/06/18/0f81a238259d4f79a52665c07b8b3f3b.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-9b405998ec4bb851c621b5748e557967/component-ota/22/06/18/0f81a238259d4f79a52665c07b8b3f3b.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-9b405998ec4bb851c621b5748e557967/component-ota/22/06/18/0f81a238259d4f79a52665c07b8b3f3b.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-9b405998ec4bb851c621b5748e557967/component-ota/22/06/18/0f81a238259d4f79a52665c07b8b3f3b.zip",
+                "https://component-ota-afs.coloros.com/component-ota/22/06/18/0f81a238259d4f79a52665c07b8b3f3b.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/22/06/18/0f81a238259d4f79a52665c07b8b3f3b.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/22/06/18/0f81a238259d4f79a52665c07b8b3f3b.zip"
+            ]
+        },
+        {
+            "version": "ColorOS 12.1 H.26",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-06cb615e93c2bf8fee72e783cb8965ac/component-ota/22/08/03/23f93949998f47289552cec4cfb190eb.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-06cb615e93c2bf8fee72e783cb8965ac/component-ota/22/08/03/23f93949998f47289552cec4cfb190eb.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-06cb615e93c2bf8fee72e783cb8965ac/component-ota/22/08/03/23f93949998f47289552cec4cfb190eb.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-06cb615e93c2bf8fee72e783cb8965ac/component-ota/22/08/03/23f93949998f47289552cec4cfb190eb.zip",
+                "https://component-ota-afs.coloros.com/component-ota/22/08/03/23f93949998f47289552cec4cfb190eb.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/22/08/03/23f93949998f47289552cec4cfb190eb.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/22/08/03/23f93949998f47289552cec4cfb190eb.zip"
+            ]
+        },
+        {
+            "version": "ColorOS 12.1 H.28",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7a82d89d53d6b7e95d7308159dfe4396/component-ota/22/10/08/944f5e306b92494788f6bbc6e80dd2a9.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-7a82d89d53d6b7e95d7308159dfe4396/component-ota/22/10/08/944f5e306b92494788f6bbc6e80dd2a9.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-7a82d89d53d6b7e95d7308159dfe4396/component-ota/22/10/08/944f5e306b92494788f6bbc6e80dd2a9.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-7a82d89d53d6b7e95d7308159dfe4396/component-ota/22/10/08/944f5e306b92494788f6bbc6e80dd2a9.zip",
+                "https://component-ota-afs.coloros.com/component-ota/22/10/08/944f5e306b92494788f6bbc6e80dd2a9.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/22/10/08/944f5e306b92494788f6bbc6e80dd2a9.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/22/10/08/944f5e306b92494788f6bbc6e80dd2a9.zip"
+            ]
+        },
+        {
+            "version": "ColorOS 12.1 H.30",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-781760d8ac214d4515b34fbd7eeeacc2/component-ota/22/10/14/50e20002c8324c499f33e45d7c1628bd.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-781760d8ac214d4515b34fbd7eeeacc2/component-ota/22/10/14/50e20002c8324c499f33e45d7c1628bd.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-781760d8ac214d4515b34fbd7eeeacc2/component-ota/22/10/14/50e20002c8324c499f33e45d7c1628bd.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-781760d8ac214d4515b34fbd7eeeacc2/component-ota/22/10/14/50e20002c8324c499f33e45d7c1628bd.zip",
+                "https://component-ota-afs.coloros.com/component-ota/22/10/14/50e20002c8324c499f33e45d7c1628bd.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/22/10/14/50e20002c8324c499f33e45d7c1628bd.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/22/10/14/50e20002c8324c499f33e45d7c1628bd.zip"
+            ]
+        },
+        {
+            "version": "ColorOS 12.1 H.32",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-52d93beb71788f717480c4fb841800f8/component-ota/22/12/26/bb30b569d304494cb18b8fb1afc32c96.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-52d93beb71788f717480c4fb841800f8/component-ota/22/12/26/bb30b569d304494cb18b8fb1afc32c96.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-52d93beb71788f717480c4fb841800f8/component-ota/22/12/26/bb30b569d304494cb18b8fb1afc32c96.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-52d93beb71788f717480c4fb841800f8/component-ota/22/12/26/bb30b569d304494cb18b8fb1afc32c96.zip",
+                "https://component-ota-afs.coloros.com/component-ota/22/12/26/bb30b569d304494cb18b8fb1afc32c96.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/22/12/26/bb30b569d304494cb18b8fb1afc32c96.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/22/12/26/bb30b569d304494cb18b8fb1afc32c96.zip"
+            ]
+        },
+        {
+            "version": "ColorOS 12.1 H.36",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-00827e7b08350bf716382b98480f1b50/component-ota/23/02/01/83a563ac077248d38d2fd55ffc178076.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-00827e7b08350bf716382b98480f1b50/component-ota/23/02/01/83a563ac077248d38d2fd55ffc178076.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-00827e7b08350bf716382b98480f1b50/component-ota/23/02/01/83a563ac077248d38d2fd55ffc178076.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-00827e7b08350bf716382b98480f1b50/component-ota/23/02/01/83a563ac077248d38d2fd55ffc178076.zip",
+                "https://component-ota-afs.coloros.com/component-ota/23/02/01/83a563ac077248d38d2fd55ffc178076.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/23/02/01/83a563ac077248d38d2fd55ffc178076.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/23/02/01/83a563ac077248d38d2fd55ffc178076.zip"
+            ]
+        },
+        {
+            "version": "ColorOS 12.1 H.40",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-fff044e75e61d76e97bd2c5cdfa4f3e7/component-ota/23/03/28/5f79a15ec8cb4a79ab518f0763f27d21.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-fff044e75e61d76e97bd2c5cdfa4f3e7/component-ota/23/03/28/5f79a15ec8cb4a79ab518f0763f27d21.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-fff044e75e61d76e97bd2c5cdfa4f3e7/component-ota/23/03/28/5f79a15ec8cb4a79ab518f0763f27d21.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-fff044e75e61d76e97bd2c5cdfa4f3e7/component-ota/23/03/28/5f79a15ec8cb4a79ab518f0763f27d21.zip",
+                "https://component-ota-afs.coloros.com/component-ota/23/03/28/5f79a15ec8cb4a79ab518f0763f27d21.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/23/03/28/5f79a15ec8cb4a79ab518f0763f27d21.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/23/03/28/5f79a15ec8cb4a79ab518f0763f27d21.zip"
+            ]
+        },
+        {
+            "version": "氢10.0.6",
+            "links": [
+                "http://download.h2os.com/OnePlus7/MP/OnePlus7Hydrogen_14.H.26_OTA_026_all_2005131921_07ed821de2814cf6.zip"
+            ]
+        },
+        {
+            "version": "氢11.0.5.1",
+            "links": [
+                "http://download.h2os.com/OnePlus7/MP/OnePlus7Hydrogen_14.H.41_OTA_0410_all_2112212058_7ceab4d2ca8a44f4.zip",
+                "http://otafsc-cost.h2os.com/OnePlus7_CH/OnePlus7Hydrogen_14.H.41_0410_2112212058/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_14.H.41_0410_2112212058/OnePlus7Hydrogen_14.H.41_OTA_0410_all_2112212058_d931a41.zip",
+                "http://otaafsc-cost.h2os.com/OnePlus7_CH/OnePlus7Hydrogen_14.H.41_0410_2112212058/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_14.H.41_0410_2112212058/OnePlus7Hydrogen_14.H.41_OTA_0410_all_2112212058_d931a41.zip",
+                "http://otafsc1.h2os.com/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_14.H.41_0410_2112212058/OnePlus7Hydrogen_14.H.41_OTA_0410_all_2112212058_d931a41.zip",
+                "http://otafs-cost.coloros.com/OnePlus7_CH/OnePlus7Hydrogen_14.H.41_0410_2112212058/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_14.H.41_0410_2112212058/OnePlus7Hydrogen_14.H.41_OTA_0410_all_2112212058_d931a41.zip",
+                "http://otaafs-cost.coloros.com/OnePlus7_CH/OnePlus7Hydrogen_14.H.41_0410_2112212058/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_14.H.41_0410_2112212058/OnePlus7Hydrogen_14.H.41_OTA_0410_all_2112212058_d931a41.zip"
+            ]
+        },
+        {
+            "version": "氢OS 10.0.1",
+            "links": [
+                "https://otafsc.h2os.com/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_14.H.21_021_1911042324/OnePlus7Hydrogen_14.H.21_OTA_021_all_1911042324_762f04627d.zip"
+            ]
+        },
+        {
+            "version": "氢OS 10.0.10",
+            "links": [
+                "https://download.h2os.com/OnePlus7/MP/OnePlus7Hydrogen_14.H.31_OTA_031_all_2011091838_d218c01f9eb94c56.zip"
+            ]
+        },
+        {
+            "version": "氢OS 11.0.6.1",
+            "links": [
+                "http://otafsc-cost.h2os.com/OnePlus7_CH/OnePlus7Hydrogen_14.H.42_0420_2202112205/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_14.H.42_0420_2202112205/OnePlus7Hydrogen_14.H.42_OTA_0420_all_2202112205_ec7abc0847.zip",
+                "http://otaafsc-cost.h2os.com/OnePlus7_CH/OnePlus7Hydrogen_14.H.42_0420_2202112205/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_14.H.42_0420_2202112205/OnePlus7Hydrogen_14.H.42_OTA_0420_all_2202112205_ec7abc0847.zip",
+                "http://otafs-cost.coloros.com/OnePlus7_CH/OnePlus7Hydrogen_14.H.42_0420_2202112205/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_14.H.42_0420_2202112205/OnePlus7Hydrogen_14.H.42_OTA_0420_all_2202112205_ec7abc0847.zip",
+                "http://otaafs-cost.coloros.com/OnePlus7_CH/OnePlus7Hydrogen_14.H.42_0420_2202112205/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_14.H.42_0420_2202112205/OnePlus7Hydrogen_14.H.42_OTA_0420_all_2202112205_ec7abc0847.zip",
+                "http://otafsc1.h2os.com/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_14.H.42_0420_2202112205/OnePlus7Hydrogen_14.H.42_OTA_0420_all_2202112205_ec7abc0847.zip"
+            ]
+        },
+        {
+            "version": "氢OS 11.0.9.1",
+            "links": [
+                "http://download.h2os.com/OnePlus7/MP/OnePlus7Hydrogen_14.H.45_OTA_0450_all_2206171444_4648294fadf24670.zip"
+            ]
+        },
+        {
+            "version": "氧11.0.5.1",
+            "links": [
+                "https://oxygenos.oneplus.net/OnePlus7Oxygen_14.P.41_OTA_0410_all_2112101753_0e21a5f439cf4876.zip",
+                "https://otafsg-cost.h2os.com/OnePlus7/OnePlus7Oxygen_14.P.41_GLO_0410_2112101753/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.41_GLO_0410_2112101753/OnePlus7Oxygen_14.P.41_OTA_0410_all_2112101753_01a2.zip",
+                "https://otaafsg-cost.h2os.com/OnePlus7/OnePlus7Oxygen_14.P.41_GLO_0410_2112101753/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.41_GLO_0410_2112101753/OnePlus7Oxygen_14.P.41_OTA_0410_all_2112101753_01a2.zip",
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.41_GLO_0410_2112101753/OnePlus7Oxygen_14.P.41_OTA_0410_all_2112101753_01a2.zip",
+                "https://otafsg-cost-az.coloros.com/OnePlus7/OnePlus7Oxygen_14.P.41_GLO_0410_2112101753/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.41_GLO_0410_2112101753/OnePlus7Oxygen_14.P.41_OTA_0410_all_2112101753_01a2.zip",
+                "https://otaafsg-cost-az.coloros.com/OnePlus7/OnePlus7Oxygen_14.P.41_GLO_0410_2112101753/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.41_GLO_0410_2112101753/OnePlus7Oxygen_14.P.41_OTA_0410_all_2112101753_01a2.zip",
+                "https://otafsg1-az.coloros.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.41_GLO_0410_2112101753/OnePlus7Oxygen_14.P.41_OTA_0410_all_2112101753_01a2.zip",
+                "https://otafsg1.coloros.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.41_GLO_0410_2112101753/OnePlus7Oxygen_14.P.41_OTA_0410_all_2112101753_01a2.zip"
+            ]
+        },
+        {
+            "version": "氧OS 11.0.6.1",
+            "links": [
+                "https://otafsg-cost.h2os.com/OnePlus7/OnePlus7Oxygen_14.P.42_GLO_0420_2202112205/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.42_GLO_0420_2202112205/OnePlus7Oxygen_14.P.42_OTA_0420_all_2202112205_2c6f5649.zip",
+                "https://otaafsg-cost.h2os.com/OnePlus7/OnePlus7Oxygen_14.P.42_GLO_0420_2202112205/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.42_GLO_0420_2202112205/OnePlus7Oxygen_14.P.42_OTA_0420_all_2202112205_2c6f5649.zip",
+                "https://otafsg-cost-az.coloros.com/OnePlus7/OnePlus7Oxygen_14.P.42_GLO_0420_2202112205/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.42_GLO_0420_2202112205/OnePlus7Oxygen_14.P.42_OTA_0420_all_2202112205_2c6f5649.zip",
+                "https://otaafsg-cost-az.coloros.com/OnePlus7/OnePlus7Oxygen_14.P.42_GLO_0420_2202112205/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.42_GLO_0420_2202112205/OnePlus7Oxygen_14.P.42_OTA_0420_all_2202112205_2c6f5649.zip",
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.42_GLO_0420_2202112205/OnePlus7Oxygen_14.P.42_OTA_0420_all_2202112205_2c6f5649.zip",
+                "https://otafsg1-az.coloros.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.42_GLO_0420_2202112205/OnePlus7Oxygen_14.P.42_OTA_0420_all_2202112205_2c6f5649.zip",
+                "https://otafsg1.coloros.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.42_GLO_0420_2202112205/OnePlus7Oxygen_14.P.42_OTA_0420_all_2202112205_2c6f5649.zip"
+            ]
+        },
+        {
+            "version": "氧OS 11.0.7.1",
+            "links": [
+                "https://otafsg-cost.h2os.com/OnePlus7/OnePlus7Oxygen_14.P.43_GLO_0430_2204061200/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.43_GLO_0430_2204061200/OnePlus7Oxygen_14.P.43_OTA_0430_all_2204061200_03fb7e.zip",
+                "https://otaafsg-cost.h2os.com/OnePlus7/OnePlus7Oxygen_14.P.43_GLO_0430_2204061200/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.43_GLO_0430_2204061200/OnePlus7Oxygen_14.P.43_OTA_0430_all_2204061200_03fb7e.zip",
+                "https://otafsg-cost-az.coloros.com/OnePlus7/OnePlus7Oxygen_14.P.43_GLO_0430_2204061200/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.43_GLO_0430_2204061200/OnePlus7Oxygen_14.P.43_OTA_0430_all_2204061200_03fb7e.zip",
+                "https://otaafsg-cost-az.coloros.com/OnePlus7/OnePlus7Oxygen_14.P.43_GLO_0430_2204061200/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.43_GLO_0430_2204061200/OnePlus7Oxygen_14.P.43_OTA_0430_all_2204061200_03fb7e.zip",
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.43_GLO_0430_2204061200/OnePlus7Oxygen_14.P.43_OTA_0430_all_2204061200_03fb7e.zip",
+                "https://otafsg1-az.coloros.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.43_GLO_0430_2204061200/OnePlus7Oxygen_14.P.43_OTA_0430_all_2204061200_03fb7e.zip",
+                "https://otafsg1.coloros.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.43_GLO_0430_2204061200/OnePlus7Oxygen_14.P.43_OTA_0430_all_2204061200_03fb7e.zip"
+            ]
+        },
+        {
+            "version": "氧OS 11.0.8.1",
+            "links": [
+                "https://oxygenos.oneplus.net/OnePlus7Oxygen_14.P.44_OTA_0440_all_2205261923_4d1ebd498efc4925.zip",
+                "https://otafsg-cost.h2os.com/OnePlus7/OnePlus7Oxygen_14.P.44_GLO_0440_2205261923/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.44_GLO_0440_2205261923/OnePlus7Oxygen_14.P.44_OTA_0440_all_2205261923_742274f6d32.zip",
+                "https://otaafsg-cost.h2os.com/OnePlus7/OnePlus7Oxygen_14.P.44_GLO_0440_2205261923/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.44_GLO_0440_2205261923/OnePlus7Oxygen_14.P.44_OTA_0440_all_2205261923_742274f6d32.zip",
+                "https://otafsg-cost-az.coloros.com/OnePlus7/OnePlus7Oxygen_14.P.44_GLO_0440_2205261923/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.44_GLO_0440_2205261923/OnePlus7Oxygen_14.P.44_OTA_0440_all_2205261923_742274f6d32.zip",
+                "https://otaafsg-cost-az.coloros.com/OnePlus7/OnePlus7Oxygen_14.P.44_GLO_0440_2205261923/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.44_GLO_0440_2205261923/OnePlus7Oxygen_14.P.44_OTA_0440_all_2205261923_742274f6d32.zip",
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.44_GLO_0440_2205261923/OnePlus7Oxygen_14.P.44_OTA_0440_all_2205261923_742274f6d32.zip",
+                "https://otafsg1-az.coloros.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.44_GLO_0440_2205261923/OnePlus7Oxygen_14.P.44_OTA_0440_all_2205261923_742274f6d32.zip",
+                "https://otafsg1.coloros.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.44_GLO_0440_2205261923/OnePlus7Oxygen_14.P.44_OTA_0440_all_2205261923_742274f6d32.zip"
+            ]
+        },
+        {
+            "version": "氧OS 11.0.9.1",
+            "links": [
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-adc69987d7a4a50017d830af95d53083/ota/22/06/27/84defc61-252f-424f-bb38-831ae10a7317.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/ota/22/06/27/84defc61-252f-424f-bb38-831ae10a7317.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-adc69987d7a4a50017d830af95d53083/ota/22/06/27/84defc61-252f-424f-bb38-831ae10a7317.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/ota/22/06/27/84defc61-252f-424f-bb38-831ae10a7317.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-adc69987d7a4a50017d830af95d53083/ota/22/06/27/84defc61-252f-424f-bb38-831ae10a7317.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-adc69987d7a4a50017d830af95d53083/ota/22/06/27/84defc61-252f-424f-bb38-831ae10a7317.zip",
+                "https://oxygenos.oneplus.net/OnePlus7Oxygen_14.P.45_OTA_0450_all_2206171433_0a40609d7b064d3f.zip"
+            ]
+        },
+        {
+            "version": "氧OS 12.1 H.20",
+            "links": [
+                "https://oxygenos.oneplus.net/GM1901_11_H_OTA_4200_all_c44317_00011011.zip"
+            ]
+        },
+        {
+            "version": "氧OS 12.1 H.26",
+            "links": [
+                "https://oxygenos.oneplus.net/GM1901_11_H_OTA_4260_all_d12464_00011011.zip"
+            ]
+        },
+        {
+            "version": "氧OS 12.1 H.31",
+            "links": [
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-4aac6822afc4775456879de1c46daee1/ota/22/10/15/1ce00031-f041-4af3-afbd-5dc214690eaf.zip"
+            ]
+        },
+        {
+            "version": "氧OS 12.1 H.32",
+            "links": [
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-66212337f70834c98b457789c94548eb/component-ota/22/12/26/6393320e5fee4d859dc8e6dcea69e7a9.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-66212337f70834c98b457789c94548eb/component-ota/22/12/26/6393320e5fee4d859dc8e6dcea69e7a9.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-66212337f70834c98b457789c94548eb/component-ota/22/12/26/6393320e5fee4d859dc8e6dcea69e7a9.zip"
+            ]
+        },
+        {
+            "version": "氧OS 12.1 H.38",
+            "links": [
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-d0b0aeea6b098312f1ead540f8afe4a3/component-ota/23/02/16/d0e27a2a4e0948d6bce9874776fda181.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-d0b0aeea6b098312f1ead540f8afe4a3/component-ota/23/02/16/d0e27a2a4e0948d6bce9874776fda181.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-d0b0aeea6b098312f1ead540f8afe4a3/component-ota/23/02/16/d0e27a2a4e0948d6bce9874776fda181.zip"
+            ]
+        },
+        {
+            "version": "氧OS 12.1 H.40",
+            "links": [
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-063a33dd6484067aefeb0fc46ae38ea9/component-ota/23/03/28/2e230481204745b0adbad125a1511fd5.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-063a33dd6484067aefeb0fc46ae38ea9/component-ota/23/03/28/2e230481204745b0adbad125a1511fd5.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-063a33dd6484067aefeb0fc46ae38ea9/component-ota/23/03/28/2e230481204745b0adbad125a1511fd5.zip"
+            ]
+        },
+        {
+            "version": "氧OS 12.1 H.41",
+            "links": [
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-5cb9254939779b23d4be6bba4d339054/ota/23/03/31/7697b07a-0b88-463f-98af-eb5d8e4d8e5e.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-5cb9254939779b23d4be6bba4d339054/ota/23/03/31/7697b07a-0b88-463f-98af-eb5d8e4d8e5e.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-5cb9254939779b23d4be6bba4d339054/ota/23/03/31/7697b07a-0b88-463f-98af-eb5d8e4d8e5e.zip"
+            ]
+        },
+        {
+            "version": "降级包GM1903 EU 11.0.5.1",
+            "links": [
+                "https://oxygenos.oneplus.net/OnePlus7Oxygen_14.E.41_OTA_0410_all_2112101753_downgrade_31e04f4588c447ec.zip"
+            ]
+        },
+        {
+            "version": "降级包氧11.0.1.1",
+            "links": [
+                "https://oxygenos.oneplus.net/OnePlus7ProOxygen_21.P.37_OTA_0370_all_2105200027_downgrade_852bed6281014379.zip"
+            ]
+        },
+        {
+            "version": "降级包氧OS 11.0.5.1",
+            "links": [
+                "https://oxygenos.oneplus.net/OnePlus7ProOxygen_21.P.41_OTA_0410_all_2112101753_downgrade_9d0f5369d0db4035.zip",
+                "https://oxygenos.oneplus.net/OnePlus7ProOxygen_21.E.41_OTA_0410_all_2112101752_downgrade_3821c2d4496c48fc.zip",
+                "https://oxygenos.oneplus.net/OnePlus7Oxygen_14.P.41_OTA_0410_all_2112101753_downgrade_da90e698650240ff.zip"
+            ]
+        }
+    ]
 }

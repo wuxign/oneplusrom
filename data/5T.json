@@ -1,0 +1,42 @@
+{
+    "code": "5T",
+    "name": "OnePlus 5T",
+    "roms": [
+        {
+            "version": "氢10.0.3",
+            "links": [
+                "http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_065_all_2012030405_03dba2c095454647.zip"
+            ]
+        },
+        {
+            "version": "氢5.1.2",
+            "links": [
+                "http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_035_all_1807181315_4ac723147cbf42a6.zip"
+            ]
+        },
+        {
+            "version": "氢5.1.4",
+            "links": [
+                "http://otafsc.h2os.com/patch/CHN/OnePlus5THydrogen/OnePlus5THydrogen_43.K.37_037_1812111156/OnePlus5THydrogen_43_OTA_037_all_1812111156_bc6a5a8eace.zip"
+            ]
+        },
+        {
+            "version": "氢OS 9.0.10",
+            "links": [
+                "https://oxygenos.oneplus.net/OnePlus5TOxygen_43_OTA_053_all_1912311116_5653a26e1ffb42f2.zip"
+            ]
+        },
+        {
+            "version": "氢OS 9.0.11",
+            "links": [
+                "http://download.h2os.com/5T/OPEN/OnePlus5THydrogen_43_OTA_054_all_1906241433_fb64e41048a44182.zip"
+            ]
+        },
+        {
+            "version": "氧OS 9.0.11",
+            "links": [
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus5TOxygen/OnePlus5TOxygen_43.J.54_GLO_054_2002242025/OnePlus5TOxygen_43_OTA_054_all_2002242025_cb8fe710.zip"
+            ]
+        }
+    ]
+}

@@ -1,306 +1,334 @@
 {
-  "code": "PKG110",
-  "name": "一加 ACE 5",
-  "roms": [
-    {
-      "version": "ColorOS PKG110_15.0.0.840(CN01) A.60",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-dc120163e57539939ae997f2cfd46156/component-ota/25/07/08/5aae62df94344c688ca2c131304e2e8e.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-dc120163e57539939ae997f2cfd46156/component-ota/25/07/08/5aae62df94344c688ca2c131304e2e8e.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-dc120163e57539939ae997f2cfd46156/component-ota/25/07/08/5aae62df94344c688ca2c131304e2e8e.zip",
-        "https://gauss-opexcostmanual-cn.allawnfs.com/remove-dc120163e57539939ae997f2cfd46156/component-ota/25/07/08/5aae62df94344c688ca2c131304e2e8e.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-dc120163e57539939ae997f2cfd46156/component-ota/25/07/08/5aae62df94344c688ca2c131304e2e8e.zip",
-        "https://gauss-opexcostauto-cn.allawnfs.com/remove-dc120163e57539939ae997f2cfd46156/component-ota/25/07/08/5aae62df94344c688ca2c131304e2e8e.zip",
-        "https://dfs-serverauto-cn.allawnfs.com/remove-dc120163e57539939ae997f2cfd46156/component-ota/25/07/08/5aae62df94344c688ca2c131304e2e8e.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/25/07/08/5aae62df94344c688ca2c131304e2e8e.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/25/07/08/5aae62df94344c688ca2c131304e2e8e.zip"
-      ]
-    },
-    {
-      "version": "ColorOS PKG110_15.0.0.832(CN01) A.59",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-040c349ee0f6657253c064d63fd95a74/component-ota/25/06/26/85e388043fa746509eb0c56cf96af422.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-040c349ee0f6657253c064d63fd95a74/component-ota/25/06/26/85e388043fa746509eb0c56cf96af422.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-040c349ee0f6657253c064d63fd95a74/component-ota/25/06/26/85e388043fa746509eb0c56cf96af422.zip",
-        "https://gauss-opexcostmanual-cn.allawnfs.com/remove-040c349ee0f6657253c064d63fd95a74/component-ota/25/06/26/85e388043fa746509eb0c56cf96af422.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-040c349ee0f6657253c064d63fd95a74/component-ota/25/06/26/85e388043fa746509eb0c56cf96af422.zip",
-        "https://gauss-opexcostauto-cn.allawnfs.com/remove-040c349ee0f6657253c064d63fd95a74/component-ota/25/06/26/85e388043fa746509eb0c56cf96af422.zip",
-        "https://dfs-serverauto-cn.allawnfs.com/remove-040c349ee0f6657253c064d63fd95a74/component-ota/25/06/26/85e388043fa746509eb0c56cf96af422.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/25/06/26/85e388043fa746509eb0c56cf96af422.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/25/06/26/85e388043fa746509eb0c56cf96af422.zip"
-      ]
-    },
-    {
-      "version": "ColorOS PKG110_15.0.0.831(CN01) A.58",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-fbea4e676f48f1dbf1715ab4cae34276/component-ota/25/06/13/233ce2e28f5b43578b30d815c18d7010.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-fbea4e676f48f1dbf1715ab4cae34276/component-ota/25/06/13/233ce2e28f5b43578b30d815c18d7010.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-fbea4e676f48f1dbf1715ab4cae34276/component-ota/25/06/13/233ce2e28f5b43578b30d815c18d7010.zip",
-        "https://gauss-opexcostmanual-cn.allawnfs.com/remove-fbea4e676f48f1dbf1715ab4cae34276/component-ota/25/06/13/233ce2e28f5b43578b30d815c18d7010.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-fbea4e676f48f1dbf1715ab4cae34276/component-ota/25/06/13/233ce2e28f5b43578b30d815c18d7010.zip",
-        "https://gauss-opexcostauto-cn.allawnfs.com/remove-fbea4e676f48f1dbf1715ab4cae34276/component-ota/25/06/13/233ce2e28f5b43578b30d815c18d7010.zip",
-        "https://dfs-serverauto-cn.allawnfs.com/remove-fbea4e676f48f1dbf1715ab4cae34276/component-ota/25/06/13/233ce2e28f5b43578b30d815c18d7010.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/25/06/13/233ce2e28f5b43578b30d815c18d7010.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/25/06/13/233ce2e28f5b43578b30d815c18d7010.zip"
-      ]
-    },
-    {
-      "version": "ColorOS PKG110_15.0.0.821(CN01) A.55",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/09/25e29312ac094329b005fe19bc53ecbc.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/09/25e29312ac094329b005fe19bc53ecbc.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/09/25e29312ac094329b005fe19bc53ecbc.zip",
-        "https://gauss-opexcostmanual-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/09/25e29312ac094329b005fe19bc53ecbc.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/09/25e29312ac094329b005fe19bc53ecbc.zip",
-        "https://gauss-opexcostauto-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/09/25e29312ac094329b005fe19bc53ecbc.zip",
-        "https://dfs-serverauto-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/09/25e29312ac094329b005fe19bc53ecbc.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/25/05/09/25e29312ac094329b005fe19bc53ecbc.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/25/05/09/25e29312ac094329b005fe19bc53ecbc.zip",
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/20/d22caee6eb4840df8cfb3bb5ae7258f2.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/20/d22caee6eb4840df8cfb3bb5ae7258f2.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/20/d22caee6eb4840df8cfb3bb5ae7258f2.zip",
-        "https://gauss-opexcostmanual-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/20/d22caee6eb4840df8cfb3bb5ae7258f2.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/20/d22caee6eb4840df8cfb3bb5ae7258f2.zip",
-        "https://gauss-opexcostauto-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/20/d22caee6eb4840df8cfb3bb5ae7258f2.zip",
-        "https://dfs-serverauto-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/20/d22caee6eb4840df8cfb3bb5ae7258f2.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/25/05/20/d22caee6eb4840df8cfb3bb5ae7258f2.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/25/05/20/d22caee6eb4840df8cfb3bb5ae7258f2.zip"
-      ]
-    },
-    {
-      "version": "ColorOS PKG110_15.0.0.801(CN01) A.51",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-60b04f6bb72afd6a787e5124474068dc/component-ota/25/04/14/4f487121b8f242f3a2170b92ff22b5a9.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-60b04f6bb72afd6a787e5124474068dc/component-ota/25/04/14/4f487121b8f242f3a2170b92ff22b5a9.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-60b04f6bb72afd6a787e5124474068dc/component-ota/25/04/14/4f487121b8f242f3a2170b92ff22b5a9.zip",
-        "https://gauss-opexcostmanual-cn.allawnfs.com/remove-60b04f6bb72afd6a787e5124474068dc/component-ota/25/04/14/4f487121b8f242f3a2170b92ff22b5a9.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-60b04f6bb72afd6a787e5124474068dc/component-ota/25/04/14/4f487121b8f242f3a2170b92ff22b5a9.zip",
-        "https://gauss-opexcostauto-cn.allawnfs.com/remove-60b04f6bb72afd6a787e5124474068dc/component-ota/25/04/14/4f487121b8f242f3a2170b92ff22b5a9.zip",
-        "https://dfs-serverauto-cn.allawnfs.com/remove-60b04f6bb72afd6a787e5124474068dc/component-ota/25/04/14/4f487121b8f242f3a2170b92ff22b5a9.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/25/04/14/4f487121b8f242f3a2170b92ff22b5a9.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/25/04/14/4f487121b8f242f3a2170b92ff22b5a9.zip"
-      ]
-    },
-    {
-      "version": "ColorOS PKG110_15.0.0.704(CN01) A.48",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b73041495239d53d5bd355cd04c44da6/component-ota/25/04/08/de7a53d07ff140c2b93409177082bff2.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-b73041495239d53d5bd355cd04c44da6/component-ota/25/04/08/de7a53d07ff140c2b93409177082bff2.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-b73041495239d53d5bd355cd04c44da6/component-ota/25/04/08/de7a53d07ff140c2b93409177082bff2.zip",
-        "https://gauss-opexcostmanual-cn.allawnfs.com/remove-b73041495239d53d5bd355cd04c44da6/component-ota/25/04/08/de7a53d07ff140c2b93409177082bff2.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-b73041495239d53d5bd355cd04c44da6/component-ota/25/04/08/de7a53d07ff140c2b93409177082bff2.zip",
-        "https://gauss-opexcostauto-cn.allawnfs.com/remove-b73041495239d53d5bd355cd04c44da6/component-ota/25/04/08/de7a53d07ff140c2b93409177082bff2.zip",
-        "https://dfs-serverauto-cn.allawnfs.com/remove-b73041495239d53d5bd355cd04c44da6/component-ota/25/04/08/de7a53d07ff140c2b93409177082bff2.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/25/04/08/de7a53d07ff140c2b93409177082bff2.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/25/04/08/de7a53d07ff140c2b93409177082bff2.zip"
-      ]
-    },
-    {
-      "version": "ColorOS PKG110_15.0.0.703(CN01) A.47",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-e0ab5889fb60304dcc49c52b6b9ee162/component-ota/25/03/30/344f1b9022fa4298b6a24661d1dae8de.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-e0ab5889fb60304dcc49c52b6b9ee162/component-ota/25/03/30/344f1b9022fa4298b6a24661d1dae8de.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-e0ab5889fb60304dcc49c52b6b9ee162/component-ota/25/03/30/344f1b9022fa4298b6a24661d1dae8de.zip",
-        "https://gauss-opexcostmanual-cn.allawnfs.com/remove-e0ab5889fb60304dcc49c52b6b9ee162/component-ota/25/03/30/344f1b9022fa4298b6a24661d1dae8de.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-e0ab5889fb60304dcc49c52b6b9ee162/component-ota/25/03/30/344f1b9022fa4298b6a24661d1dae8de.zip",
-        "https://gauss-opexcostauto-cn.allawnfs.com/remove-e0ab5889fb60304dcc49c52b6b9ee162/component-ota/25/03/30/344f1b9022fa4298b6a24661d1dae8de.zip",
-        "https://dfs-serverauto-cn.allawnfs.com/remove-e0ab5889fb60304dcc49c52b6b9ee162/component-ota/25/03/30/344f1b9022fa4298b6a24661d1dae8de.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/25/03/30/344f1b9022fa4298b6a24661d1dae8de.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/25/03/30/344f1b9022fa4298b6a24661d1dae8de.zip"
-      ]
-    },
-    {
-      "version": "ColorOS PKG110_15.0.0.701(CN01) A.45",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-06767dba2b45288f77e621145568c34a/component-ota/25/03/15/7290d2bcab5c42f1858647181c914d50.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-06767dba2b45288f77e621145568c34a/component-ota/25/03/15/7290d2bcab5c42f1858647181c914d50.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-06767dba2b45288f77e621145568c34a/component-ota/25/03/15/7290d2bcab5c42f1858647181c914d50.zip",
-        "https://gauss-opexcostmanual-cn.allawnfs.com/remove-06767dba2b45288f77e621145568c34a/component-ota/25/03/15/7290d2bcab5c42f1858647181c914d50.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-06767dba2b45288f77e621145568c34a/component-ota/25/03/15/7290d2bcab5c42f1858647181c914d50.zip",
-        "https://gauss-opexcostauto-cn.allawnfs.com/remove-06767dba2b45288f77e621145568c34a/component-ota/25/03/15/7290d2bcab5c42f1858647181c914d50.zip",
-        "https://dfs-serverauto-cn.allawnfs.com/remove-06767dba2b45288f77e621145568c34a/component-ota/25/03/15/7290d2bcab5c42f1858647181c914d50.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/25/03/15/7290d2bcab5c42f1858647181c914d50.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/25/03/15/7290d2bcab5c42f1858647181c914d50.zip"
-      ]
-    },
-    {
-      "version": "ColorOS PKG110_15.0.0.502(CN01) A.41",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-a37a5e1816c59aea532f93965c8ea83d/component-ota/25/02/25/2a238d06638b44e8a194a40ea5ea1e08.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-a37a5e1816c59aea532f93965c8ea83d/component-ota/25/02/25/2a238d06638b44e8a194a40ea5ea1e08.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-a37a5e1816c59aea532f93965c8ea83d/component-ota/25/02/25/2a238d06638b44e8a194a40ea5ea1e08.zip",
-        "https://gauss-opexcostmanual-cn.allawnfs.com/remove-a37a5e1816c59aea532f93965c8ea83d/component-ota/25/02/25/2a238d06638b44e8a194a40ea5ea1e08.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-a37a5e1816c59aea532f93965c8ea83d/component-ota/25/02/25/2a238d06638b44e8a194a40ea5ea1e08.zip",
-        "https://gauss-opexcostauto-cn.allawnfs.com/remove-a37a5e1816c59aea532f93965c8ea83d/component-ota/25/02/25/2a238d06638b44e8a194a40ea5ea1e08.zip",
-        "https://dfs-serverauto-cn.allawnfs.com/remove-a37a5e1816c59aea532f93965c8ea83d/component-ota/25/02/25/2a238d06638b44e8a194a40ea5ea1e08.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/25/02/25/2a238d06638b44e8a194a40ea5ea1e08.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/25/02/25/2a238d06638b44e8a194a40ea5ea1e08.zip"
-      ]
-    },
-    {
-      "version": "ColorOS PKG110_15.0.0.501(CN01) A.40",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-db67ccfe50a07e46463abc892d9de1b7/component-ota/25/02/17/f5e3ec69a03a4665b2ecda338505ebd9.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-db67ccfe50a07e46463abc892d9de1b7/component-ota/25/02/17/f5e3ec69a03a4665b2ecda338505ebd9.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-db67ccfe50a07e46463abc892d9de1b7/component-ota/25/02/17/f5e3ec69a03a4665b2ecda338505ebd9.zip",
-        "https://gauss-opexcostmanual-cn.allawnfs.com/remove-db67ccfe50a07e46463abc892d9de1b7/component-ota/25/02/17/f5e3ec69a03a4665b2ecda338505ebd9.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-db67ccfe50a07e46463abc892d9de1b7/component-ota/25/02/17/f5e3ec69a03a4665b2ecda338505ebd9.zip",
-        "https://gauss-opexcostauto-cn.allawnfs.com/remove-db67ccfe50a07e46463abc892d9de1b7/component-ota/25/02/17/f5e3ec69a03a4665b2ecda338505ebd9.zip",
-        "https://dfs-serverauto-cn.allawnfs.com/remove-db67ccfe50a07e46463abc892d9de1b7/component-ota/25/02/17/f5e3ec69a03a4665b2ecda338505ebd9.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/25/02/17/f5e3ec69a03a4665b2ecda338505ebd9.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/25/02/17/f5e3ec69a03a4665b2ecda338505ebd9.zip"
-      ]
-    },
-    {
-      "version": "ColorOS PKG110_15.0.0.406(CN01) A.38",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-57d85b7ce557dc25b6abfa5a027fee19/component-ota/25/02/06/738cf2a052f54719b2ca4dfc33185ba1.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-57d85b7ce557dc25b6abfa5a027fee19/component-ota/25/02/06/738cf2a052f54719b2ca4dfc33185ba1.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-57d85b7ce557dc25b6abfa5a027fee19/component-ota/25/02/06/738cf2a052f54719b2ca4dfc33185ba1.zip",
-        "https://gauss-opexcostmanual-cn.allawnfs.com/remove-57d85b7ce557dc25b6abfa5a027fee19/component-ota/25/02/06/738cf2a052f54719b2ca4dfc33185ba1.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-57d85b7ce557dc25b6abfa5a027fee19/component-ota/25/02/06/738cf2a052f54719b2ca4dfc33185ba1.zip",
-        "https://gauss-opexcostauto-cn.allawnfs.com/remove-57d85b7ce557dc25b6abfa5a027fee19/component-ota/25/02/06/738cf2a052f54719b2ca4dfc33185ba1.zip",
-        "https://dfs-serverauto-cn.allawnfs.com/remove-57d85b7ce557dc25b6abfa5a027fee19/component-ota/25/02/06/738cf2a052f54719b2ca4dfc33185ba1.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/25/02/06/738cf2a052f54719b2ca4dfc33185ba1.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/25/02/06/738cf2a052f54719b2ca4dfc33185ba1.zip"
-      ]
-    },
-    {
-      "version": "ColorOS PKG110_15.0.0.405(CN01) A.37",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7955272e42856dfa19471f0a3a6d7885/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-7955272e42856dfa19471f0a3a6d7885/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-7955272e42856dfa19471f0a3a6d7885/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip",
-        "https://gauss-opexcostmanual-cn.allawnfs.com/remove-7955272e42856dfa19471f0a3a6d7885/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-7955272e42856dfa19471f0a3a6d7885/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip",
-        "https://gauss-opexcostauto-cn.allawnfs.com/remove-7955272e42856dfa19471f0a3a6d7885/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip",
-        "https://dfs-serverauto-cn.allawnfs.com/remove-7955272e42856dfa19471f0a3a6d7885/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip"
-      ]
-    },
-    {
-      "version": "ColorOS PKG110_15.0.0.401(CN01) A.33",
-      "links": [
-        "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-17fb3e8f5a2e08613c20bd6ba39df03c/component-ota/24/12/19/4525e8a70da143a58e2d6d8cc97babf1.zip",
-        "https://gauss-compotacostauto-cn.allawnfs.com/remove-17fb3e8f5a2e08613c20bd6ba39df03c/component-ota/24/12/19/4525e8a70da143a58e2d6d8cc97babf1.zip",
-        "https://gauss-otacostmanual-cn.allawnfs.com/remove-17fb3e8f5a2e08613c20bd6ba39df03c/component-ota/24/12/19/4525e8a70da143a58e2d6d8cc97babf1.zip",
-        "https://gauss-otacostauto-cn.allawnfs.com/remove-17fb3e8f5a2e08613c20bd6ba39df03c/component-ota/24/12/19/4525e8a70da143a58e2d6d8cc97babf1.zip",
-        "https://componentota-manual-cn.allawnfs.com/component-ota/24/12/19/4525e8a70da143a58e2d6d8cc97babf1.zip",
-        "https://componentota-auto-cn.allawnfs.com/component-ota/24/12/19/4525e8a70da143a58e2d6d8cc97babf1.zip"
-      ]
-    },
-    {
-      "version": "OxygenOS CPH2691_15.0.0.821(EX01) C.55",
-      "links": [
-        "https://gauss-opexcostmanual-in.allawnofs.com/remove-eda90897508a63b06656dc9c51fa5b9f/component-ota/25/05/09/ed51b5b710024d36a089ebfdcf80bee4.zip",
-        "https://gauss-opexcostmanual-sg.allawnofs.com/remove-eda90897508a63b06656dc9c51fa5b9f/component-ota/25/05/09/ed51b5b710024d36a089ebfdcf80bee4.zip",
-        "https://gauss-opexcostmanual-eu.allawnofs.com/remove-eda90897508a63b06656dc9c51fa5b9f/component-ota/25/05/09/ed51b5b710024d36a089ebfdcf80bee4.zip",
-        "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-eda90897508a63b06656dc9c51fa5b9f/component-ota/25/05/09/ed51b5b710024d36a089ebfdcf80bee4.zip",
-        "https://gauss-componentotacostmanual-in.allawnofs.com/remove-eda90897508a63b06656dc9c51fa5b9f/component-ota/25/05/09/ed51b5b710024d36a089ebfdcf80bee4.zip",
-        "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-eda90897508a63b06656dc9c51fa5b9f/component-ota/25/05/09/ed51b5b710024d36a089ebfdcf80bee4.zip",
-        "https://gauss-otacostmanual-eu.allawnofs.com/remove-eda90897508a63b06656dc9c51fa5b9f/component-ota/25/05/09/ed51b5b710024d36a089ebfdcf80bee4.zip",
-        "https://gauss-otacostmanual-in.allawnofs.com/remove-eda90897508a63b06656dc9c51fa5b9f/component-ota/25/05/09/ed51b5b710024d36a089ebfdcf80bee4.zip",
-        "https://gauss-otacostmanual-sg.allawnofs.com/remove-eda90897508a63b06656dc9c51fa5b9f/component-ota/25/05/09/ed51b5b710024d36a089ebfdcf80bee4.zip"
-      ]
-    },
-    {
-      "version": "OxygenOS CPH2691_15.0.0.801(EX01) A.91",
-      "links": [
-        "https://gauss-opexcostmanual-in.allawnofs.com/remove-26c3a4d45fd296ffd627ce26c636d69d/component-ota/25/04/17/9d1c4fb339924e33904294354deaef99.zip",
-        "https://gauss-opexcostmanual-sg.allawnofs.com/remove-26c3a4d45fd296ffd627ce26c636d69d/component-ota/25/04/17/9d1c4fb339924e33904294354deaef99.zip",
-        "https://gauss-opexcostmanual-eu.allawnofs.com/remove-26c3a4d45fd296ffd627ce26c636d69d/component-ota/25/04/17/9d1c4fb339924e33904294354deaef99.zip",
-        "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-26c3a4d45fd296ffd627ce26c636d69d/component-ota/25/04/17/9d1c4fb339924e33904294354deaef99.zip",
-        "https://gauss-componentotacostmanual-in.allawnofs.com/remove-26c3a4d45fd296ffd627ce26c636d69d/component-ota/25/04/17/9d1c4fb339924e33904294354deaef99.zip",
-        "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-26c3a4d45fd296ffd627ce26c636d69d/component-ota/25/04/17/9d1c4fb339924e33904294354deaef99.zip",
-        "https://gauss-otacostmanual-eu.allawnofs.com/remove-26c3a4d45fd296ffd627ce26c636d69d/component-ota/25/04/17/9d1c4fb339924e33904294354deaef99.zip",
-        "https://gauss-otacostmanual-in.allawnofs.com/remove-26c3a4d45fd296ffd627ce26c636d69d/component-ota/25/04/17/9d1c4fb339924e33904294354deaef99.zip",
-        "https://gauss-otacostmanual-sg.allawnofs.com/remove-26c3a4d45fd296ffd627ce26c636d69d/component-ota/25/04/17/9d1c4fb339924e33904294354deaef99.zip"
-      ]
-    },
-    {
-      "version": "OxygenOS CPH2691_15.0.0.406(EX01) A.43",
-      "links": [
-        "https://gauss-opexcostmanual-in.allawnofs.com/remove-60360c016e0b4c54df74bb0e8fffedb2/component-ota/25/01/21/25d89c544a104f939da965428affc2f0.zip",
-        "https://gauss-opexcostmanual-sg.allawnofs.com/remove-60360c016e0b4c54df74bb0e8fffedb2/component-ota/25/01/21/25d89c544a104f939da965428affc2f0.zip",
-        "https://gauss-opexcostmanual-eu.allawnofs.com/remove-60360c016e0b4c54df74bb0e8fffedb2/component-ota/25/01/21/25d89c544a104f939da965428affc2f0.zip",
-        "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-60360c016e0b4c54df74bb0e8fffedb2/component-ota/25/01/21/25d89c544a104f939da965428affc2f0.zip",
-        "https://gauss-componentotacostmanual-in.allawnofs.com/remove-60360c016e0b4c54df74bb0e8fffedb2/component-ota/25/01/21/25d89c544a104f939da965428affc2f0.zip",
-        "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-60360c016e0b4c54df74bb0e8fffedb2/component-ota/25/01/21/25d89c544a104f939da965428affc2f0.zip",
-        "https://gauss-otacostmanual-eu.allawnofs.com/remove-60360c016e0b4c54df74bb0e8fffedb2/component-ota/25/01/21/25d89c544a104f939da965428affc2f0.zip",
-        "https://gauss-otacostmanual-in.allawnofs.com/remove-60360c016e0b4c54df74bb0e8fffedb2/component-ota/25/01/21/25d89c544a104f939da965428affc2f0.zip",
-        "https://gauss-otacostmanual-sg.allawnofs.com/remove-60360c016e0b4c54df74bb0e8fffedb2/component-ota/25/01/21/25d89c544a104f939da965428affc2f0.zip"
-      ]
-    },
-    {
-      "version": "OxygenOS CPH2691_15.0.0.403(EX01) A.41",
-      "links": [
-        "https://gauss-opexcostmanual-in.allawnofs.com/remove-177cb160f93399196d7d4e19b745c0bc/component-ota/24/12/28/b7de7293c3624a1789459980fc10cfc1.zip",
-        "https://gauss-opexcostmanual-sg.allawnofs.com/remove-177cb160f93399196d7d4e19b745c0bc/component-ota/24/12/28/b7de7293c3624a1789459980fc10cfc1.zip",
-        "https://gauss-opexcostmanual-eu.allawnofs.com/remove-177cb160f93399196d7d4e19b745c0bc/component-ota/24/12/28/b7de7293c3624a1789459980fc10cfc1.zip",
-        "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-177cb160f93399196d7d4e19b745c0bc/component-ota/24/12/28/b7de7293c3624a1789459980fc10cfc1.zip",
-        "https://gauss-componentotacostmanual-in.allawnofs.com/remove-177cb160f93399196d7d4e19b745c0bc/component-ota/24/12/28/b7de7293c3624a1789459980fc10cfc1.zip",
-        "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-177cb160f93399196d7d4e19b745c0bc/component-ota/24/12/28/b7de7293c3624a1789459980fc10cfc1.zip",
-        "https://gauss-otacostmanual-eu.allawnofs.com/remove-177cb160f93399196d7d4e19b745c0bc/component-ota/24/12/28/b7de7293c3624a1789459980fc10cfc1.zip",
-        "https://gauss-otacostmanual-in.allawnofs.com/remove-177cb160f93399196d7d4e19b745c0bc/component-ota/24/12/28/b7de7293c3624a1789459980fc10cfc1.zip",
-        "https://gauss-otacostmanual-sg.allawnofs.com/remove-177cb160f93399196d7d4e19b745c0bc/component-ota/24/12/28/b7de7293c3624a1789459980fc10cfc1.zip"
-      ]
-    },
-    {
-      "version": "OxygenOS CPH2645_15.0.0.821(EX01) C.55_GLO",
-      "links": [
-        "https://gauss-opexcostmanual-in.allawnofs.com/remove-ce175b99a160e135287befdcf22d6a67/component-ota/25/05/09/7b73ad2a06034d6fa3fb6ae7c3f78d2a.zip",
-        "https://gauss-opexcostmanual-sg.allawnofs.com/remove-ce175b99a160e135287befdcf22d6a67/component-ota/25/05/09/7b73ad2a06034d6fa3fb6ae7c3f78d2a.zip",
-        "https://gauss-opexcostmanual-eu.allawnofs.com/remove-ce175b99a160e135287befdcf22d6a67/component-ota/25/05/09/7b73ad2a06034d6fa3fb6ae7c3f78d2a.zip",
-        "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-ce175b99a160e135287befdcf22d6a67/component-ota/25/05/09/7b73ad2a06034d6fa3fb6ae7c3f78d2a.zip",
-        "https://gauss-componentotacostmanual-in.allawnofs.com/remove-ce175b99a160e135287befdcf22d6a67/component-ota/25/05/09/7b73ad2a06034d6fa3fb6ae7c3f78d2a.zip",
-        "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-ce175b99a160e135287befdcf22d6a67/component-ota/25/05/09/7b73ad2a06034d6fa3fb6ae7c3f78d2a.zip",
-        "https://gauss-otacostmanual-eu.allawnofs.com/remove-ce175b99a160e135287befdcf22d6a67/component-ota/25/05/09/7b73ad2a06034d6fa3fb6ae7c3f78d2a.zip",
-        "https://gauss-otacostmanual-in.allawnofs.com/remove-ce175b99a160e135287befdcf22d6a67/component-ota/25/05/09/7b73ad2a06034d6fa3fb6ae7c3f78d2a.zip",
-        "https://gauss-otacostmanual-sg.allawnofs.com/remove-ce175b99a160e135287befdcf22d6a67/component-ota/25/05/09/7b73ad2a06034d6fa3fb6ae7c3f78d2a.zip"
-      ]
-    },
-    {
-      "version": "OxygenOS CPH2645_15.0.0.821(EX01) C.55_EEA",
-      "links": [
-        "https://gauss-opexcostmanual-in.allawnofs.com/remove-571a571ceb6b293d7e6b48c3c2a6e175/component-ota/25/05/09/c2cb9e1be4704fd0a7663cc24041294b.zip",
-        "https://gauss-opexcostmanual-sg.allawnofs.com/remove-571a571ceb6b293d7e6b48c3c2a6e175/component-ota/25/05/09/c2cb9e1be4704fd0a7663cc24041294b.zip",
-        "https://gauss-opexcostmanual-eu.allawnofs.com/remove-571a571ceb6b293d7e6b48c3c2a6e175/component-ota/25/05/09/c2cb9e1be4704fd0a7663cc24041294b.zip",
-        "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-571a571ceb6b293d7e6b48c3c2a6e175/component-ota/25/05/09/c2cb9e1be4704fd0a7663cc24041294b.zip",
-        "https://gauss-componentotacostmanual-in.allawnofs.com/remove-571a571ceb6b293d7e6b48c3c2a6e175/component-ota/25/05/09/c2cb9e1be4704fd0a7663cc24041294b.zip",
-        "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-571a571ceb6b293d7e6b48c3c2a6e175/component-ota/25/05/09/c2cb9e1be4704fd0a7663cc24041294b.zip",
-        "https://gauss-otacostmanual-eu.allawnofs.com/remove-571a571ceb6b293d7e6b48c3c2a6e175/component-ota/25/05/09/c2cb9e1be4704fd0a7663cc24041294b.zip",
-        "https://gauss-otacostmanual-in.allawnofs.com/remove-571a571ceb6b293d7e6b48c3c2a6e175/component-ota/25/05/09/c2cb9e1be4704fd0a7663cc24041294b.zip",
-        "https://gauss-otacostmanual-sg.allawnofs.com/remove-571a571ceb6b293d7e6b48c3c2a6e175/component-ota/25/05/09/c2cb9e1be4704fd0a7663cc24041294b.zip"
-      ]
-    },
-    {
-      "version": "OxygenOS CPH2645_15.0.0.406(EX01) A.43_GLO",
-      "links": [
-        "https://gauss-opexcostmanual-in.allawnofs.com/remove-dab12d6aa42bd487104ea808786ca173/component-ota/25/01/21/717aa5a99af84c82b07f70646a9ae759.zip",
-        "https://gauss-opexcostmanual-sg.allawnofs.com/remove-dab12d6aa42bd487104ea808786ca173/component-ota/25/01/21/717aa5a99af84c82b07f70646a9ae759.zip",
-        "https://gauss-opexcostmanual-eu.allawnofs.com/remove-dab12d6aa42bd487104ea808786ca173/component-ota/25/01/21/717aa5a99af84c82b07f70646a9ae759.zip",
-        "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-dab12d6aa42bd487104ea808786ca173/component-ota/25/01/21/717aa5a99af84c82b07f70646a9ae759.zip",
-        "https://gauss-componentotacostmanual-in.allawnofs.com/remove-dab12d6aa42bd487104ea808786ca173/component-ota/25/01/21/717aa5a99af84c82b07f70646a9ae759.zip",
-        "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-dab12d6aa42bd487104ea808786ca173/component-ota/25/01/21/717aa5a99af84c82b07f70646a9ae759.zip",
-        "https://gauss-otacostmanual-eu.allawnofs.com/remove-dab12d6aa42bd487104ea808786ca173/component-ota/25/01/21/717aa5a99af84c82b07f70646a9ae759.zip",
-        "https://gauss-otacostmanual-in.allawnofs.com/remove-dab12d6aa42bd487104ea808786ca173/component-ota/25/01/21/717aa5a99af84c82b07f70646a9ae759.zip",
-        "https://gauss-otacostmanual-sg.allawnofs.com/remove-dab12d6aa42bd487104ea808786ca173/component-ota/25/01/21/717aa5a99af84c82b07f70646a9ae759.zip"
-      ]
-    },
-    {
-      "version": "OxygenOS CPH2645_15.0.0.403(EX01) A.41_GLO",
-      "links": [
-        "https://gauss-opexcostmanual-in.allawnofs.com/remove-6a31db7a5ae04636090d5c68e84a39e1/component-ota/24/12/28/a2cb425041554cf2bd91b5c98b8c8fdb.zip",
-        "https://gauss-opexcostmanual-sg.allawnofs.com/remove-6a31db7a5ae04636090d5c68e84a39e1/component-ota/24/12/28/a2cb425041554cf2bd91b5c98b8c8fdb.zip",
-        "https://gauss-opexcostmanual-eu.allawnofs.com/remove-6a31db7a5ae04636090d5c68e84a39e1/component-ota/24/12/28/a2cb425041554cf2bd91b5c98b8c8fdb.zip",
-        "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-6a31db7a5ae04636090d5c68e84a39e1/component-ota/24/12/28/a2cb425041554cf2bd91b5c98b8c8fdb.zip",
-        "https://gauss-componentotacostmanual-in.allawnofs.com/remove-6a31db7a5ae04636090d5c68e84a39e1/component-ota/24/12/28/a2cb425041554cf2bd91b5c98b8c8fdb.zip",
-        "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-6a31db7a5ae04636090d5c68e84a39e1/component-ota/24/12/28/a2cb425041554cf2bd91b5c98b8c8fdb.zip",
-        "https://gauss-otacostmanual-eu.allawnofs.com/remove-6a31db7a5ae04636090d5c68e84a39e1/component-ota/24/12/28/a2cb425041554cf2bd91b5c98b8c8fdb.zip",
-        "https://gauss-otacostmanual-in.allawnofs.com/remove-6a31db7a5ae04636090d5c68e84a39e1/component-ota/24/12/28/a2cb425041554cf2bd91b5c98b8c8fdb.zip",
-        "https://gauss-otacostmanual-sg.allawnofs.com/remove-6a31db7a5ae04636090d5c68e84a39e1/component-ota/24/12/28/a2cb425041554cf2bd91b5c98b8c8fdb.zip"
-      ]
-    }
-  ]
+    "code": "PKG110",
+    "name": "一加 ACE 5",
+    "roms": [
+        {
+            "version": "ColorOS PKG110_15.0.0.401(CN01) A.33",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-17fb3e8f5a2e08613c20bd6ba39df03c/component-ota/24/12/19/4525e8a70da143a58e2d6d8cc97babf1.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-17fb3e8f5a2e08613c20bd6ba39df03c/component-ota/24/12/19/4525e8a70da143a58e2d6d8cc97babf1.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-17fb3e8f5a2e08613c20bd6ba39df03c/component-ota/24/12/19/4525e8a70da143a58e2d6d8cc97babf1.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-17fb3e8f5a2e08613c20bd6ba39df03c/component-ota/24/12/19/4525e8a70da143a58e2d6d8cc97babf1.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/12/19/4525e8a70da143a58e2d6d8cc97babf1.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/12/19/4525e8a70da143a58e2d6d8cc97babf1.zip",
+                "https://component-ota-afs.coloros.com/component-ota/24/12/19/4525e8a70da143a58e2d6d8cc97babf1.zip"
+            ]
+        },
+        {
+            "version": "ColorOS PKG110_15.0.0.405(CN01) A.37",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7955272e42856dfa19471f0a3a6d7885/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-7955272e42856dfa19471f0a3a6d7885/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-7955272e42856dfa19471f0a3a6d7885/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-7955272e42856dfa19471f0a3a6d7885/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-7955272e42856dfa19471f0a3a6d7885/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-7955272e42856dfa19471f0a3a6d7885/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-7955272e42856dfa19471f0a3a6d7885/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip"
+            ]
+        },
+        {
+            "version": "ColorOS PKG110_15.0.0.406(CN01) A.38",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-57d85b7ce557dc25b6abfa5a027fee19/component-ota/25/02/06/738cf2a052f54719b2ca4dfc33185ba1.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-57d85b7ce557dc25b6abfa5a027fee19/component-ota/25/02/06/738cf2a052f54719b2ca4dfc33185ba1.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-57d85b7ce557dc25b6abfa5a027fee19/component-ota/25/02/06/738cf2a052f54719b2ca4dfc33185ba1.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-57d85b7ce557dc25b6abfa5a027fee19/component-ota/25/02/06/738cf2a052f54719b2ca4dfc33185ba1.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-57d85b7ce557dc25b6abfa5a027fee19/component-ota/25/02/06/738cf2a052f54719b2ca4dfc33185ba1.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-57d85b7ce557dc25b6abfa5a027fee19/component-ota/25/02/06/738cf2a052f54719b2ca4dfc33185ba1.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-57d85b7ce557dc25b6abfa5a027fee19/component-ota/25/02/06/738cf2a052f54719b2ca4dfc33185ba1.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/02/06/738cf2a052f54719b2ca4dfc33185ba1.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/02/06/738cf2a052f54719b2ca4dfc33185ba1.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/02/06/738cf2a052f54719b2ca4dfc33185ba1.zip"
+            ]
+        },
+        {
+            "version": "ColorOS PKG110_15.0.0.501(CN01) A.40",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-db67ccfe50a07e46463abc892d9de1b7/component-ota/25/02/17/f5e3ec69a03a4665b2ecda338505ebd9.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-db67ccfe50a07e46463abc892d9de1b7/component-ota/25/02/17/f5e3ec69a03a4665b2ecda338505ebd9.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-db67ccfe50a07e46463abc892d9de1b7/component-ota/25/02/17/f5e3ec69a03a4665b2ecda338505ebd9.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-db67ccfe50a07e46463abc892d9de1b7/component-ota/25/02/17/f5e3ec69a03a4665b2ecda338505ebd9.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-db67ccfe50a07e46463abc892d9de1b7/component-ota/25/02/17/f5e3ec69a03a4665b2ecda338505ebd9.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-db67ccfe50a07e46463abc892d9de1b7/component-ota/25/02/17/f5e3ec69a03a4665b2ecda338505ebd9.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-db67ccfe50a07e46463abc892d9de1b7/component-ota/25/02/17/f5e3ec69a03a4665b2ecda338505ebd9.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/02/17/f5e3ec69a03a4665b2ecda338505ebd9.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/02/17/f5e3ec69a03a4665b2ecda338505ebd9.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/02/17/f5e3ec69a03a4665b2ecda338505ebd9.zip"
+            ]
+        },
+        {
+            "version": "ColorOS PKG110_15.0.0.502(CN01) A.41",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-a37a5e1816c59aea532f93965c8ea83d/component-ota/25/02/25/2a238d06638b44e8a194a40ea5ea1e08.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-a37a5e1816c59aea532f93965c8ea83d/component-ota/25/02/25/2a238d06638b44e8a194a40ea5ea1e08.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-a37a5e1816c59aea532f93965c8ea83d/component-ota/25/02/25/2a238d06638b44e8a194a40ea5ea1e08.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-a37a5e1816c59aea532f93965c8ea83d/component-ota/25/02/25/2a238d06638b44e8a194a40ea5ea1e08.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-a37a5e1816c59aea532f93965c8ea83d/component-ota/25/02/25/2a238d06638b44e8a194a40ea5ea1e08.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-a37a5e1816c59aea532f93965c8ea83d/component-ota/25/02/25/2a238d06638b44e8a194a40ea5ea1e08.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-a37a5e1816c59aea532f93965c8ea83d/component-ota/25/02/25/2a238d06638b44e8a194a40ea5ea1e08.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/02/25/2a238d06638b44e8a194a40ea5ea1e08.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/02/25/2a238d06638b44e8a194a40ea5ea1e08.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/02/25/2a238d06638b44e8a194a40ea5ea1e08.zip"
+            ]
+        },
+        {
+            "version": "ColorOS PKG110_15.0.0.701(CN01) A.45",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-06767dba2b45288f77e621145568c34a/component-ota/25/03/15/7290d2bcab5c42f1858647181c914d50.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-06767dba2b45288f77e621145568c34a/component-ota/25/03/15/7290d2bcab5c42f1858647181c914d50.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-06767dba2b45288f77e621145568c34a/component-ota/25/03/15/7290d2bcab5c42f1858647181c914d50.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-06767dba2b45288f77e621145568c34a/component-ota/25/03/15/7290d2bcab5c42f1858647181c914d50.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-06767dba2b45288f77e621145568c34a/component-ota/25/03/15/7290d2bcab5c42f1858647181c914d50.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-06767dba2b45288f77e621145568c34a/component-ota/25/03/15/7290d2bcab5c42f1858647181c914d50.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-06767dba2b45288f77e621145568c34a/component-ota/25/03/15/7290d2bcab5c42f1858647181c914d50.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/03/15/7290d2bcab5c42f1858647181c914d50.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/03/15/7290d2bcab5c42f1858647181c914d50.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/03/15/7290d2bcab5c42f1858647181c914d50.zip"
+            ]
+        },
+        {
+            "version": "ColorOS PKG110_15.0.0.703(CN01) A.47",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-e0ab5889fb60304dcc49c52b6b9ee162/component-ota/25/03/30/344f1b9022fa4298b6a24661d1dae8de.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-e0ab5889fb60304dcc49c52b6b9ee162/component-ota/25/03/30/344f1b9022fa4298b6a24661d1dae8de.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-e0ab5889fb60304dcc49c52b6b9ee162/component-ota/25/03/30/344f1b9022fa4298b6a24661d1dae8de.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-e0ab5889fb60304dcc49c52b6b9ee162/component-ota/25/03/30/344f1b9022fa4298b6a24661d1dae8de.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-e0ab5889fb60304dcc49c52b6b9ee162/component-ota/25/03/30/344f1b9022fa4298b6a24661d1dae8de.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-e0ab5889fb60304dcc49c52b6b9ee162/component-ota/25/03/30/344f1b9022fa4298b6a24661d1dae8de.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-e0ab5889fb60304dcc49c52b6b9ee162/component-ota/25/03/30/344f1b9022fa4298b6a24661d1dae8de.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/03/30/344f1b9022fa4298b6a24661d1dae8de.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/03/30/344f1b9022fa4298b6a24661d1dae8de.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/03/30/344f1b9022fa4298b6a24661d1dae8de.zip"
+            ]
+        },
+        {
+            "version": "ColorOS PKG110_15.0.0.704(CN01) A.48",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b73041495239d53d5bd355cd04c44da6/component-ota/25/04/08/de7a53d07ff140c2b93409177082bff2.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-b73041495239d53d5bd355cd04c44da6/component-ota/25/04/08/de7a53d07ff140c2b93409177082bff2.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-b73041495239d53d5bd355cd04c44da6/component-ota/25/04/08/de7a53d07ff140c2b93409177082bff2.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-b73041495239d53d5bd355cd04c44da6/component-ota/25/04/08/de7a53d07ff140c2b93409177082bff2.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-b73041495239d53d5bd355cd04c44da6/component-ota/25/04/08/de7a53d07ff140c2b93409177082bff2.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-b73041495239d53d5bd355cd04c44da6/component-ota/25/04/08/de7a53d07ff140c2b93409177082bff2.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-b73041495239d53d5bd355cd04c44da6/component-ota/25/04/08/de7a53d07ff140c2b93409177082bff2.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/04/08/de7a53d07ff140c2b93409177082bff2.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/04/08/de7a53d07ff140c2b93409177082bff2.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/04/08/de7a53d07ff140c2b93409177082bff2.zip"
+            ]
+        },
+        {
+            "version": "ColorOS PKG110_15.0.0.801(CN01) A.51",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-60b04f6bb72afd6a787e5124474068dc/component-ota/25/04/14/4f487121b8f242f3a2170b92ff22b5a9.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-60b04f6bb72afd6a787e5124474068dc/component-ota/25/04/14/4f487121b8f242f3a2170b92ff22b5a9.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-60b04f6bb72afd6a787e5124474068dc/component-ota/25/04/14/4f487121b8f242f3a2170b92ff22b5a9.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-60b04f6bb72afd6a787e5124474068dc/component-ota/25/04/14/4f487121b8f242f3a2170b92ff22b5a9.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-60b04f6bb72afd6a787e5124474068dc/component-ota/25/04/14/4f487121b8f242f3a2170b92ff22b5a9.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-60b04f6bb72afd6a787e5124474068dc/component-ota/25/04/14/4f487121b8f242f3a2170b92ff22b5a9.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-60b04f6bb72afd6a787e5124474068dc/component-ota/25/04/14/4f487121b8f242f3a2170b92ff22b5a9.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/04/14/4f487121b8f242f3a2170b92ff22b5a9.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/04/14/4f487121b8f242f3a2170b92ff22b5a9.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/04/14/4f487121b8f242f3a2170b92ff22b5a9.zip"
+            ]
+        },
+        {
+            "version": "ColorOS PKG110_15.0.0.821(CN01) A.55",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/09/25e29312ac094329b005fe19bc53ecbc.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/09/25e29312ac094329b005fe19bc53ecbc.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/09/25e29312ac094329b005fe19bc53ecbc.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/09/25e29312ac094329b005fe19bc53ecbc.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/09/25e29312ac094329b005fe19bc53ecbc.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/09/25e29312ac094329b005fe19bc53ecbc.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/09/25e29312ac094329b005fe19bc53ecbc.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/05/09/25e29312ac094329b005fe19bc53ecbc.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/05/09/25e29312ac094329b005fe19bc53ecbc.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/05/09/25e29312ac094329b005fe19bc53ecbc.zip",
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/20/d22caee6eb4840df8cfb3bb5ae7258f2.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/20/d22caee6eb4840df8cfb3bb5ae7258f2.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/20/d22caee6eb4840df8cfb3bb5ae7258f2.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/20/d22caee6eb4840df8cfb3bb5ae7258f2.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/20/d22caee6eb4840df8cfb3bb5ae7258f2.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/20/d22caee6eb4840df8cfb3bb5ae7258f2.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-e4f2bb301a6d88e6d5a08609b084212b/component-ota/25/05/20/d22caee6eb4840df8cfb3bb5ae7258f2.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/05/20/d22caee6eb4840df8cfb3bb5ae7258f2.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/05/20/d22caee6eb4840df8cfb3bb5ae7258f2.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/05/20/d22caee6eb4840df8cfb3bb5ae7258f2.zip"
+            ]
+        },
+        {
+            "version": "ColorOS PKG110_15.0.0.831(CN01) A.58",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-fbea4e676f48f1dbf1715ab4cae34276/component-ota/25/06/13/233ce2e28f5b43578b30d815c18d7010.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-fbea4e676f48f1dbf1715ab4cae34276/component-ota/25/06/13/233ce2e28f5b43578b30d815c18d7010.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-fbea4e676f48f1dbf1715ab4cae34276/component-ota/25/06/13/233ce2e28f5b43578b30d815c18d7010.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-fbea4e676f48f1dbf1715ab4cae34276/component-ota/25/06/13/233ce2e28f5b43578b30d815c18d7010.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-fbea4e676f48f1dbf1715ab4cae34276/component-ota/25/06/13/233ce2e28f5b43578b30d815c18d7010.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-fbea4e676f48f1dbf1715ab4cae34276/component-ota/25/06/13/233ce2e28f5b43578b30d815c18d7010.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-fbea4e676f48f1dbf1715ab4cae34276/component-ota/25/06/13/233ce2e28f5b43578b30d815c18d7010.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/06/13/233ce2e28f5b43578b30d815c18d7010.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/06/13/233ce2e28f5b43578b30d815c18d7010.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/06/13/233ce2e28f5b43578b30d815c18d7010.zip"
+            ]
+        },
+        {
+            "version": "ColorOS PKG110_15.0.0.832(CN01) A.59",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-040c349ee0f6657253c064d63fd95a74/component-ota/25/06/26/85e388043fa746509eb0c56cf96af422.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-040c349ee0f6657253c064d63fd95a74/component-ota/25/06/26/85e388043fa746509eb0c56cf96af422.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-040c349ee0f6657253c064d63fd95a74/component-ota/25/06/26/85e388043fa746509eb0c56cf96af422.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-040c349ee0f6657253c064d63fd95a74/component-ota/25/06/26/85e388043fa746509eb0c56cf96af422.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-040c349ee0f6657253c064d63fd95a74/component-ota/25/06/26/85e388043fa746509eb0c56cf96af422.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-040c349ee0f6657253c064d63fd95a74/component-ota/25/06/26/85e388043fa746509eb0c56cf96af422.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-040c349ee0f6657253c064d63fd95a74/component-ota/25/06/26/85e388043fa746509eb0c56cf96af422.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/06/26/85e388043fa746509eb0c56cf96af422.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/06/26/85e388043fa746509eb0c56cf96af422.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/06/26/85e388043fa746509eb0c56cf96af422.zip"
+            ]
+        },
+        {
+            "version": "ColorOS PKG110_15.0.0.840(CN01) A.60",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-dc120163e57539939ae997f2cfd46156/component-ota/25/07/08/5aae62df94344c688ca2c131304e2e8e.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-dc120163e57539939ae997f2cfd46156/component-ota/25/07/08/5aae62df94344c688ca2c131304e2e8e.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-dc120163e57539939ae997f2cfd46156/component-ota/25/07/08/5aae62df94344c688ca2c131304e2e8e.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-dc120163e57539939ae997f2cfd46156/component-ota/25/07/08/5aae62df94344c688ca2c131304e2e8e.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-dc120163e57539939ae997f2cfd46156/component-ota/25/07/08/5aae62df94344c688ca2c131304e2e8e.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-dc120163e57539939ae997f2cfd46156/component-ota/25/07/08/5aae62df94344c688ca2c131304e2e8e.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-dc120163e57539939ae997f2cfd46156/component-ota/25/07/08/5aae62df94344c688ca2c131304e2e8e.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/07/08/5aae62df94344c688ca2c131304e2e8e.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/07/08/5aae62df94344c688ca2c131304e2e8e.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/07/08/5aae62df94344c688ca2c131304e2e8e.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS CPH2645_15.0.0.403(EX01) A.41_GLO",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-6a31db7a5ae04636090d5c68e84a39e1/component-ota/24/12/28/a2cb425041554cf2bd91b5c98b8c8fdb.zip",
+                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-6a31db7a5ae04636090d5c68e84a39e1/component-ota/24/12/28/a2cb425041554cf2bd91b5c98b8c8fdb.zip",
+                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-6a31db7a5ae04636090d5c68e84a39e1/component-ota/24/12/28/a2cb425041554cf2bd91b5c98b8c8fdb.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-6a31db7a5ae04636090d5c68e84a39e1/component-ota/24/12/28/a2cb425041554cf2bd91b5c98b8c8fdb.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-6a31db7a5ae04636090d5c68e84a39e1/component-ota/24/12/28/a2cb425041554cf2bd91b5c98b8c8fdb.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-6a31db7a5ae04636090d5c68e84a39e1/component-ota/24/12/28/a2cb425041554cf2bd91b5c98b8c8fdb.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-6a31db7a5ae04636090d5c68e84a39e1/component-ota/24/12/28/a2cb425041554cf2bd91b5c98b8c8fdb.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-6a31db7a5ae04636090d5c68e84a39e1/component-ota/24/12/28/a2cb425041554cf2bd91b5c98b8c8fdb.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-6a31db7a5ae04636090d5c68e84a39e1/component-ota/24/12/28/a2cb425041554cf2bd91b5c98b8c8fdb.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS CPH2645_15.0.0.406(EX01) A.43_GLO",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-dab12d6aa42bd487104ea808786ca173/component-ota/25/01/21/717aa5a99af84c82b07f70646a9ae759.zip",
+                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-dab12d6aa42bd487104ea808786ca173/component-ota/25/01/21/717aa5a99af84c82b07f70646a9ae759.zip",
+                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-dab12d6aa42bd487104ea808786ca173/component-ota/25/01/21/717aa5a99af84c82b07f70646a9ae759.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-dab12d6aa42bd487104ea808786ca173/component-ota/25/01/21/717aa5a99af84c82b07f70646a9ae759.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-dab12d6aa42bd487104ea808786ca173/component-ota/25/01/21/717aa5a99af84c82b07f70646a9ae759.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-dab12d6aa42bd487104ea808786ca173/component-ota/25/01/21/717aa5a99af84c82b07f70646a9ae759.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-dab12d6aa42bd487104ea808786ca173/component-ota/25/01/21/717aa5a99af84c82b07f70646a9ae759.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-dab12d6aa42bd487104ea808786ca173/component-ota/25/01/21/717aa5a99af84c82b07f70646a9ae759.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-dab12d6aa42bd487104ea808786ca173/component-ota/25/01/21/717aa5a99af84c82b07f70646a9ae759.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS CPH2645_15.0.0.821(EX01) C.55_EEA",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-571a571ceb6b293d7e6b48c3c2a6e175/component-ota/25/05/09/c2cb9e1be4704fd0a7663cc24041294b.zip",
+                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-571a571ceb6b293d7e6b48c3c2a6e175/component-ota/25/05/09/c2cb9e1be4704fd0a7663cc24041294b.zip",
+                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-571a571ceb6b293d7e6b48c3c2a6e175/component-ota/25/05/09/c2cb9e1be4704fd0a7663cc24041294b.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-571a571ceb6b293d7e6b48c3c2a6e175/component-ota/25/05/09/c2cb9e1be4704fd0a7663cc24041294b.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-571a571ceb6b293d7e6b48c3c2a6e175/component-ota/25/05/09/c2cb9e1be4704fd0a7663cc24041294b.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-571a571ceb6b293d7e6b48c3c2a6e175/component-ota/25/05/09/c2cb9e1be4704fd0a7663cc24041294b.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-571a571ceb6b293d7e6b48c3c2a6e175/component-ota/25/05/09/c2cb9e1be4704fd0a7663cc24041294b.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-571a571ceb6b293d7e6b48c3c2a6e175/component-ota/25/05/09/c2cb9e1be4704fd0a7663cc24041294b.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-571a571ceb6b293d7e6b48c3c2a6e175/component-ota/25/05/09/c2cb9e1be4704fd0a7663cc24041294b.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS CPH2645_15.0.0.821(EX01) C.55_GLO",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-ce175b99a160e135287befdcf22d6a67/component-ota/25/05/09/7b73ad2a06034d6fa3fb6ae7c3f78d2a.zip",
+                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-ce175b99a160e135287befdcf22d6a67/component-ota/25/05/09/7b73ad2a06034d6fa3fb6ae7c3f78d2a.zip",
+                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-ce175b99a160e135287befdcf22d6a67/component-ota/25/05/09/7b73ad2a06034d6fa3fb6ae7c3f78d2a.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-ce175b99a160e135287befdcf22d6a67/component-ota/25/05/09/7b73ad2a06034d6fa3fb6ae7c3f78d2a.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-ce175b99a160e135287befdcf22d6a67/component-ota/25/05/09/7b73ad2a06034d6fa3fb6ae7c3f78d2a.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-ce175b99a160e135287befdcf22d6a67/component-ota/25/05/09/7b73ad2a06034d6fa3fb6ae7c3f78d2a.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-ce175b99a160e135287befdcf22d6a67/component-ota/25/05/09/7b73ad2a06034d6fa3fb6ae7c3f78d2a.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-ce175b99a160e135287befdcf22d6a67/component-ota/25/05/09/7b73ad2a06034d6fa3fb6ae7c3f78d2a.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-ce175b99a160e135287befdcf22d6a67/component-ota/25/05/09/7b73ad2a06034d6fa3fb6ae7c3f78d2a.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS CPH2645_15.0.0.832(EX01) C.59_EEA",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-7f560ca9124ae2476cb9df6bda33e8f8/component-ota/25/06/26/1519ba462fff4f9e8cdf49ad45999bcb.zip",
+                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-7f560ca9124ae2476cb9df6bda33e8f8/component-ota/25/06/26/1519ba462fff4f9e8cdf49ad45999bcb.zip",
+                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-7f560ca9124ae2476cb9df6bda33e8f8/component-ota/25/06/26/1519ba462fff4f9e8cdf49ad45999bcb.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-7f560ca9124ae2476cb9df6bda33e8f8/component-ota/25/06/26/1519ba462fff4f9e8cdf49ad45999bcb.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-7f560ca9124ae2476cb9df6bda33e8f8/component-ota/25/06/26/1519ba462fff4f9e8cdf49ad45999bcb.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-7f560ca9124ae2476cb9df6bda33e8f8/component-ota/25/06/26/1519ba462fff4f9e8cdf49ad45999bcb.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-7f560ca9124ae2476cb9df6bda33e8f8/component-ota/25/06/26/1519ba462fff4f9e8cdf49ad45999bcb.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-7f560ca9124ae2476cb9df6bda33e8f8/component-ota/25/06/26/1519ba462fff4f9e8cdf49ad45999bcb.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-7f560ca9124ae2476cb9df6bda33e8f8/component-ota/25/06/26/1519ba462fff4f9e8cdf49ad45999bcb.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS CPH2691_15.0.0.403(EX01) A.41",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-177cb160f93399196d7d4e19b745c0bc/component-ota/24/12/28/b7de7293c3624a1789459980fc10cfc1.zip",
+                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-177cb160f93399196d7d4e19b745c0bc/component-ota/24/12/28/b7de7293c3624a1789459980fc10cfc1.zip",
+                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-177cb160f93399196d7d4e19b745c0bc/component-ota/24/12/28/b7de7293c3624a1789459980fc10cfc1.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-177cb160f93399196d7d4e19b745c0bc/component-ota/24/12/28/b7de7293c3624a1789459980fc10cfc1.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-177cb160f93399196d7d4e19b745c0bc/component-ota/24/12/28/b7de7293c3624a1789459980fc10cfc1.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-177cb160f93399196d7d4e19b745c0bc/component-ota/24/12/28/b7de7293c3624a1789459980fc10cfc1.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-177cb160f93399196d7d4e19b745c0bc/component-ota/24/12/28/b7de7293c3624a1789459980fc10cfc1.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-177cb160f93399196d7d4e19b745c0bc/component-ota/24/12/28/b7de7293c3624a1789459980fc10cfc1.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-177cb160f93399196d7d4e19b745c0bc/component-ota/24/12/28/b7de7293c3624a1789459980fc10cfc1.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS CPH2691_15.0.0.406(EX01) A.43",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-60360c016e0b4c54df74bb0e8fffedb2/component-ota/25/01/21/25d89c544a104f939da965428affc2f0.zip",
+                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-60360c016e0b4c54df74bb0e8fffedb2/component-ota/25/01/21/25d89c544a104f939da965428affc2f0.zip",
+                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-60360c016e0b4c54df74bb0e8fffedb2/component-ota/25/01/21/25d89c544a104f939da965428affc2f0.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-60360c016e0b4c54df74bb0e8fffedb2/component-ota/25/01/21/25d89c544a104f939da965428affc2f0.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-60360c016e0b4c54df74bb0e8fffedb2/component-ota/25/01/21/25d89c544a104f939da965428affc2f0.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-60360c016e0b4c54df74bb0e8fffedb2/component-ota/25/01/21/25d89c544a104f939da965428affc2f0.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-60360c016e0b4c54df74bb0e8fffedb2/component-ota/25/01/21/25d89c544a104f939da965428affc2f0.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-60360c016e0b4c54df74bb0e8fffedb2/component-ota/25/01/21/25d89c544a104f939da965428affc2f0.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-60360c016e0b4c54df74bb0e8fffedb2/component-ota/25/01/21/25d89c544a104f939da965428affc2f0.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS CPH2691_15.0.0.801(EX01) A.91",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-26c3a4d45fd296ffd627ce26c636d69d/component-ota/25/04/17/9d1c4fb339924e33904294354deaef99.zip",
+                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-26c3a4d45fd296ffd627ce26c636d69d/component-ota/25/04/17/9d1c4fb339924e33904294354deaef99.zip",
+                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-26c3a4d45fd296ffd627ce26c636d69d/component-ota/25/04/17/9d1c4fb339924e33904294354deaef99.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-26c3a4d45fd296ffd627ce26c636d69d/component-ota/25/04/17/9d1c4fb339924e33904294354deaef99.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-26c3a4d45fd296ffd627ce26c636d69d/component-ota/25/04/17/9d1c4fb339924e33904294354deaef99.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-26c3a4d45fd296ffd627ce26c636d69d/component-ota/25/04/17/9d1c4fb339924e33904294354deaef99.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-26c3a4d45fd296ffd627ce26c636d69d/component-ota/25/04/17/9d1c4fb339924e33904294354deaef99.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-26c3a4d45fd296ffd627ce26c636d69d/component-ota/25/04/17/9d1c4fb339924e33904294354deaef99.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-26c3a4d45fd296ffd627ce26c636d69d/component-ota/25/04/17/9d1c4fb339924e33904294354deaef99.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS CPH2691_15.0.0.821(EX01) C.55",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-eda90897508a63b06656dc9c51fa5b9f/component-ota/25/05/09/ed51b5b710024d36a089ebfdcf80bee4.zip",
+                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-eda90897508a63b06656dc9c51fa5b9f/component-ota/25/05/09/ed51b5b710024d36a089ebfdcf80bee4.zip",
+                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-eda90897508a63b06656dc9c51fa5b9f/component-ota/25/05/09/ed51b5b710024d36a089ebfdcf80bee4.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-eda90897508a63b06656dc9c51fa5b9f/component-ota/25/05/09/ed51b5b710024d36a089ebfdcf80bee4.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-eda90897508a63b06656dc9c51fa5b9f/component-ota/25/05/09/ed51b5b710024d36a089ebfdcf80bee4.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-eda90897508a63b06656dc9c51fa5b9f/component-ota/25/05/09/ed51b5b710024d36a089ebfdcf80bee4.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-eda90897508a63b06656dc9c51fa5b9f/component-ota/25/05/09/ed51b5b710024d36a089ebfdcf80bee4.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-eda90897508a63b06656dc9c51fa5b9f/component-ota/25/05/09/ed51b5b710024d36a089ebfdcf80bee4.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-eda90897508a63b06656dc9c51fa5b9f/component-ota/25/05/09/ed51b5b710024d36a089ebfdcf80bee4.zip"
+            ]
+        }
+    ]
 }

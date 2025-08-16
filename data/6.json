@@ -1,0 +1,36 @@
+{
+    "code": "6",
+    "name": "OnePlus 6",
+    "roms": [
+        {
+            "version": "氢11.1.2.2",
+            "links": [
+                "https://download.h2os.com/OnePlus6/MP/OnePlus6Hydrogen_22.K.63_OTA_0630_all_2112282145_734ed59e388b4db0.zip"
+            ]
+        },
+        {
+            "version": "氢9.0.7",
+            "links": [
+                "http://download.h2os.com/OnePlus6/MP/OnePlus6Hydrogen_22_OTA_033_all_1907302120_7012799ad0de4f04.zip"
+            ]
+        },
+        {
+            "version": "氢9.0.8",
+            "links": [
+                "http://download.h2os.com/OnePlus6/Back/OnePlus6Hydrogen_22_OTA_034_all_1909041314_0edfbb2dfaa34e94.zip"
+            ]
+        },
+        {
+            "version": "氧11.1.2.2",
+            "links": [
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.62_GLO_0620_2111252336/OnePlus6Oxygen_22.J.62_OTA_0620_all_2111252336_14afec75dd6fa.zip",
+                "https://otafsg-cost.h2os.com/OnePlus6/OnePlus6Oxygen_22.J.62_GLO_0620_2111252336/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.62_GLO_0620_2111252336/OnePlus6Oxygen_22.J.62_OTA_0620_all_2111252336_14afec75dd6fa.zip",
+                "https://otaafsg-cost.h2os.com/OnePlus6/OnePlus6Oxygen_22.J.62_GLO_0620_2111252336/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.62_GLO_0620_2111252336/OnePlus6Oxygen_22.J.62_OTA_0620_all_2111252336_14afec75dd6fa.zip",
+                "https://otafsg-cost-az.coloros.com/OnePlus6/OnePlus6Oxygen_22.J.62_GLO_0620_2111252336/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.62_GLO_0620_2111252336/OnePlus6Oxygen_22.J.62_OTA_0620_all_2111252336_14afec75dd6fa.zip",
+                "https://otaafsg-cost-az.coloros.com/OnePlus6/OnePlus6Oxygen_22.J.62_GLO_0620_2111252336/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.62_GLO_0620_2111252336/OnePlus6Oxygen_22.J.62_OTA_0620_all_2111252336_14afec75dd6fa.zip",
+                "https://otafsg1-az.coloros.com/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.62_GLO_0620_2111252336/OnePlus6Oxygen_22.J.62_OTA_0620_all_2111252336_14afec75dd6fa.zip",
+                "https://otafsg1.coloros.com/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.62_GLO_0620_2111252336/OnePlus6Oxygen_22.J.62_OTA_0620_all_2111252336_14afec75dd6fa.zip"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "code": "5",
+    "name": "OnePlus 5",
+    "roms": [
+        {
+            "version": "氢10.0.3",
+            "links": [
+                "http://download.h2os.com/OnePlus5/MP/OnePlus5Hydrogen_23_OTA_065_all_2012030353_e8c692aa5e0c45ca.zip"
+            ]
+        },
+        {
+            "version": "氢5.1.2",
+            "links": [
+                "http://otafsc.h2os.com/patch/CHN/OnePlus5Hydrogen/OnePlus5Hydrogen_23.H.35_035_1807181315/OnePlus5Hydrogen_23_OTA_035_all_1807181315_c14e40.zip"
+            ]
+        },
+        {
+            "version": "氢9.0.8",
+            "links": [
+                "http://download.h2os.com/OnePlus5/MP/OnePlus5Hydrogen_23_OTA_048_all_2002171234_54d7fe7d1c1846b3.zip"
+            ]
+        },
+        {
+            "version": "氢OS 5.1.0",
+            "links": [
+                "http://otafsc.h2os.com/patch/CHN/OnePlus5Hydrogen/OnePlus5Hydrogen_23.H.33_033_1805030057/OnePlus5Hydrogen_23_OTA_033_all_1805030057_273ec94805.zip"
+            ]
+        },
+        {
+            "version": "氧OS 9.0.11",
+            "links": [
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus5Oxygen/OnePlus5Oxygen_23.J.54_GLO_054_2002242016/OnePlus5Oxygen_23_OTA_054_all_2002242016_5fa0dcac8.zip"
+            ]
+        }
+    ]
+}
