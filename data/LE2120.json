@@ -9,6 +9,76 @@
             ]
         },
         {
+            "version": "ColorOS 11.2 A.03",
+            "links": [
+                "http://download.h2os.com/OnePlus9/MP/LE2110_11_A_OTA_0031_all_7bf6d3_10010111.zip",
+                "https://component-ota-fs.coloros.com/component-ota/21/03/19/c5762f99b23e4a9d8e7d8e17fa43a143.zip"
+            ]
+        },
+        {
+            "version": "ColorOS 11.2 A.04",
+            "links": [
+                "http://download.h2os.com/OnePlus9Pro/MP/LE2120_11_A_OTA_0040_all_22f7dc_10010111.zip",
+                "https://component-ota-fs.coloros.com/component-ota/21/04/02/8836c11c31334839a70164ed168599f0.zip"
+            ]
+        },
+        {
+            "version": "ColorOS 11.2 A.05",
+            "links": [
+                "http://download.h2os.com/OnePlus9Pro/MP/LE2120_11_A_OTA_0050_all_907d76_10010111.zip",
+                "https://component-ota-fs.coloros.com/component-ota/21/04/15/8d4ae80bb49349b58550e762da6983ba.zip"
+            ]
+        },
+        {
+            "version": "ColorOS 11.2 A.06",
+            "links": [
+                "http://download.h2os.com/OnePlus9Pro/MP/LE2120_11_A_OTA_0060_all_6017e3_10010111.zip",
+                "https://component-ota-fs.coloros.com/component-ota/21/04/25/4c72696611c44c498331278056836814.zip"
+            ]
+        },
+        {
+            "version": "ColorOS 11.2 A.07",
+            "links": [
+                "http://download.h2os.com/OnePlus9Pro/MP/LE2120_11_A_OTA_0070_all_1fc1b4_10010111.zip",
+                "https://component-ota-afs.coloros.com/component-ota/21/05/22/6dddf4e51ff549e5beaf8ef46f0eced9.zip"
+            ]
+        },
+        {
+            "version": "ColorOS 11.2 A.08",
+            "links": [
+                "https://component-ota-afs.coloros.com/component-ota/21/06/07/5b1adf0eba4b4b7bb4a0ccf050ec7cb0.zip",
+                "http://download.h2os.com/OnePlus9Pro/MP/LE2120_11_A_OTA_0080_all_d3f03d_10010111.zip"
+            ]
+        },
+        {
+            "version": "ColorOS 11.2 A.09",
+            "links": [
+                "https://component-ota-afs.coloros.com/component-ota/21/07/13/3c8ad46cabbe4f04be8972438f0f261c.zip",
+                "http://download.h2os.com/OnePlus9Pro/MP/LE2120_11_A_OTA_0090_all_bef835_10010111.zip"
+            ]
+        },
+        {
+            "version": "ColorOS 11.2 A.10",
+            "links": [
+                "https://component-ota-fs.coloros.com/component-ota/21/08/20/c7da95c091b64148a4c2dc07e69160b6.zip"
+            ]
+        },
+        {
+            "version": "ColorOS 11.2 A.11",
+            "links": [
+                "https://componentota-auto-cn.allawnfs.com/component-ota/21/09/08/b85a95f64ee0410d96510abd46880e0a.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/21/09/08/b85a95f64ee0410d96510abd46880e0a.zip",
+                "https://download.h2os.com/OnePlus9Pro/MP/LE2120_11_A_OTA_0110_all_5a66df_10010111.zip"
+            ]
+        },
+        {
+            "version": "ColorOS 11.2 A.12",
+            "links": [
+                "https://componentota-auto-cn.allawnfs.com/component-ota/21/10/15/1d22064666534028bdea7e67147ff370.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/21/10/15/1d22064666534028bdea7e67147ff370.zip"
+            ]
+        },
+        {
             "version": "ColorOS 11.2 A.13",
             "links": [
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-bb28391b1c78f0935131037a5a1d6902/component-ota/21/12/01/b60c2cee6f8b492cafb24db0cebaab8b.zip",
@@ -17,6 +87,18 @@
                 "https://componentota-auto-cn.allawnfs.com/component-ota/21/12/01/b60c2cee6f8b492cafb24db0cebaab8b.zip",
                 "https://componentota-manual-cn.allawnfs.com/component-ota/21/12/01/b60c2cee6f8b492cafb24db0cebaab8b.zip",
                 "https://gauss-componentotacostauto-cn.allawnfs.com/remove-bb28391b1c78f0935131037a5a1d6902/component-ota/21/12/01/b60c2cee6f8b492cafb24db0cebaab8b.zip"
+            ]
+        },
+        {
+            "version": "ColorOS 12 C.36",
+            "links": [
+                "https://component-ota-afs.coloros.com/component-ota/21/11/24/49c4fb16e6cd4473b0ab526552f784a1.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/21/11/24/49c4fb16e6cd4473b0ab526552f784a1.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/21/11/24/49c4fb16e6cd4473b0ab526552f784a1.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-77d014adf1f0c5bcab83aa16638e8e56/component-ota/21/11/24/49c4fb16e6cd4473b0ab526552f784a1.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/component-ota/21/11/24/49c4fb16e6cd4473b0ab526552f784a1.zip",
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-77d014adf1f0c5bcab83aa16638e8e56/component-ota/21/11/24/49c4fb16e6cd4473b0ab526552f784a1.zip",
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/component-ota/21/11/24/49c4fb16e6cd4473b0ab526552f784a1.zip"
             ]
         },
         {
@@ -572,6 +654,18 @@
             ]
         },
         {
+            "version": "OxygenOS 11.2.1.1",
+            "links": [
+                "http://otaafsg-cost.h2os.com/OnePlus9Pro_IND/OnePlus9ProOxygen_22.I.02_GLO_0020_2103072032/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.02_GLO_0020_2103072032/OnePlus9ProOxygen_22.I.02_OTA_0020_all_2103072032_dc577baf0305d6.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus9Pro_IND/OnePlus9ProOxygen_22.I.02_GLO_0020_2103072032/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.02_GLO_0020_2103072032/OnePlus9ProOxygen_22.I.02_OTA_0020_all_2103072032_dc577baf0305d6.zip",
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.02_GLO_0020_2103072032/OnePlus9ProOxygen_22.I.02_OTA_0020_all_2103072032_dc577baf0305d6.zip",
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.04_GLO_0040_2103100107/OnePlus9ProOxygen_22.I.04_OTA_0040_all_2103100107_f36cf75073.zip",
+                "http://otaafsg-cost.h2os.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.02_GLO_0020_2103072031/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.02_GLO_0020_2103072031/OnePlus9ProOxygen_22.E.02_OTA_0020_all_2103072031_fce8d4f8.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.02_GLO_0020_2103072031/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.02_GLO_0020_2103072031/OnePlus9ProOxygen_22.E.02_OTA_0020_all_2103072031_fce8d4f8.zip",
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.04_GLO_0040_2103100111/OnePlus9ProOxygen_22.E.04_OTA_0040_all_2103100111_4301.zip"
+            ]
+        },
+        {
             "version": "OxygenOS 11.2.10.10",
             "links": [
                 "https://android.googleapis.com/packages/ota-api/package/a074a7205a681509f1b84d6a2e0f75ddc2c6ab9b.zip",
@@ -579,9 +673,85 @@
             ]
         },
         {
+            "version": "OxygenOS 11.2.2.2",
+            "links": [
+                "https://oxygenos.oneplus.net/OnePlus9ProOxygen_22.O.05_OTA_0050_all_2103242259_3611e0858f954e7d.zip",
+                "http://otaafsg-cost.h2os.com/OnePlus9Pro_IND/OnePlus9ProOxygen_22.I.05_GLO_0050_2103242250/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.05_GLO_0050_2103242250/OnePlus9ProOxygen_22.I.05_OTA_0050_all_2103242250_8101a9932be0.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus9Pro_IND/OnePlus9ProOxygen_22.I.05_GLO_0050_2103242250/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.05_GLO_0050_2103242250/OnePlus9ProOxygen_22.I.05_OTA_0050_all_2103242250_8101a9932be0.zip",
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.05_GLO_0050_2103242250/OnePlus9ProOxygen_22.I.05_OTA_0050_all_2103242250_8101a9932be0.zip",
+                "http://otaafsg-cost.h2os.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.05_GLO_0050_2103242250/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.05_GLO_0050_2103242250/OnePlus9ProOxygen_22.E.05_OTA_0050_all_2103242250_02c95e225.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.05_GLO_0050_2103242250/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.05_GLO_0050_2103242250/OnePlus9ProOxygen_22.E.05_OTA_0050_all_2103242250_02c95e225.zip",
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.05_GLO_0050_2103242250/OnePlus9ProOxygen_22.E.05_OTA_0050_all_2103242250_02c95e225.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS 11.2.3.3",
+            "links": [
+                "http://otaafsg-cost.h2os.com/OnePlus9Pro_IND/OnePlus9ProOxygen_22.I.06_GLO_0060_2104020508/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.06_GLO_0060_2104020508/OnePlus9ProOxygen_22.I.06_OTA_0060_all_2104020508_86ba1e43654.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus9Pro_IND/OnePlus9ProOxygen_22.I.06_GLO_0060_2104020508/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.06_GLO_0060_2104020508/OnePlus9ProOxygen_22.I.06_OTA_0060_all_2104020508_86ba1e43654.zip",
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.06_GLO_0060_2104020508/OnePlus9ProOxygen_22.I.06_OTA_0060_all_2104020508_86ba1e43654.zip",
+                "http://otaafsg-cost.h2os.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.06_GLO_0060_2104020504/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.06_GLO_0060_2104020504/OnePlus9ProOxygen_22.E.06_OTA_0060_all_2104020504_14b30fef4631402.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.06_GLO_0060_2104020504/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.06_GLO_0060_2104020504/OnePlus9ProOxygen_22.E.06_OTA_0060_all_2104020504_14b30fef4631402.zip",
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.06_GLO_0060_2104020504/OnePlus9ProOxygen_22.E.06_OTA_0060_all_2104020504_14b30fef4631402.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS 11.2.4.4",
+            "links": [
+                "https://oxygenos.oneplus.net/OnePlus9ProOxygen_22.O.07_OTA_0070_all_2104122250_4cb8641ceb574eac.zip",
+                "http://otaafsg-cost.h2os.com/OnePlus9Pro_IND/OnePlus9ProOxygen_22.I.07_GLO_0070_2104122241/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.07_GLO_0070_2104122242/OnePlus9ProOxygen_22.I.07_OTA_0070_all_2104122242_b7bc50.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus9Pro_IND/OnePlus9ProOxygen_22.I.07_GLO_0070_2104122241/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.07_GLO_0070_2104122242/OnePlus9ProOxygen_22.I.07_OTA_0070_all_2104122242_b7bc50.zip",
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.07_GLO_0070_2104122242/OnePlus9ProOxygen_22.I.07_OTA_0070_all_2104122242_b7bc50.zip",
+                "http://otaafsg-cost.h2os.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.07_GLO_0070_2104131519/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.07_GLO_0070_2104131519/OnePlus9ProOxygen_22.E.07_OTA_0070_all_2104131519_e7fd0679bc.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.07_GLO_0070_2104131519/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.07_GLO_0070_2104131519/OnePlus9ProOxygen_22.E.07_OTA_0070_all_2104131519_e7fd0679bc.zip",
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.07_GLO_0070_2104131519/OnePlus9ProOxygen_22.E.07_OTA_0070_all_2104131519_e7fd0679bc.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS 11.2.5.5",
+            "links": [
+                "http://otaafsg-cost.h2os.com/OnePlus9Pro_IND/OnePlus9ProOxygen_22.I.08_GLO_0080_2105011324/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.08_GLO_0080_2105011324/OnePlus9ProOxygen_22.I.08_OTA_0080_all_2105011324_3685f6aa.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus9Pro_IND/OnePlus9ProOxygen_22.I.08_GLO_0080_2105011324/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.08_GLO_0080_2105011324/OnePlus9ProOxygen_22.I.08_OTA_0080_all_2105011324_3685f6aa.zip",
+                "http://otaafsg-cost.h2os.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.08_GLO_0080_2105011323/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.08_GLO_0080_2105011323/OnePlus9ProOxygen_22.E.08_OTA_0080_all_2105011323_5f986c9f29250bb.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.08_GLO_0080_2105011323/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.08_GLO_0080_2105011323/OnePlus9ProOxygen_22.E.08_OTA_0080_all_2105011323_5f986c9f29250bb.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS 11.2.6.6",
+            "links": [
+                "http://otaafsg-cost.h2os.com/OnePlus9Pro_IND/OnePlus9ProOxygen_22.I.09_GLO_0090_2105252229/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.09_GLO_0090_2105252229/OnePlus9ProOxygen_22.I.09_OTA_0090_all_2105252229_db0dd969.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus9Pro_IND/OnePlus9ProOxygen_22.I.09_GLO_0090_2105252229/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.09_GLO_0090_2105252229/OnePlus9ProOxygen_22.I.09_OTA_0090_all_2105252229_db0dd969.zip",
+                "http://otaafsg-cost.h2os.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.09_GLO_0090_2105252227/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.09_GLO_0090_2105252227/OnePlus9ProOxygen_22.E.09_OTA_0090_all_2105252227_60330d.zip",
+                "http://otafsg-cost-az.coloros.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.09_GLO_0090_2105252227/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.09_GLO_0090_2105252227/OnePlus9ProOxygen_22.E.09_OTA_0090_all_2105252227_60330d.zip"
+            ]
+        },
+        {
             "version": "OxygenOS 11.2.7.7",
             "links": [
                 "https://oxygenos.oneplus.net/OnePlus9ProOxygen_22.O.10_OTA_0100_all_2105290053_53da05771c794094.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS 11.2.8.8",
+            "links": [
+                "https://oxygenos.oneplus.net/OnePlus9ProOxygen_22.O.11_OTA_0110_all_2107082120_9658239688bf42bb.zip",
+                "http://otafsg-cost-az.coloros.com/OnePlus9Pro_IND/OnePlus9ProOxygen_22.I.11_GLO_0110_2107082121/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.11_GLO_0110_2107082121/OnePlus9ProOxygen_22.I.11_OTA_0110_all_2107082121_1dfa2b1936.zip",
+                "http://otaafsg-cost.h2os.com/OnePlus9Pro_IND/OnePlus9ProOxygen_22.I.11_GLO_0110_2107082121/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.11_GLO_0110_2107082121/OnePlus9ProOxygen_22.I.11_OTA_0110_all_2107082121_1dfa2b1936.zip",
+                "http://otafsg-cost.h2os.com/OnePlus9Pro_IND/OnePlus9ProOxygen_22.I.11_GLO_0110_2107082121/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.11_GLO_0110_2107082121/OnePlus9ProOxygen_22.I.11_OTA_0110_all_2107082121_1dfa2b1936.zip",
+                "http://otaafsg-cost.h2os.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.11_GLO_0110_2107082125/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.11_GLO_0110_2107082125/OnePlus9ProOxygen_22.E.11_OTA_0110_all_2107082125_d0bd7d565.zip",
+                "http://otafsg-cost-az.coloros.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.11_GLO_0110_2107082125/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.11_GLO_0110_2107082125/OnePlus9ProOxygen_22.E.11_OTA_0110_all_2107082125_d0bd7d565.zip",
+                "http://otafsg-cost.h2os.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.11_GLO_0110_2107082125/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.11_GLO_0110_2107082125/OnePlus9ProOxygen_22.E.11_OTA_0110_all_2107082125_d0bd7d565.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS 11.2.9.9",
+            "links": [
+                "https://android.googleapis.com/packages/ota-api/package/58557d1edb40b3bb920d8447d950e5fd084bcb25.zip",
+                "https://oxygenos.oneplus.net/OnePlus9ProOxygen_22.O.12_OTA_0120_all_2109102019_0bc91ec3315d46de.zip",
+                "http://otafsg-cost.h2os.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.12_GLO_0120_2109102019/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.12_GLO_0120_2109102019/OnePlus9ProOxygen_22.E.12_OTA_0120_all_2109102019_ac432f3a38188f.zip",
+                "http://otaafsg-cost.h2os.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.12_GLO_0120_2109102019/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.12_GLO_0120_2109102019/OnePlus9ProOxygen_22.E.12_OTA_0120_all_2109102019_ac432f3a38188f.zip",
+                "http://otafsg-cost-az.coloros.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.12_GLO_0120_2109102019/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.12_GLO_0120_2109102019/OnePlus9ProOxygen_22.E.12_OTA_0120_all_2109102019_ac432f3a38188f.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.12_GLO_0120_2109102019/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.12_GLO_0120_2109102019/OnePlus9ProOxygen_22.E.12_OTA_0120_all_2109102019_ac432f3a38188f.zip"
             ]
         },
         {
@@ -1008,6 +1178,12 @@
             "version": "降级包OxygenOS 11.2.8.8_GLO",
             "links": [
                 "https://oxygenos.oneplus.net/OnePlus9ProOxygen_22.O.11_OTA_0110_all_2107082120_downgrade_2e0c2b9ecc3c4102.zip"
+            ]
+        },
+        {
+            "version": "降级包OxygenOS 11.2.8.8_IN",
+            "links": [
+                "https://oxygenos.oneplus.net/OnePlus9ProOxygen_22.I.11_OTA_0110_all_2107082121_downgrade_66a1f653e8ee4eb5"
             ]
         },
         {

@@ -3,6 +3,37 @@
     "name": "一加9RT",
     "roms": [
         {
+            "version": "ColorOS MT2110_12 A.06",
+            "links": [
+                "https://componentota-auto-cn.allawnfs.com/component-ota/21/10/16/53fc44a900ae444caf18fb07eb16f7cc.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/21/10/16/53fc44a900ae444caf18fb07eb16f7cc.zip"
+            ]
+        },
+        {
+            "version": "ColorOS MT2110_12 A.07",
+            "links": [
+                "https://component-ota-afs.coloros.com/component-ota/21/11/02/b7ff246bc1fe4a888478a68dde510ba4.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/21/11/02/b7ff246bc1fe4a888478a68dde510ba4.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/21/11/02/b7ff246bc1fe4a888478a68dde510ba4.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-90a4387a1b0686bc17f0187fa774540f/component-ota/21/11/02/b7ff246bc1fe4a888478a68dde510ba4.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/component-ota/21/11/02/b7ff246bc1fe4a888478a68dde510ba4.zip",
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-90a4387a1b0686bc17f0187fa774540f/component-ota/21/11/02/b7ff246bc1fe4a888478a68dde510ba4.zip",
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/component-ota/21/11/02/b7ff246bc1fe4a888478a68dde510ba4.zip"
+            ]
+        },
+        {
+            "version": "ColorOS MT2110_12 A.08",
+            "links": [
+                "https://component-ota-afs.coloros.com/component-ota/21/11/15/446000f8ca5c45ca9ca1bb956de9bf34.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/21/11/15/446000f8ca5c45ca9ca1bb956de9bf34.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/21/11/15/446000f8ca5c45ca9ca1bb956de9bf34.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/remove-b9e44957ff52ed841b69538b1b127fba/component-ota/21/11/15/446000f8ca5c45ca9ca1bb956de9bf34.zip",
+                "https://gauss-componentotacostauto-cn.allawnfs.com/component-ota/21/11/15/446000f8ca5c45ca9ca1bb956de9bf34.zip",
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b9e44957ff52ed841b69538b1b127fba/component-ota/21/11/15/446000f8ca5c45ca9ca1bb956de9bf34.zip",
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/component-ota/21/11/15/446000f8ca5c45ca9ca1bb956de9bf34.zip"
+            ]
+        },
+        {
             "version": "ColorOS MT2110_12 A.09",
             "links": [
                 "https://component-ota-afs.coloros.com/component-ota/21/12/02/6ea2d51e9562434e835b4116fa95eb59.zip",

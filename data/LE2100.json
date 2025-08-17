@@ -3,6 +3,29 @@
     "name": "一加9R",
     "roms": [
         {
+            "version": "ColorOS LE2100_11.2 A.05",
+            "links": [
+                "http://download.h2os.com/OnePlus9R/LE2100domestic_11_A.05_2021041511150000.zip"
+            ]
+        },
+        {
+            "version": "ColorOS LE2100_11.2 A.06",
+            "links": [
+                "https://component-ota-fs.coloros.com/component-ota/21/05/01/52bae064c3c045e7a6396f6f5708f3e1.zip",
+                "https://component-ota-fs.coloros.com/component-ota/21/05/01/09224da79dd94629a707b7c2e83f95b7.zip",
+                "https://component-ota-fs.coloros.com/component-ota/21/05/01/52de74565cc741718839c8e21cdeb0ff.zip",
+                "https://component-ota-fs.coloros.com/component-ota/21/05/01/45c218663a5d4166adf37d5edfe6f391.zip",
+                "https://component-ota-fs.coloros.com/component-ota/21/05/01/36f2514b5e0a47c1b6c10050979a9d9d.zip",
+                "https://component-ota-fs.coloros.com/component-ota/21/05/01/7c14de0125d445d996ba99d885fa6933.zip"
+            ]
+        },
+        {
+            "version": "ColorOS LE2100_11.2 A.08",
+            "links": [
+                "http://download.h2os.com/OnePlus9R/LE2100domestic_11_A.08_2021052601230251.zip"
+            ]
+        },
+        {
             "version": "ColorOS LE2100_11.2 A.11",
             "links": [
                 "https://download.h2os.com/OnePlus9R/LE2100_11_OTA_0110_all_4ec155.zip"
@@ -424,6 +447,57 @@
                 "https://componentota-manual-cn.allawnfs.com/component-ota/25/03/17/c1ace47600074fbe9f670f6448b986a7.zip",
                 "https://componentota-auto-cn.allawnfs.com/component-ota/25/03/17/c1ace47600074fbe9f670f6448b986a7.zip",
                 "https://component-ota-afs.coloros.com/component-ota/25/03/17/c1ace47600074fbe9f670f6448b986a7.zip"
+            ]
+        },
+        {
+            "version": "氧OS 11.2.1.1",
+            "links": [
+                "http://otaafsg-cost.h2os.com/OnePlus9R_IND/OnePlus9ROxygen_13.I.02_GLO_0020_2104090043/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.02_GLO_0020_2104090043/OnePlus9ROxygen_13.I.02_OTA_0020_all_2104090043_3793108ba578.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus9R_IND/OnePlus9ROxygen_13.I.02_GLO_0020_2104090043/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.02_GLO_0020_2104090043/OnePlus9ROxygen_13.I.02_OTA_0020_all_2104090043_3793108ba578.zip",
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.02_GLO_0020_2104090043/OnePlus9ROxygen_13.I.02_OTA_0020_all_2104090043_3793108ba578.zip"
+            ]
+        },
+        {
+            "version": "氧OS 11.2.1.2",
+            "links": [
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.03_GLO_0030_2105101559/OnePlus9ROxygen_13.I.03_OTA_0030_all_2105101559_3650.zip",
+                "http://otaafsg-cost.h2os.com/OnePlus9R_IND/OnePlus9ROxygen_13.I.03_GLO_0030_2105101559/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.03_GLO_0030_2105101559/OnePlus9ROxygen_13.I.03_OTA_0030_all_2105101559_3650.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus9R_IND/OnePlus9ROxygen_13.I.03_GLO_0030_2105101559/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.03_GLO_0030_2105101559/OnePlus9ROxygen_13.I.03_OTA_0030_all_2105101559_3650.zip"
+            ]
+        },
+        {
+            "version": "氧OS 11.2.3.3",
+            "links": [
+                "https://otaafsg-cost.h2os.com/OnePlus9R_IND/OnePlus9ROxygen_13.I.04_GLO_0040_2105290149/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.04_GLO_0040_2105290149/OnePlus9ROxygen_13.I.04_OTA_0040_all_2105290149_76885.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus9R_IND/OnePlus9ROxygen_13.I.04_GLO_0040_2105290149/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.04_GLO_0040_2105290149/OnePlus9ROxygen_13.I.04_OTA_0040_all_2105290149_76885.zip",
+                "https://otafsg-cost.h2os.com/OnePlus9R_IND/OnePlus9ROxygen_13.I.04_GLO_0040_2105290149/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.04_GLO_0040_2105290149/OnePlus9ROxygen_13.I.04_OTA_0040_all_2105290149_76885.zip",
+                "http://otafsg-cost-az.coloros.com/OnePlus9R_IND/OnePlus9ROxygen_13.I.04_GLO_0040_2105290149/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.04_GLO_0040_2105290149/OnePlus9ROxygen_13.I.04_OTA_0040_all_2105290149_76885.zip"
+            ]
+        },
+        {
+            "version": "氧OS 11.2.4.4",
+            "links": [
+                "https://otafsg-cost-az.coloros.com/OnePlus9R_IND/OnePlus9ROxygen_13.I.05_GLO_0050_2107230024/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.05_GLO_0050_2107230024/OnePlus9ROxygen_13.I.05_OTA_0050_all_2107230024_1c4eeb48d33cc.zip",
+                "https://otaafsg-cost-az.coloros.com/OnePlus9R_IND/OnePlus9ROxygen_13.I.05_GLO_0050_2107230024/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.05_GLO_0050_2107230024/OnePlus9ROxygen_13.I.05_OTA_0050_all_2107230024_1c4eeb48d33cc.zip",
+                "http://otaafsg-cost.h2os.com/OnePlus9R_IND/OnePlus9ROxygen_13.I.05_GLO_0050_2107230024/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.05_GLO_0050_2107230024/OnePlus9ROxygen_13.I.05_OTA_0050_all_2107230024_1c4eeb48d33cc.zip"
+            ]
+        },
+        {
+            "version": "氧OS 11.2.5.5",
+            "links": [
+                "https://otafsg-cost-az.coloros.com/OnePlus9R_IND/OnePlus9ROxygen_13.I.06_GLO_0060_2109081920/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.06_GLO_0060_2109081920/OnePlus9ROxygen_13.I.06_OTA_0060_all_2109081920_2c2c0b9a90.zip",
+                "https://otaafsg-cost-az.coloros.com/OnePlus9R_IND/OnePlus9ROxygen_13.I.06_GLO_0060_2109081920/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.06_GLO_0060_2109081920/OnePlus9ROxygen_13.I.06_OTA_0060_all_2109081920_2c2c0b9a90.zip",
+                "http://otaafsg-cost.h2os.com/OnePlus9R_IND/OnePlus9ROxygen_13.I.06_GLO_0060_2109081920/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.06_GLO_0060_2109081920/OnePlus9ROxygen_13.I.06_OTA_0060_all_2109081920_2c2c0b9a90.zip",
+                "http://otafsg-cost.h2os.com/OnePlus9R_IND/OnePlus9ROxygen_13.I.06_GLO_0060_2109081920/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.06_GLO_0060_2109081920/OnePlus9ROxygen_13.I.06_OTA_0060_all_2109081920_2c2c0b9a90.zip"
+            ]
+        },
+        {
+            "version": "氧OS 11.2.6.6",
+            "links": [
+                "https://otafsg-cost-az.coloros.com/OnePlus9R_IND/OnePlus9ROxygen_13.I.07_GLO_0070_2111230200/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.07_GLO_0070_2111230200/OnePlus9ROxygen_13.I.07_OTA_0070_all_2111230200_c1541.zip",
+                "https://otaafsg-cost-az.coloros.com/OnePlus9R_IND/OnePlus9ROxygen_13.I.07_GLO_0070_2111230200/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.07_GLO_0070_2111230200/OnePlus9ROxygen_13.I.07_OTA_0070_all_2111230200_c1541.zip",
+                "http://otaafsg-cost.h2os.com/OnePlus9R_IND/OnePlus9ROxygen_13.I.07_GLO_0070_2111230200/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.07_GLO_0070_2111230200/OnePlus9ROxygen_13.I.07_OTA_0070_all_2111230200_c1541.zip",
+                "http://otafsg-cost.h2os.com/OnePlus9R_IND/OnePlus9ROxygen_13.I.07_GLO_0070_2111230200/patch/amazone2/GLO/OnePlus9ROxygen/OnePlus9ROxygen_13.I.07_GLO_0070_2111230200/OnePlus9ROxygen_13.I.07_OTA_0070_all_2111230200_c1541.zip"
             ]
         },
         {

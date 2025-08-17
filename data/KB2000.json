@@ -512,6 +512,40 @@
             ]
         },
         {
+            "version": "氢11.0.1.2",
+            "links": [
+                "https://download.h2os.com/OnePlus8T/OnePlus8THydrogen_15.H.16_OTA_0160_all_2010150101_5a4551dbe8c64401.zip"
+            ]
+        },
+        {
+            "version": "氢11.0.10.10",
+            "links": [
+                "http://otaafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.29_0290_2107310150/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.29_0290_2107310150/OnePlus8THydrogen_15.H.29_OTA_0290_all_2107310150_e96b513f516.zip",
+                "http://otafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.29_0290_2107310150/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.29_0290_2107310150/OnePlus8THydrogen_15.H.29_OTA_0290_all_2107310150_e96b513f516.zip",
+                "http://otaafs-cost.coloros.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.29_0290_2107310150/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.29_0290_2107310150/OnePlus8THydrogen_15.H.29_OTA_0290_all_2107310150_e96b513f516.zip",
+                "http://otafs-cost.coloros.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.29_0290_2107310150/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.29_0290_2107310150/OnePlus8THydrogen_15.H.29_OTA_0290_all_2107310150_e96b513f516.zip"
+            ]
+        },
+        {
+            "version": "氢11.0.11.11",
+            "links": [
+                "https://otaafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.30_0300_2108261351/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.30_0300_2108261351/OnePlus8THydrogen_15.H.30_OTA_0300_all_2108261351_0a310ee6659a.zip",
+                "https://otafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.30_0300_2108261351/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.30_0300_2108261351/OnePlus8THydrogen_15.H.30_OTA_0300_all_2108261351_0a310ee6659a.zip",
+                "http://otaafs-cost.coloros.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.30_0300_2108261351/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.30_0300_2108261351/OnePlus8THydrogen_15.H.30_OTA_0300_all_2108261351_0a310ee6659a.zip",
+                "http://otafs-cost.coloros.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.30_0300_2108261351/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.30_0300_2108261351/OnePlus8THydrogen_15.H.30_OTA_0300_all_2108261351_0a310ee6659a.zip",
+                "https://download.h2os.com/OnePlus8T/MP/OnePlus8THydrogen_15.H.30_OTA_0300_all_2108261351_268317578d9b483c.zip"
+            ]
+        },
+        {
+            "version": "氢11.0.12.12",
+            "links": [
+                "https://otaafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.31_0310_2110102354/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.31_0310_2110102354/OnePlus8THydrogen_15.H.31_OTA_0310_all_2110102354_e0a6062dc4008.zip",
+                "https://otafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.31_0310_2110102354/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.31_0310_2110102354/OnePlus8THydrogen_15.H.31_OTA_0310_all_2110102354_e0a6062dc4008.zip",
+                "http://otaafs-cost.coloros.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.31_0310_2110102354/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.31_0310_2110102354/OnePlus8THydrogen_15.H.31_OTA_0310_all_2110102354_e0a6062dc4008.zip",
+                "http://otafs-cost.coloros.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.31_0310_2110102354/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.31_0310_2110102354/OnePlus8THydrogen_15.H.31_OTA_0310_all_2110102354_e0a6062dc4008.zip"
+            ]
+        },
+        {
             "version": "氢11.0.13.13",
             "links": [
                 "https://download.h2os.com/OnePlus8T/MP/OnePlus8THydrogen_15.H.32_OTA_0320_all_2112211345_835a1814a2a442a2.zip",
@@ -523,6 +557,81 @@
             ]
         },
         {
+            "version": "氢11.0.3.4",
+            "links": [
+                "http://otaafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.18_0180_2011011545/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.18_0180_2011011545/OnePlus8THydrogen_15.H.18_OTA_0180_all_2011011545_6291e5844.zip"
+            ]
+        },
+        {
+            "version": "氢11.0.4.5",
+            "links": [
+                "https://download.h2os.com/OnePlus8T/OnePlus8THydrogen_15.H.16_OTA_0160_all_2010150101_5a4551dbe8c64401.zip"
+            ]
+        },
+        {
+            "version": "氢11.0.5.6",
+            "links": [
+                "https://otafsc.h2os.com/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.20_0200_2011172228/OnePlus8THydrogen_15.H.20_OTA_0200_all_2011172228_979264063be.zip"
+            ]
+        },
+        {
+            "version": "氢11.0.6.8",
+            "links": [
+                "http://otaafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.21_0210_2012071925/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.21_0210_2012071925/OnePlus8THydrogen_15.H.21_OTA_0210_all_2012071925_1ca8ac4.zip"
+            ]
+        },
+        {
+            "version": "氢11.0.7.10",
+            "links": [
+                "http://otaafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.22_0220_2102022304/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.22_0220_2102022304/OnePlus8THydrogen_15.H.22_OTA_0220_all_2102022304_ddeba2e500b31b.zip",
+                "http://otafs-cost.coloros.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.22_0220_2102022304/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.22_0220_2102022304/OnePlus8THydrogen_15.H.22_OTA_0220_all_2102022304_ddeba2e500b31b.zip"
+            ]
+        },
+        {
+            "version": "氢11.0.7.11",
+            "links": [
+                "https://download.h2os.com/OnePlus8T/MP/OnePlus8THydrogen_15.H.22_OTA_0220_all_2102101834_d27b615cdf9342d4.zip"
+            ]
+        },
+        {
+            "version": "氢11.0.8.13",
+            "links": [
+                "https://otafsc.h2os.com/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.24_0240_2103232120/OnePlus8THydrogen_15.H.24_OTA_0240_all_2103232120_99af89fb89a1.zip",
+                "https://otafsc.colorosos.com/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.24_0240_2103232120/OnePlus8THydrogen_15.H.24_OTA_0240_all_2103232120_99af89fb89a1.zip"
+            ]
+        },
+        {
+            "version": "氢11.0.8.14",
+            "links": [
+                "https://otafsc.h2os.com/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.24_0245_2104251757/OnePlus8THydrogen_15.H.24_OTA_0245_all_2104251757_1277ce43.zip",
+                "http://otafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.24_0245_2104251757/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.24_0245_2104251757/OnePlus8THydrogen_15.H.24_OTA_0245_all_2104251757_1277ce43.zip",
+                "http://otafs-cost.coloros.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.24_0245_2104251757/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.24_0245_2104251757/OnePlus8THydrogen_15.H.24_OTA_0245_all_2104251757_1277ce43.zip"
+            ]
+        },
+        {
+            "version": "氢11.0.8.15",
+            "links": [
+                "https://otaafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.25_0250_2105252336/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.25_0250_2105252336/OnePlus8THydrogen_15.H.25_OTA_0250_all_2105252336_b9b01eb.zip"
+            ]
+        },
+        {
+            "version": "氢11.0.8.17",
+            "links": [
+                "http://otafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.27_0270_2106112301/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.27_0270_2106112301/OnePlus8THydrogen_15.H.27_OTA_0270_all_2106112301_6318bf25e3c0180.zip",
+                "http://otafs-cost.coloros.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.27_0270_2106112301/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.27_0270_2106112301/OnePlus8THydrogen_15.H.27_OTA_0270_all_2106112301_6318bf25e3c0180.zip",
+                "https://download.h2os.com/OnePlus8T/MP/OnePlus8THydrogen_15.H.27_OTA_0270_all_2106112301_9a5a6dd7f0dc4c52.zip"
+            ]
+        },
+        {
+            "version": "氢11.0.9.9",
+            "links": [
+                "http://otaafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.28_0280_2107111039/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.28_0280_2107111039/OnePlus8THydrogen_15.H.28_OTA_0280_all_2107111039_e927908305e.zip",
+                "http://otafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.28_0280_2107111039/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.28_0280_2107111039/OnePlus8THydrogen_15.H.28_OTA_0280_all_2107111039_e927908305e.zip",
+                "http://otafs-cost.coloros.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.28_0280_2107111039/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.28_0280_2107111039/OnePlus8THydrogen_15.H.28_OTA_0280_all_2107111039_e927908305e.zip",
+                "http://otaafs-cost.coloros.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.28_0280_2107111039/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.28_0280_2107111039/OnePlus8THydrogen_15.H.28_OTA_0280_all_2107111039_e927908305e.zip"
+            ]
+        },
+        {
             "version": "氢OS 11.0.14.14",
             "links": [
                 "http://download.h2os.com/OnePlus8T/MP/OnePlus8THydrogen_15.H.33_OTA_0330_all_2202142225_99adcaae92f24e77.zip",
@@ -531,6 +640,19 @@
                 "http://otafs-cost.coloros.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.33_0330_2202142225/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.33_0330_2202142225/OnePlus8THydrogen_15.H.33_OTA_0330_all_2202142225_c40919f36f2.zip",
                 "http://otaafs-cost.coloros.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.33_0330_2202142225/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.33_0330_2202142225/OnePlus8THydrogen_15.H.33_OTA_0330_all_2202142225_c40919f36f2.zip",
                 "http://otafsc1.h2os.com/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.33_0330_2202142225/OnePlus8THydrogen_15.H.33_OTA_0330_all_2202142225_c40919f36f2.zip"
+            ]
+        },
+        {
+            "version": "氧11.0.10.10",
+            "links": [
+                "https://android.googleapis.com/packages/ota-api/package/8ff5c607905e4679c2687a86c2cb1c21adf2de32.zip"
+            ]
+        },
+        {
+            "version": "氧11.0.11.11",
+            "links": [
+                "https://oxygenos.oneplus.net/OnePlus8TOxygen_15.O.29_OTA_0290_all_2110091944_3d8159dff77f4ef1.zip",
+                "https://android.googleapis.com/packages/ota-api/package/5554073fbeed97b46c7cb76cd383104f436e66dd.zip"
             ]
         },
         {
@@ -549,6 +671,24 @@
             "version": "氧11.0.6.8",
             "links": [
                 "https://oxygenos.oneplus.net/OnePlus8TOxygen_15.O.21_OTA_0215_all_2101010247_ec6a7bddc57f444a.zip"
+            ]
+        },
+        {
+            "version": "氧11.0.7.9",
+            "links": [
+                "https://oxygenos.oneplus.net/OnePlus8TOxygen_15.O.22_OTA_0220_all_2102011818_b15fd99805c84e3b.zip"
+            ]
+        },
+        {
+            "version": "氧11.0.8.11",
+            "links": [
+                "https://oxygenos.oneplus.net/OnePlus8TOxygen_15.O.23_OTA_0230_all_2103221818_1608f9eff23e4166.zip"
+            ]
+        },
+        {
+            "version": "氧11.0.8.13",
+            "links": [
+                "https://oxygenos.oneplus.net/OnePlus8TOxygen_15.O.25_OTA_0250_all_2106011646_3df9d2f0348046b9.zip"
             ]
         },
         {
@@ -869,6 +1009,18 @@
             "version": "降级包OxygenOS 11.0.11.11_NA",
             "links": [
                 "https://oxygenos.oneplus.net/OnePlus8TOxygen_15.O.29_OTA_0290_all_2110091944_downgrade.zip"
+            ]
+        },
+        {
+            "version": "降级包氢11.0.6.8",
+            "links": [
+                "https://download.h2os.com/OnePlus8T/MP/OnePlus8THydrogen_15.H.21_OTA_0210_all_2012071925_downgrade_7367231f25744e79.zip"
+            ]
+        },
+        {
+            "version": "降级包氧11.0.6.7",
+            "links": [
+                "https://oxygenos.oneplus.net/OnePlus8TOxygen_15.O.21_OTA_0210_all_2012170001_downgrade_701546abe3a14942.zip"
             ]
         },
         {

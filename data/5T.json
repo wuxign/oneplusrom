@@ -33,6 +33,12 @@
             ]
         },
         {
+            "version": "氧10.0.1",
+            "links": [
+                "https://oxygenos.oneplus.net/OnePlus5TOxygen_43_OTA_069_all_2010292144_76910d123e3940e5.zip"
+            ]
+        },
+        {
             "version": "氧OS 9.0.11",
             "links": [
                 "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus5TOxygen/OnePlus5TOxygen_43.J.54_GLO_054_2002242025/OnePlus5TOxygen_43_OTA_054_all_2002242025_cb8fe710.zip"

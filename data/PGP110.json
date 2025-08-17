@@ -343,18 +343,6 @@
         {
             "version": "ColorOS PGP110_13.1.0.120(CN01) C.40",
             "links": [
-                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-17f395e82f580c9fc98830ba0e4c6455/component-ota/23/05/10/789bcb972bd342b1bd52efe291e6c105.zip",
-                "https://gauss-compotacostauto-cn.allawnfs.com/remove-17f395e82f580c9fc98830ba0e4c6455/component-ota/23/05/10/789bcb972bd342b1bd52efe291e6c105.zip",
-                "https://gauss-otacostauto-cn.allawnfs.com/remove-17f395e82f580c9fc98830ba0e4c6455/component-ota/23/05/10/789bcb972bd342b1bd52efe291e6c105.zip",
-                "https://gauss-otacostmanual-cn.allawnfs.com/remove-17f395e82f580c9fc98830ba0e4c6455/component-ota/23/05/10/789bcb972bd342b1bd52efe291e6c105.zip",
-                "https://component-ota-afs.coloros.com/component-ota/23/05/10/789bcb972bd342b1bd52efe291e6c105.zip",
-                "https://componentota-auto-cn.allawnfs.com/component-ota/23/05/10/789bcb972bd342b1bd52efe291e6c105.zip",
-                "https://componentota-manual-cn.allawnfs.com/component-ota/23/05/10/789bcb972bd342b1bd52efe291e6c105.zip"
-            ]
-        },
-        {
-            "version": "ColorOS PGP110_13.1.0.120(CN01) C.40",
-            "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-d119324ee7d6eb480fc1582513fbd0f5/component-ota/23/05/11/445d9f1208644dae977f3c246d36c1eb.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-d119324ee7d6eb480fc1582513fbd0f5/component-ota/23/05/11/445d9f1208644dae977f3c246d36c1eb.zip",
                 "https://gauss-otacostauto-cn.allawnfs.com/remove-d119324ee7d6eb480fc1582513fbd0f5/component-ota/23/05/11/445d9f1208644dae977f3c246d36c1eb.zip",
@@ -377,18 +365,6 @@
             ]
         },
         {
-            "version": "ColorOS PGP110_13.1.0.180(CN01) C.41_原神",
-            "links": [
-                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-aa9119b5f6a496098ee854cbef0c9eac/component-ota/23/06/08/ba3874f422e845d0b914b334922851ff.zip",
-                "https://gauss-compotacostauto-cn.allawnfs.com/remove-aa9119b5f6a496098ee854cbef0c9eac/component-ota/23/06/08/ba3874f422e845d0b914b334922851ff.zip",
-                "https://gauss-otacostauto-cn.allawnfs.com/remove-aa9119b5f6a496098ee854cbef0c9eac/component-ota/23/06/08/ba3874f422e845d0b914b334922851ff.zip",
-                "https://gauss-otacostmanual-cn.allawnfs.com/remove-aa9119b5f6a496098ee854cbef0c9eac/component-ota/23/06/08/ba3874f422e845d0b914b334922851ff.zip",
-                "https://component-ota-afs.coloros.com/component-ota/23/06/08/ba3874f422e845d0b914b334922851ff.zip",
-                "https://componentota-auto-cn.allawnfs.com/component-ota/23/06/08/ba3874f422e845d0b914b334922851ff.zip",
-                "https://componentota-manual-cn.allawnfs.com/component-ota/23/06/08/ba3874f422e845d0b914b334922851ff.zip"
-            ]
-        },
-        {
             "version": "ColorOS PGP110_13.1.0.181(CN01) C.42",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-44640bf1135b3c37d6724fb55d30a7f8/component-ota/23/06/27/21d46d3d3596431b8d88217cf51d2d36.zip",
@@ -401,31 +377,7 @@
             ]
         },
         {
-            "version": "ColorOS PGP110_13.1.0.181(CN01) C.42_原神",
-            "links": [
-                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-9bf9cf6d8d0fa98dec0e6b9a7499a46d/component-ota/23/06/28/f7b0396ccefc440f9dd72f5338664675.zip",
-                "https://gauss-compotacostauto-cn.allawnfs.com/remove-9bf9cf6d8d0fa98dec0e6b9a7499a46d/component-ota/23/06/28/f7b0396ccefc440f9dd72f5338664675.zip",
-                "https://gauss-otacostauto-cn.allawnfs.com/remove-9bf9cf6d8d0fa98dec0e6b9a7499a46d/component-ota/23/06/28/f7b0396ccefc440f9dd72f5338664675.zip",
-                "https://gauss-otacostmanual-cn.allawnfs.com/remove-9bf9cf6d8d0fa98dec0e6b9a7499a46d/component-ota/23/06/28/f7b0396ccefc440f9dd72f5338664675.zip",
-                "https://component-ota-afs.coloros.com/component-ota/23/06/28/f7b0396ccefc440f9dd72f5338664675.zip",
-                "https://componentota-auto-cn.allawnfs.com/component-ota/23/06/28/f7b0396ccefc440f9dd72f5338664675.zip",
-                "https://componentota-manual-cn.allawnfs.com/component-ota/23/06/28/f7b0396ccefc440f9dd72f5338664675.zip"
-            ]
-        },
-        {
             "version": "ColorOS PGP110_13.1.0.183(CN01) C.43",
-            "links": [
-                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-14226304f79702ebd4a8bf519e742248/component-ota/23/08/18/520fd2e3ca414329bbd382d278b65e09.zip",
-                "https://gauss-compotacostauto-cn.allawnfs.com/remove-14226304f79702ebd4a8bf519e742248/component-ota/23/08/18/520fd2e3ca414329bbd382d278b65e09.zip",
-                "https://gauss-otacostauto-cn.allawnfs.com/remove-14226304f79702ebd4a8bf519e742248/component-ota/23/08/18/520fd2e3ca414329bbd382d278b65e09.zip",
-                "https://gauss-otacostmanual-cn.allawnfs.com/remove-14226304f79702ebd4a8bf519e742248/component-ota/23/08/18/520fd2e3ca414329bbd382d278b65e09.zip",
-                "https://component-ota-afs.coloros.com/component-ota/23/08/18/520fd2e3ca414329bbd382d278b65e09.zip",
-                "https://componentota-auto-cn.allawnfs.com/component-ota/23/08/18/520fd2e3ca414329bbd382d278b65e09.zip",
-                "https://componentota-manual-cn.allawnfs.com/component-ota/23/08/18/520fd2e3ca414329bbd382d278b65e09.zip"
-            ]
-        },
-        {
-            "version": "ColorOS PGP110_13.1.0.183(CN01) C.43_原神",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-14226304f79702ebd4a8bf519e742248/component-ota/23/08/18/520fd2e3ca414329bbd382d278b65e09.zip",
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-14226304f79702ebd4a8bf519e742248/component-ota/23/08/18/520fd2e3ca414329bbd382d278b65e09.zip",
@@ -446,18 +398,6 @@
                 "https://component-ota-afs.coloros.com/component-ota/23/10/18/b1157e86207641188e05e50d4be85132.zip",
                 "https://componentota-auto-cn.allawnfs.com/component-ota/23/10/18/b1157e86207641188e05e50d4be85132.zip",
                 "https://componentota-manual-cn.allawnfs.com/component-ota/23/10/18/b1157e86207641188e05e50d4be85132.zip"
-            ]
-        },
-        {
-            "version": "ColorOS PGP110_13.1.0.184(CN01) C.44_原神",
-            "links": [
-                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7ea15bd7f0811cf964487eb9c97b5ae1/component-ota/23/10/18/a7e04715c872448a9ea0ee8a8d0ac011.zip",
-                "https://gauss-compotacostauto-cn.allawnfs.com/remove-7ea15bd7f0811cf964487eb9c97b5ae1/component-ota/23/10/18/a7e04715c872448a9ea0ee8a8d0ac011.zip",
-                "https://gauss-otacostauto-cn.allawnfs.com/remove-7ea15bd7f0811cf964487eb9c97b5ae1/component-ota/23/10/18/a7e04715c872448a9ea0ee8a8d0ac011.zip",
-                "https://gauss-otacostmanual-cn.allawnfs.com/remove-7ea15bd7f0811cf964487eb9c97b5ae1/component-ota/23/10/18/a7e04715c872448a9ea0ee8a8d0ac011.zip",
-                "https://component-ota-afs.coloros.com/component-ota/23/10/18/a7e04715c872448a9ea0ee8a8d0ac011.zip",
-                "https://componentota-auto-cn.allawnfs.com/component-ota/23/10/18/a7e04715c872448a9ea0ee8a8d0ac011.zip",
-                "https://componentota-manual-cn.allawnfs.com/component-ota/23/10/18/a7e04715c872448a9ea0ee8a8d0ac011.zip"
             ]
         },
         {
@@ -516,18 +456,6 @@
             ]
         },
         {
-            "version": "ColorOS PGP110_14.0.0.300(CN01) F.52_原神",
-            "links": [
-                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-250ed2c91bc247b2838bf13eaed0d5a8/component-ota/24/01/11/d5d95aa380b34672b75ec61ed7774044.zip",
-                "https://gauss-compotacostauto-cn.allawnfs.com/remove-250ed2c91bc247b2838bf13eaed0d5a8/component-ota/24/01/11/d5d95aa380b34672b75ec61ed7774044.zip",
-                "https://gauss-otacostauto-cn.allawnfs.com/remove-250ed2c91bc247b2838bf13eaed0d5a8/component-ota/24/01/11/d5d95aa380b34672b75ec61ed7774044.zip",
-                "https://gauss-otacostmanual-cn.allawnfs.com/remove-250ed2c91bc247b2838bf13eaed0d5a8/component-ota/24/01/11/d5d95aa380b34672b75ec61ed7774044.zip",
-                "https://component-ota-afs.coloros.com/component-ota/24/01/11/d5d95aa380b34672b75ec61ed7774044.zip",
-                "https://componentota-auto-cn.allawnfs.com/component-ota/24/01/11/d5d95aa380b34672b75ec61ed7774044.zip",
-                "https://componentota-manual-cn.allawnfs.com/component-ota/24/01/11/d5d95aa380b34672b75ec61ed7774044.zip"
-            ]
-        },
-        {
             "version": "ColorOS PGP110_14.0.0.500(CN01) F.53",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-39d293749c17c805edd81d46432e8c3f/component-ota/24/02/22/7f06a18e809b4f40a87388ac2d83a7aa.zip",
@@ -537,18 +465,6 @@
                 "https://component-ota-afs.coloros.com/component-ota/24/02/22/7f06a18e809b4f40a87388ac2d83a7aa.zip",
                 "https://componentota-auto-cn.allawnfs.com/component-ota/24/02/22/7f06a18e809b4f40a87388ac2d83a7aa.zip",
                 "https://componentota-manual-cn.allawnfs.com/component-ota/24/02/22/7f06a18e809b4f40a87388ac2d83a7aa.zip"
-            ]
-        },
-        {
-            "version": "ColorOS PGP110_14.0.0.500(CN01) F.53_原神",
-            "links": [
-                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-74a45572672ca1ae7b1f16051276bcf0/component-ota/24/02/23/59327d8eedb043c0b91bc44367779510.zip",
-                "https://gauss-compotacostauto-cn.allawnfs.com/remove-74a45572672ca1ae7b1f16051276bcf0/component-ota/24/02/23/59327d8eedb043c0b91bc44367779510.zip",
-                "https://gauss-otacostauto-cn.allawnfs.com/remove-74a45572672ca1ae7b1f16051276bcf0/component-ota/24/02/23/59327d8eedb043c0b91bc44367779510.zip",
-                "https://gauss-otacostmanual-cn.allawnfs.com/remove-74a45572672ca1ae7b1f16051276bcf0/component-ota/24/02/23/59327d8eedb043c0b91bc44367779510.zip",
-                "https://component-ota-afs.coloros.com/component-ota/24/02/23/59327d8eedb043c0b91bc44367779510.zip",
-                "https://componentota-auto-cn.allawnfs.com/component-ota/24/02/23/59327d8eedb043c0b91bc44367779510.zip",
-                "https://componentota-manual-cn.allawnfs.com/component-ota/24/02/23/59327d8eedb043c0b91bc44367779510.zip"
             ]
         },
         {

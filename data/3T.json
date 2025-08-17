@@ -1,0 +1,12 @@
+{
+    "code": "3T",
+    "name": "OnePlus 3T",
+    "roms": [
+        {
+            "version": "氧OS 9.0.6",
+            "links": [
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus3TOxygen/OnePlus3TOxygen_28.A.86_GLO_086_1911042121/OnePlus3TOxygen_28_OTA_086_all_1911042121_9156030ead54e.zip"
+            ]
+        }
+    ]
+}

@@ -205,6 +205,23 @@
             ]
         },
         {
+            "version": "ColorOS PKG110_15.0.0.850(CN01) A.62",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-5b486f8871d946daa6fe082b83af8c8e/component-ota/25/08/07/3e742dc46ea0487fb1d819f2c2e1cbd3.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-5b486f8871d946daa6fe082b83af8c8e/component-ota/25/08/07/3e742dc46ea0487fb1d819f2c2e1cbd3.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-5b486f8871d946daa6fe082b83af8c8e/component-ota/25/08/07/3e742dc46ea0487fb1d819f2c2e1cbd3.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-5b486f8871d946daa6fe082b83af8c8e/component-ota/25/08/07/3e742dc46ea0487fb1d819f2c2e1cbd3.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-5b486f8871d946daa6fe082b83af8c8e/component-ota/25/08/07/3e742dc46ea0487fb1d819f2c2e1cbd3.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-5b486f8871d946daa6fe082b83af8c8e/component-ota/25/08/07/3e742dc46ea0487fb1d819f2c2e1cbd3.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-5b486f8871d946daa6fe082b83af8c8e/component-ota/25/08/07/3e742dc46ea0487fb1d819f2c2e1cbd3.zip",
+                "https://gauss-cdnctrltrialauto-cn.allawnfs.com/remove-5b486f8871d946daa6fe082b83af8c8e/component-ota/25/08/07/3e742dc46ea0487fb1d819f2c2e1cbd3.zip",
+                "https://gauss-cdnctrltrialmanual-cn.allawnfs.com/remove-5b486f8871d946daa6fe082b83af8c8e/component-ota/25/08/07/3e742dc46ea0487fb1d819f2c2e1cbd3.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/08/07/3e742dc46ea0487fb1d819f2c2e1cbd3.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/08/07/3e742dc46ea0487fb1d819f2c2e1cbd3.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/08/07/3e742dc46ea0487fb1d819f2c2e1cbd3.zip"
+            ]
+        },
+        {
             "version": "OxygenOS CPH2645_15.0.0.403(EX01) A.41_GLO",
             "links": [
                 "https://gauss-opexcostmanual-in.allawnofs.com/remove-6a31db7a5ae04636090d5c68e84a39e1/component-ota/24/12/28/a2cb425041554cf2bd91b5c98b8c8fdb.zip",

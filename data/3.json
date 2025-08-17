@@ -1,0 +1,19 @@
+{
+    "code": "3",
+    "name": "OnePlus 3",
+    "roms": [
+        {
+            "version": "氢OS 9.0.3",
+            "links": [
+                "https://otaafsc-cost.h2os.com/OnePlus3/OnePlus3Hydrogen_16.A.83_083_2002201900/patch/CHN/OnePlus3Hydrogen/OnePlus3Hydrogen_16.A.83_083_2002201900/OnePlus3Hydrogen_16_OTA_083_all_2002201900_b3846cdd1f.zip",
+                "http://download.h2os.com/oneplus3/MP/OnePlus3Hydrogen_16_OTA_083_all_2002201900_abc8cfd625b5477b.zip"
+            ]
+        },
+        {
+            "version": "氧OS 9.0.6",
+            "links": [
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus3Oxygen/OnePlus3Oxygen_16.A.86_GLO_086_1911042118/OnePlus3Oxygen_16_OTA_086_all_1911042118_42cbe31ee3a.zip"
+            ]
+        }
+    ]
+}

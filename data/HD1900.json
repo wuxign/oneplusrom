@@ -133,15 +133,75 @@
             ]
         },
         {
+            "version": "氢10.0.12",
+            "links": [
+                "https://otafsc.h2os.com/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.15_015_2009152127/OnePlus7THydrogen_14.H.15_OTA_015_all_2009152127_74a5f277e5.zip"
+            ]
+        },
+        {
             "version": "氢10.0.13",
             "links": [
                 "https://otafsc.h2os.com/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.16_016_2010111803/OnePlus7THydrogen_14.H.16_OTA_016_all_2010111803_8a45.zip"
             ]
         },
         {
+            "version": "氢10.0.14",
+            "links": [
+                "https://otaafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_14.H.17_017_2011091900/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.17_017_2011091900/OnePlus7THydrogen_14.H.17_OTA_017_all_2011091900_e92a2a1959e995.zip"
+            ]
+        },
+        {
             "version": "氢10.0.5",
             "links": [
                 "https://otaafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_14.H.07_007_1911061921/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.07_007_1911061921/OnePlus7THydrogen_14.H.07_OTA_007_all_1911061921_98472b86bc7db1.zip"
+            ]
+        },
+        {
+            "version": "氢10.0.7",
+            "links": [
+                "https://otafsc.h2os.com/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.09_009_2001030048/OnePlus7THydrogen_14.H.09_OTA_009_all_2001030048_d935aae55ac.zip"
+            ]
+        },
+        {
+            "version": "氢11",
+            "links": [
+                "https://otaafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_14.H.21_0210_2103162336/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.21_0210_2103162336/OnePlus7THydrogen_14.H.21_OTA_0210_all_2103162336_a3d48e.zip",
+                "http://download.h2os.com/OnePlus7T/MP/OnePlus7THydrogen_14.H.21_OTA_0210_all_2103162336_4c03efab2c634b17.zip"
+            ]
+        },
+        {
+            "version": "氢11.0.0.2",
+            "links": [
+                "http://download.h2os.com/OnePlus7T/MP/OnePlus7THydrogen_14.H.22_OTA_0220_all_2104102256_834ae60f043a44ac.zip"
+            ]
+        },
+        {
+            "version": "氢11.0.1.1",
+            "links": [
+                "http://otafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_14.H.23_0230_2105181044/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.23_0230_2105181044/OnePlus7THydrogen_14.H.23_OTA_0230_all_2105181044_37dc065.zip",
+                "http://download.h2os.com/OnePlus7T/MP/OnePlus7THydrogen_14.H.23_OTA_0230_all_2105181044_2c6e83d539e640db.zip",
+                "http://otaafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_14.H.23_0230_2105181044/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.23_0230_2105181044/OnePlus7THydrogen_14.H.23_OTA_0230_all_2105181044_37dc065.zip",
+                "http://otaafs-cost.coloros.com/OnePlus7T_CH/OnePlus7THydrogen_14.H.23_0230_2105181044/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.23_0230_2105181044/OnePlus7THydrogen_14.H.23_OTA_0230_all_2105181044_37dc065.zip"
+            ]
+        },
+        {
+            "version": "氢11.0.2.1",
+            "links": [
+                "https://otaafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_14.H.24_0240_2107180039/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.24_0240_2107180039/OnePlus7THydrogen_14.H.24_OTA_0240_all_2107180039_8e9d.zip",
+                "http://otaafs-cost.coloros.com/OnePlus7T_CH/OnePlus7THydrogen_14.H.24_0240_2107180039/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.24_0240_2107180039/OnePlus7THydrogen_14.H.24_OTA_0240_all_2107180039_8e9d.zip",
+                "https://otafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_14.H.24_0240_2107180039/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.24_0240_2107180039/OnePlus7THydrogen_14.H.24_OTA_0240_all_2107180039_8e9d.zip",
+                "http://otafs-cost.coloros.com/OnePlus7T_CH/OnePlus7THydrogen_14.H.24_0240_2107180039/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.24_0240_2107180039/OnePlus7THydrogen_14.H.24_OTA_0240_all_2107180039_8e9d.zip",
+                "https://download.h2os.com/OnePlus7T/stable/OnePlus7THydrogen_14.H.24_OTA_0240_all_2107180039_1ac38cb1dcde4597.zip"
+            ]
+        },
+        {
+            "version": "氢11.0.3.1",
+            "links": [
+                "https://otaafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_14.H.25_0250_2108162040/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.25_0250_2108162040/OnePlus7THydrogen_14.H.25_OTA_0250_all_2108162040_24fcbdd0.zip",
+                "https://otafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_14.H.25_0250_2108162040/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.25_0250_2108162040/OnePlus7THydrogen_14.H.25_OTA_0250_all_2108162040_24fcbdd0.zip",
+                "http://otaafs-cost.coloros.com/OnePlus7T_CH/OnePlus7THydrogen_14.H.25_0250_2108162040/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.25_0250_2108162040/OnePlus7THydrogen_14.H.25_OTA_0250_all_2108162040_24fcbdd0.zip",
+                "http://otafs-cost.coloros.com/OnePlus7T_CH/OnePlus7THydrogen_14.H.25_0250_2108162040/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.25_0250_2108162040/OnePlus7THydrogen_14.H.25_OTA_0250_all_2108162040_24fcbdd0.zip",
+                "https://download.h2os.com/OnePlus7T/MP/OnePlus7THydrogen_14.H.25_OTA_0250_all_2108162040_0624e3c670a247ba.zip"
             ]
         },
         {
@@ -184,6 +244,12 @@
             ]
         },
         {
+            "version": "氧10.0.12",
+            "links": [
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.18_GLO_018_2007240040/OnePlus7TOxygen_14.O.18_OTA_018_all_2007240040_cce2fc.zip"
+            ]
+        },
+        {
             "version": "氧10.0.13",
             "links": [
                 "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.19_GLO_019_2009281709/OnePlus7TOxygen_14.O.19_OTA_019_all_2009281709_1026.zip"
@@ -193,6 +259,61 @@
             "version": "氧10.0.15",
             "links": [
                 "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.21_GLO_021_2011052319/OnePlus7TOxygen_14.O.21_OTA_021_all_2011052319_ecaa34d9d94502c.zip"
+            ]
+        },
+        {
+            "version": "氧10.0.16",
+            "links": [
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.22_GLO_022_2101280011/OnePlus7TOxygen_14.O.22_OTA_022_all_2101280011_848421aa.zip"
+            ]
+        },
+        {
+            "version": "氧11",
+            "links": [
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.25_GLO_0250_2103170010/OnePlus7TOxygen_14.O.25_OTA_0250_all_2103170010_42034d7f.zip",
+                "https://otafsg1.coloros.com/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.25_GLO_0250_2103170010/OnePlus7TOxygen_14.O.25_OTA_0250_all_2103170010_42034d7f.zip"
+            ]
+        },
+        {
+            "version": "氧11.0.0.2",
+            "links": [
+                "http://otaafsg-cost.h2os.com/OnePlus7T/OnePlus7TOxygen_14.O.26_GLO_0260_2104142319/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.26_GLO_0260_2104142319/OnePlus7TOxygen_14.O.26_OTA_0260_all_2104142319_42243e73.zip",
+                "http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.O.26_GLO_0260_2104142319/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.26_GLO_0260_2104142319/OnePlus7TOxygen_14.O.26_OTA_0260_all_2104142319_42243e73.zip"
+            ]
+        },
+        {
+            "version": "氧11.0.1.1",
+            "links": [
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.27_GLO_0270_2105200102/OnePlus7TOxygen_14.O.27_OTA_0270_all_2105200102_6a97220300.zip",
+                "http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.O.27_GLO_0270_2105200102/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.27_GLO_0270_2105200102/OnePlus7TOxygen_14.O.27_OTA_0270_all_2105200102_6a97220300.zip"
+            ]
+        },
+        {
+            "version": "氧11.0.2.1",
+            "links": [
+                "https://otaafsg-cost.h2os.com/OnePlus7T/OnePlus7TOxygen_14.O.28_GLO_0280_2107180039/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.28_GLO_0280_2107180039/OnePlus7TOxygen_14.O.28_OTA_0280_all_2107180039_c10840.zip",
+                "http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.O.28_GLO_0280_2107180039/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.28_GLO_0280_2107180039/OnePlus7TOxygen_14.O.28_OTA_0280_all_2107180039_c10840.zip",
+                "https://otafsg-cost.h2os.com/OnePlus7T/OnePlus7TOxygen_14.O.28_GLO_0280_2107180039/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.28_GLO_0280_2107180039/OnePlus7TOxygen_14.O.28_OTA_0280_all_2107180039_c10840.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.O.28_GLO_0280_2107180039/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.28_GLO_0280_2107180039/OnePlus7TOxygen_14.O.28_OTA_0280_all_2107180039_c10840.zip"
+            ]
+        },
+        {
+            "version": "氧11.0.3.1",
+            "links": [
+                "https://otaafsg-cost.h2os.com/OnePlus7T/OnePlus7TOxygen_14.O.28_GLO_0280_2107180039/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.28_GLO_0280_2107180039/OnePlus7TOxygen_14.O.28_OTA_0280_all_2107180039_c10840.zip",
+                "https://otafsg-cost.h2os.com/OnePlus7T/OnePlus7TOxygen_14.O.28_GLO_0280_2107180039/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.28_GLO_0280_2107180039/OnePlus7TOxygen_14.O.28_OTA_0280_all_2107180039_c10840.zip",
+                "https://otaafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.O.28_GLO_0280_2107180039/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.28_GLO_0280_2107180039/OnePlus7TOxygen_14.O.28_OTA_0280_all_2107180039_c10840.zip",
+                "https://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.O.28_GLO_0280_2107180039/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.28_GLO_0280_2107180039/OnePlus7TOxygen_14.O.28_OTA_0280_all_2107180039_c10840.zip",
+                "https://oxygenos.oneplus.net/OnePlus7TOxygen_14.O.29_OTA_0290_all_2108181607_0f47105ae1a94933.zip"
+            ]
+        },
+        {
+            "version": "氧11.0.4.1",
+            "links": [
+                "https://otaafsg-cost.h2os.com/OnePlus7T/OnePlus7TOxygen_14.O.30_GLO_0300_2110211543/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.30_GLO_0300_2110211543/OnePlus7TOxygen_14.O.30_OTA_0300_all_2110211543_778d1f72.zip",
+                "https://otafsg-cost.h2os.com/OnePlus7T/OnePlus7TOxygen_14.O.30_GLO_0300_2110211543/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.30_GLO_0300_2110211543/OnePlus7TOxygen_14.O.30_OTA_0300_all_2110211543_778d1f72.zip",
+                "https://otaafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.O.30_GLO_0300_2110211543/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.30_GLO_0300_2110211543/OnePlus7TOxygen_14.O.30_OTA_0300_all_2110211543_778d1f72.zip",
+                "https://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.O.30_GLO_0300_2110211543/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.30_GLO_0300_2110211543/OnePlus7TOxygen_14.O.30_OTA_0300_all_2110211543_778d1f72.zip"
             ]
         },
         {
@@ -312,6 +433,24 @@
             "version": "降级包（氢10.0.14）",
             "links": [
                 "http://download.h2os.com/OnePlus7T/MP/OnePlus7THydrogen_14.H.17_OTA_017_all_2011091900_downgrade_be8cc7ac59924c67.zip"
+            ]
+        },
+        {
+            "version": "降级包（氢10.0.7）",
+            "links": [
+                "http://download.h2os.com/OnePlus7T/MP/OnePlus7THydrogen_14.H.09_OTA_009_all_2001030048_downgrade_69031f35ae7240cb.zip"
+            ]
+        },
+        {
+            "version": "降级包（氢11.0.1.1）",
+            "links": [
+                "http://download.h2os.com/OnePlus7T/OBT/OnePlus7THydrogen_14.H.23_OTA_0230_all_2105181044_downgrade_6a7e8899bd92431b.zip"
+            ]
+        },
+        {
+            "version": "降级包（氧10.0.8）",
+            "links": [
+                "https://oxygenos.oneplus.net/OnePlus7TOxygen_14.O.10_OTA_010_all_2002022101_downgrade_0ab28576e1914b50.zip"
             ]
         }
     ]

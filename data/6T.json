@@ -3,6 +3,38 @@
     "name": "OnePlus 6T",
     "roms": [
         {
+            "version": "氢10.0.10",
+            "links": [
+                "http://otafsc-cost.h2os.com/OnePlus6T/OnePlus6THydrogen_34.K.51_051_2105262300/patch/CHN/OnePlus6THydrogen/OnePlus6THydrogen_34.K.51_051_2105262300/OnePlus6THydrogen_34.K.51_OTA_051_all_2105262300_8b4e2b.zip",
+                "http://otafs-cost.coloros.com/OnePlus6T/OnePlus6THydrogen_34.K.51_051_2105262300/patch/CHN/OnePlus6THydrogen/OnePlus6THydrogen_34.K.51_051_2105262300/OnePlus6THydrogen_34.K.51_OTA_051_all_2105262300_8b4e2b.zip"
+            ]
+        },
+        {
+            "version": "氢10.0.11",
+            "links": [
+                "http://otafsc-cost.h2os.com/OnePlus6T/OnePlus6THydrogen_34.K.52_052_2107162058/patch/CHN/OnePlus6THydrogen/OnePlus6THydrogen_34.K.52_052_2107162058/OnePlus6THydrogen_34.K.52_OTA_052_all_2107162058_e7a4c.zip",
+                "http://otaafsc-cost.h2os.com/OnePlus6T/OnePlus6THydrogen_34.K.52_052_2107162058/patch/CHN/OnePlus6THydrogen/OnePlus6THydrogen_34.K.52_052_2107162058/OnePlus6THydrogen_34.K.52_OTA_052_all_2107162058_e7a4c.zip",
+                "http://otafs-cost.coloros.com/OnePlus6T/OnePlus6THydrogen_34.K.52_052_2107162058/patch/CHN/OnePlus6THydrogen/OnePlus6THydrogen_34.K.52_052_2107162058/OnePlus6THydrogen_34.K.52_OTA_052_all_2107162058_e7a4c.zip",
+                "http://otaafs-cost.coloros.com/OnePlus6T/OnePlus6THydrogen_34.K.52_052_2107162058/patch/CHN/OnePlus6THydrogen/OnePlus6THydrogen_34.K.52_052_2107162058/OnePlus6THydrogen_34.K.52_OTA_052_all_2107162058_e7a4c.zip"
+            ]
+        },
+        {
+            "version": "氢10.0.9",
+            "links": [
+                "http://download.h2os.com/OnePlus6T/MP/OnePlus6THydrogen_34.K.50_OTA_050_all_2103260058_38cf7f5ba97f4cf3.zip",
+                "http://otafsc-cost.h2os.com/OnePlus6T/OnePlus6THydrogen_34.K.50_050_2103260058/patch/CHN/OnePlus6THydrogen/OnePlus6THydrogen_34.K.50_050_2103260058/OnePlus6THydrogen_34.K.50_OTA_050_all_2103260058_f593f532d71.zip",
+                "http://otafs-cost.coloros.com/OnePlus6T/OnePlus6THydrogen_34.K.50_050_2103260058/patch/CHN/OnePlus6THydrogen/OnePlus6THydrogen_34.K.50_050_2103260058/OnePlus6THydrogen_34.K.50_OTA_050_all_2103260058_f593f532d71.zip"
+            ]
+        },
+        {
+            "version": "氢11.0.0",
+            "links": [
+                "https://otaafsc-cost.h2os.com/OnePlus6T/OnePlus6THydrogen_34.K.60_0600_2108052235/patch/CHN/OnePlus6THydrogen/OnePlus6THydrogen_34.K.60_0600_2108052235/OnePlus6THydrogen_34.K.60_OTA_0600_all_2108052235_4afd71.zip",
+                "https://otafsc-cost.h2os.com/OnePlus6T/OnePlus6THydrogen_34.K.60_0600_2108052235/patch/CHN/OnePlus6THydrogen/OnePlus6THydrogen_34.K.60_0600_2108052235/OnePlus6THydrogen_34.K.60_OTA_0600_all_2108052235_4afd71.zip",
+                "https://download.h2os.com/OnePlus6T/MP/OnePlus6THydrogen_34.K.60_OTA_0600_all_2108052235_75703e59e0784dff.zip"
+            ]
+        },
+        {
             "version": "氢11.1.1.1",
             "links": [
                 "https://download.h2os.com/OnePlus6T/MP/OnePlus6THydrogen_34.K.61_OTA_0610_all_2109280613_c8da429bc7e74e24.zip"
@@ -27,6 +59,53 @@
             ]
         },
         {
+            "version": "氧10.3.10",
+            "links": [
+                "http://otaafsg-cost.h2os.com/OnePlus6T/OnePlus6TOxygen_34.J.53_GLO_053_2104202232/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.53_GLO_053_2104202232/OnePlus6TOxygen_34.J.53_OTA_053_all_2104202232_6dc335b9d3b53.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus6T/OnePlus6TOxygen_34.J.53_GLO_053_2104202232/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.53_GLO_053_2104202232/OnePlus6TOxygen_34.J.53_OTA_053_all_2104202232_6dc335b9d3b53.zip"
+            ]
+        },
+        {
+            "version": "氧10.3.11",
+            "links": [
+                "http://otaafsg-cost.h2os.com/OnePlus6T/OnePlus6TOxygen_34.J.54_GLO_054_2105112238/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.54_GLO_054_2105112238/OnePlus6TOxygen_34.J.54_OTA_054_all_2105112238_40e54084.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus6T/OnePlus6TOxygen_34.J.54_GLO_054_2105112238/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.54_GLO_054_2105112238/OnePlus6TOxygen_34.J.54_OTA_054_all_2105112238_40e54084.zip"
+            ]
+        },
+        {
+            "version": "氧10.3.12",
+            "links": [
+                "http://otafsg-cost-az.coloros.com/OnePlus6T/OnePlus6TOxygen_34.J.55_GLO_055_2107132253/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.55_GLO_055_2107132253/OnePlus6TOxygen_34.J.55_OTA_055_all_2107132253_b2cbbb97b4eee.zip",
+                "http://otaafsg-cost.h2os.com/OnePlus6T/OnePlus6TOxygen_34.J.55_GLO_055_2107132253/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.55_GLO_055_2107132253/OnePlus6TOxygen_34.J.55_OTA_055_all_2107132253_b2cbbb97b4eee.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus6T/OnePlus6TOxygen_34.J.55_GLO_055_2107132253/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.55_GLO_055_2107132253/OnePlus6TOxygen_34.J.55_OTA_055_all_2107132253_b2cbbb97b4eee.zip"
+            ]
+        },
+        {
+            "version": "氧10.3.9",
+            "links": [
+                "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.52_GLO_052_2103030004/OnePlus6TOxygen_34.J.52_OTA_052_all_2103030004_88088f5ce16c166.zip",
+                "https://otafsg1.coloros.com/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.52_GLO_052_2103030004/OnePlus6TOxygen_34.J.52_OTA_052_all_2103030004_88088f5ce16c166.zip"
+            ]
+        },
+        {
+            "version": "氧11.0.0",
+            "links": [
+                "https://otaafsg-cost.h2os.com/OnePlus6T/OnePlus6TOxygen_34.J.60_GLO_0600_2108052232/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.60_GLO_0600_2108052232/OnePlus6TOxygen_34.J.60_OTA_0600_all_2108052232_8c516d0cce8795.zip",
+                "https://otafsg-cost.h2os.com/OnePlus6T/OnePlus6TOxygen_34.J.60_GLO_0600_2108052232/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.60_GLO_0600_2108052232/OnePlus6TOxygen_34.J.60_OTA_0600_all_2108052232_8c516d0cce8795.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus6T/OnePlus6TOxygen_34.J.60_GLO_0600_2108052232/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.60_GLO_0600_2108052232/OnePlus6TOxygen_34.J.60_OTA_0600_all_2108052232_8c516d0cce8795.zip"
+            ]
+        },
+        {
+            "version": "氧11.1.1.1",
+            "links": [
+                "http://otafsg-cost-az.coloros.com/OnePlus6T/OnePlus6TOxygen_34.J.61_GLO_0610_2109171644/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.61_GLO_0610_2109171644/OnePlus6TOxygen_34.J.61_OTA_0610_all_2109171644_bae59a9.zip",
+                "http://otaafsg-cost-az.coloros.com/OnePlus6T/OnePlus6TOxygen_34.J.61_GLO_0610_2109171644/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.61_GLO_0610_2109171644/OnePlus6TOxygen_34.J.61_OTA_0610_all_2109171644_bae59a9.zip",
+                "http://otafsg-cost.h2os.com/OnePlus6T/OnePlus6TOxygen_34.J.61_GLO_0610_2109171644/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.61_GLO_0610_2109171644/OnePlus6TOxygen_34.J.61_OTA_0610_all_2109171644_bae59a9.zip",
+                "http://otaafsg-cost.h2os.com/OnePlus6T/OnePlus6TOxygen_34.J.61_GLO_0610_2109171644/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.61_GLO_0610_2109171644/OnePlus6TOxygen_34.J.61_OTA_0610_all_2109171644_bae59a9.zip",
+                "https://oxygenos.oneplus.net/OnePlus6TOxygen_34.J.61_OTA_0610_all_2109171644_7a4bfad9b1f940d5.zip"
+            ]
+        },
+        {
             "version": "氧11.1.2.2",
             "links": [
                 "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.62_GLO_0620_2111252336/OnePlus6TOxygen_34.J.62_OTA_0620_all_2111252336_339a2fa8335f21.zip",
@@ -39,9 +118,27 @@
             ]
         },
         {
+            "version": "降级包（氢10.0.10）",
+            "links": [
+                "https://download.h2os.com/OnePlus6T/Back/OnePlus6THydrogen_34.K.51_OTA_051_all_2105262300_downgrade_e10c56ab63f04596.zip"
+            ]
+        },
+        {
             "version": "降级包（氢9.0.4）",
             "links": [
                 "http://download.h2os.com/Rollback/Fulldowngrade_wipe_18801_181102_0039_user_MP2_Hotfix_release.zip"
+            ]
+        },
+        {
+            "version": "降级包（氧10.3.11）",
+            "links": [
+                "https://oxygenos.oneplus.net/OnePlus6TOxygen_34.J.54_OTA_054_all_2105112238_downgrade_708a3306f3904ad4.zip"
+            ]
+        },
+        {
+            "version": "降级包（氧10.3.2）",
+            "links": [
+                "https://oxygenos.oneplus.net/OnePlus6TOxygen_34_OTA_044_all_2002220041_downgrade_3e5565c392d047d7.zip"
             ]
         }
     ]

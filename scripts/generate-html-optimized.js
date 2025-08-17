@@ -62,7 +62,7 @@ function generateDeviceDataFiles(devices) {
     });
 }
 
-function generateMainHTML(devices, totalRoms, totalLinks) {
+function generateMainHTML() {
     const html = `<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -72,9 +72,6 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
     <link rel="icon" type="image/png" href="./ico.png">
     <link rel="shortcut icon" type="image/png" href="./ico.png">
     <link rel="apple-touch-icon" href="./ico.png">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <style>
         :root {
             --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
@@ -102,7 +99,7 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         }
         
         body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
             background: 
                 radial-gradient(circle at 20% 20%, rgba(102, 126, 234, 0.4) 0%, transparent 50%),
                 radial-gradient(circle at 80% 80%, rgba(255, 107, 107, 0.3) 0%, transparent 50%),
@@ -138,7 +135,6 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             touch-action: manipulation;
         }
         
-        /* 修复浏览器扩展兼容性问题 */
         .immersive-translate-link {
             -webkit-user-select: none;
             -moz-user-select: none;
@@ -343,7 +339,6 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             display: flex;
             flex-direction: column;
             min-height: 220px;
-            group: card;
         }
         
         .device-card::before {
@@ -647,7 +642,6 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             align-items: center;
             justify-content: center;
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-            title: "关闭";
         }
         
         .modal-close:hover {
@@ -661,13 +655,11 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             padding: var(--spacing-lg);
             max-height: 70vh;
             overflow-y: auto;
-            /* 性能优化 */
             will-change: scroll-position;
             contain: layout style paint;
             transform: translateZ(0);
             -webkit-overflow-scrolling: touch;
             scroll-behavior: smooth;
-            /* 减少重绘 */
             backface-visibility: hidden;
             perspective: 1000px;
         }
@@ -747,6 +739,22 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             border-radius: 50%;
             animation: spin 0.8s linear infinite;
             margin: 0 auto var(--spacing-md) auto;
+        }
+        
+        .loading-devices {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: var(--spacing-xl);
+            color: var(--text-secondary);
+            grid-column: 1 / -1;
+        }
+        
+        .loading-devices .loading-spinner {
+            width: 40px;
+            height: 40px;
+            margin-bottom: var(--spacing-md);
         }
         
         .pulse-animation {
@@ -898,7 +906,6 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
                 --border-radius-lg: 16px;
             }
             
-            /* 移动设备性能优化 */
             .modal-body {
                 -webkit-overflow-scrolling: touch;
                 overscroll-behavior: none;
@@ -1046,12 +1053,11 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             }
             
             .copy-button {
-                width: 120px; /* 移动端固定宽度 */
+                width: 120px; 
                 flex: none;
                 padding: 0.5rem 0.75rem;
                 font-size: 0.8rem;
-                min-width: unset; /* 重置最小宽度 */
-            }
+                min-width: unset; 
                 border-radius: 6px;
             }
         }
@@ -1124,10 +1130,10 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             }
             
             .copy-button {
-                width: 100px; /* 最小屏幕固定宽度 */
+                width: 100px; 
                 padding: 0.4rem 0.6rem;
                 font-size: 0.75rem;
-                min-width: unset; /* 重置最小宽度 */
+                min-width: unset; 
             }
         }
     </style>
@@ -1138,15 +1144,15 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             <h1>OnePlus ROM</h1>
             <div class="stats-bar">
                 <div class="stat-item">
-                    <span class="stat-number">${devices.length}</span>
+                    <span class="stat-number" id="deviceCount">0</span>
                     <span class="stat-label">设备型号</span>
                 </div>
                 <div class="stat-item">
-                    <span class="stat-number">${totalRoms}</span>
+                    <span class="stat-number" id="romCount">0</span>
                     <span class="stat-label">ROM版本</span>
                 </div>
                 <div class="stat-item">
-                    <span class="stat-number">${totalLinks}</span>
+                    <span class="stat-number" id="linkCount">0</span>
                     <span class="stat-label">下载链接</span>
                 </div>
             </div>
@@ -1158,17 +1164,10 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         </div>
         
         <div class="devices-grid" id="devicesGrid">
-            ${devices.map(device => `
-                <div class="device-card" data-code="${device.code}" data-name="${device.name}">
-                    <div class="device-content">
-                        <div class="device-model">${device.name}</div>
-                        <div class="device-code">${device.code}</div>
-                        <button class="load-button" onclick="loadDeviceData('${device.code}', '${device.name}')">
-                            查看详情
-                        </button>
-                    </div>
-                </div>
-            `).join('')}
+            <div class="loading-devices">
+                <div class="loading-spinner"></div>
+                <div>正在加载设备列表...</div>
+            </div>
         </div>
         
         <div class="loading-modal" id="loadingModal">
@@ -1197,6 +1196,74 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
     <script>
         let viewportTimer;
         let lastHeight = window.innerHeight;
+        let allDevices = []; 
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            loadDevicesList();
+        });
+        
+        async function loadDevicesList() {
+            try {
+                const response = await fetch('./data/devices.json');
+                const devices = await response.json();
+                allDevices = devices;
+                
+                updateStats(devices);
+                
+                renderDeviceCards(devices);
+                
+                initializeSearch();
+                
+            } catch (error) {
+                console.error('加载设备列表失败:', error);
+                document.getElementById('devicesGrid').innerHTML = 
+                    '<div style="text-align: center; color: var(--text-muted); padding: 2rem;">加载失败，请刷新页面重试</div>';
+            }
+        }
+        
+        function updateStats(devices) {
+            const totalRoms = devices.reduce((sum, device) => sum + device.romCount, 0);
+            const totalLinks = devices.reduce((sum, device) => sum + device.linkCount, 0);
+            
+            document.getElementById('deviceCount').textContent = devices.length;
+            document.getElementById('romCount').textContent = totalRoms;
+            document.getElementById('linkCount').textContent = totalLinks;
+        }
+        
+        function renderDeviceCards(devices) {
+            const devicesGrid = document.getElementById('devicesGrid');
+            
+            const cardsHTML = devices.map(device => \`
+                <div class="device-card" data-code="\${device.code}" data-name="\${device.name}">
+                    <div class="device-content">
+                        <div class="device-model">\${device.name}</div>
+                        <div class="device-code">\${device.code}</div>
+                        <button class="load-button" onclick="loadDeviceData('\${device.code}', '\${device.name}')">
+                            查看详情
+                        </button>
+                    </div>
+                </div>
+            \`).join('');
+            
+            devicesGrid.innerHTML = cardsHTML;
+        }
+        
+        function initializeSearch() {
+            document.getElementById('searchInput').addEventListener('input', function(e) {
+                const searchTerm = e.target.value.toLowerCase();
+                const deviceCards = document.querySelectorAll('.device-card');
+                
+                deviceCards.forEach(card => {
+                    const code = card.getAttribute('data-code').toLowerCase();
+                    const name = card.getAttribute('data-name').toLowerCase();
+                    if (code.includes(searchTerm) || name.includes(searchTerm)) {
+                        card.style.display = 'block';
+                    } else {
+                        card.style.display = 'none';
+                    }
+                });
+            });
+        }
         
         function fixViewportHeight() {
             const currentHeight = window.innerHeight;
@@ -1236,24 +1303,6 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
         }
         
         detectFullscreenBrowser();
-        
-        // 搜索功能
-        document.getElementById('searchInput').addEventListener('input', function(e) {
-            const searchTerm = e.target.value.toLowerCase();
-            const deviceCards = document.querySelectorAll('.device-card');
-            
-            deviceCards.forEach(card => {
-                const code = card.getAttribute('data-code').toLowerCase();
-                const name = card.getAttribute('data-name').toLowerCase();
-                if (code.includes(searchTerm) || name.includes(searchTerm)) {
-                    card.style.display = 'block';
-                } else {
-                    card.style.display = 'none';
-                }
-            });
-        });
-        
-        // 加载设备数据
         let savedScrollPosition = 0;
         
         async function loadDeviceData(code, name) {
@@ -1277,14 +1326,11 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
                 const response = await fetch(\`./data/\${code}.json\`);
                 const data = await response.json();
                 
-                // 隐藏加载模态框
                 loadingModal.classList.remove('show');
                 
-                // 设置模态框内容
                 modalTitle.textContent = name;
                 modalCode.textContent = code;
                 
-                // 生成ROM详情HTML
                 const romsHTML = data.roms.map((rom, romIndex) => \`
                     <div class="rom-item">
                         <div class="rom-version" onclick="toggleRomLinks(this)">
@@ -1307,14 +1353,13 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
                 
                 modalBody.innerHTML = romsHTML;
                 
-                // 显示设备详情模态框
+
                 deviceModal.classList.add('show');
                 
             } catch (error) {
                 console.error('加载设备数据失败:', error);
                 loadingModal.classList.remove('show');
                 
-                // 恢复滚动位置（加载失败时）
                 document.body.classList.remove('modal-open');
                 document.body.style.top = '';
                 
@@ -1331,22 +1376,18 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
             }
         }
         
-        // 关闭模态框
         function closeModal() {
             const deviceModal = document.getElementById('deviceModal');
             deviceModal.classList.remove('show');
             
-            // 恢复页面滚动和位置
             document.body.classList.remove('modal-open');
             document.body.style.top = '';
             
-            // 恢复之前的滚动位置（平滑滚动）
             if (savedScrollPosition) {
-                // 使用 requestAnimationFrame 确保样式更新完成后再滚动
                 requestAnimationFrame(() => {
                     window.scrollTo({
                         top: savedScrollPosition,
-                        behavior: 'auto' // 立即跳转，不要动画
+                        behavior: 'auto' 
                     });
                 });
             }
@@ -1426,7 +1467,6 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
                         button.classList.remove('copied');
                     }, 2000);
                 } catch (err) {
-                    // 失败反馈
                     button.innerHTML = '<span style="font-size: 0.8rem;">❌</span> 复制失败';
                     button.style.background = 'linear-gradient(135deg, #ff4757, #ff3838)';
                     
@@ -1449,8 +1489,8 @@ function generateMainHTML(devices, totalRoms, totalLinks) {
 function main() {
     console.log('开始生成优化版HTML...');
     
-    const { devices, totalRoms, totalLinks } = readDeviceData();
-    console.log(`读取到 ${devices.length} 个设备，总计 ${totalRoms} 个ROM版本，${totalLinks} 个下载链接`);
+    const { devices } = readDeviceData();
+    console.log(`处理了 ${devices.length} 个设备文件`);
     
     if (!fs.existsSync('docs')) {
         fs.mkdirSync('docs');
@@ -1461,26 +1501,9 @@ function main() {
     
     generateDeviceList(devices);
     generateDeviceDataFiles(devices);
-    generateMainHTML(devices, totalRoms, totalLinks);
+    generateMainHTML();
     
     fs.writeFileSync('docs/.nojekyll', '');
-    
-    if (fs.existsSync('ico.png')) {
-        fs.copyFileSync('ico.png', 'docs/ico.png');
-        console.log('📎 已复制 ico.png 到 docs 目录');
-    } else {
-        console.log('⚠️  未找到 ico.png 文件');
-    }
-    
-    console.log('✅ 优化版HTML生成完成！');
-    console.log('📁 文件结构:');
-    console.log('   - docs/index.html (主页面，约50KB)');
-    console.log('   - docs/data/devices.json (设备列表)');
-    console.log(`   - docs/data/*.json (${devices.length}个设备数据文件)`);
-    console.log('   - docs/.nojekyll (禁用Jekyll处理)');
-    if (fs.existsSync('docs/ico.png')) {
-        console.log('   - docs/ico.png (网站图标)');
-    }
 }
 
 main();
