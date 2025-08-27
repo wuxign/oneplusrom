@@ -441,6 +441,23 @@
             ]
         },
         {
+            "version": "ColorOS PHB110_15.0.0.850(CN01) F.33",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-ec88ef83ce2044759f97ab473cacfb13/component-ota/25/08/18/832deb1d7243466eb8014ac3089abe45.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-ec88ef83ce2044759f97ab473cacfb13/component-ota/25/08/18/832deb1d7243466eb8014ac3089abe45.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-ec88ef83ce2044759f97ab473cacfb13/component-ota/25/08/18/832deb1d7243466eb8014ac3089abe45.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-ec88ef83ce2044759f97ab473cacfb13/component-ota/25/08/18/832deb1d7243466eb8014ac3089abe45.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-ec88ef83ce2044759f97ab473cacfb13/component-ota/25/08/18/832deb1d7243466eb8014ac3089abe45.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-ec88ef83ce2044759f97ab473cacfb13/component-ota/25/08/18/832deb1d7243466eb8014ac3089abe45.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-ec88ef83ce2044759f97ab473cacfb13/component-ota/25/08/18/832deb1d7243466eb8014ac3089abe45.zip",
+                "https://gauss-cdnctrltrialauto-cn.allawnfs.com/remove-ec88ef83ce2044759f97ab473cacfb13/component-ota/25/08/18/832deb1d7243466eb8014ac3089abe45.zip",
+                "https://gauss-cdnctrltrialmanual-cn.allawnfs.com/remove-ec88ef83ce2044759f97ab473cacfb13/component-ota/25/08/18/832deb1d7243466eb8014ac3089abe45.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/08/18/832deb1d7243466eb8014ac3089abe45.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/08/18/832deb1d7243466eb8014ac3089abe45.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/08/18/832deb1d7243466eb8014ac3089abe45.zip"
+            ]
+        },
+        {
             "version": "OxygenOS CPH2447_13.0.0 A.07",
             "links": [
                 "https://gauss-componentotacostmanual-in.allawnofs.com/remove-e95820476dfbf1f5f9ca7de73dde1b43/component-ota/23/02/03/947dfadbafdb40c298f8b8c1d40f0792.zip",

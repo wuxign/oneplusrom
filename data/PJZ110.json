@@ -224,6 +224,23 @@
             ]
         },
         {
+            "version": "ColorOS PJZ110_15.0.0.851(CN01) A.77",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/component-ota/25/08/13/aa70bdbf2cff4c6a843e69ff0696326c.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/component-ota/25/08/13/aa70bdbf2cff4c6a843e69ff0696326c.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/component-ota/25/08/13/aa70bdbf2cff4c6a843e69ff0696326c.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/component-ota/25/08/13/aa70bdbf2cff4c6a843e69ff0696326c.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/component-ota/25/08/13/aa70bdbf2cff4c6a843e69ff0696326c.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/component-ota/25/08/13/aa70bdbf2cff4c6a843e69ff0696326c.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/component-ota/25/08/13/aa70bdbf2cff4c6a843e69ff0696326c.zip",
+                "https://gauss-cdnctrltrialauto-cn.allawnfs.com/component-ota/25/08/13/aa70bdbf2cff4c6a843e69ff0696326c.zip",
+                "https://gauss-cdnctrltrialmanual-cn.allawnfs.com/component-ota/25/08/13/aa70bdbf2cff4c6a843e69ff0696326c.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/08/13/aa70bdbf2cff4c6a843e69ff0696326c.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/08/13/aa70bdbf2cff4c6a843e69ff0696326c.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/08/13/aa70bdbf2cff4c6a843e69ff0696326c.zip"
+            ]
+        },
+        {
             "version": "OxygenOS CPH2649_15.0.0.402(EX01) A.29",
             "links": [
                 "https://gauss-opexcostmanual-in.allawnofs.com/remove-9ef4f572fcdbfe7620f6b286954ed9fc/component-ota/25/01/02/669206f94744432d80c6ac989fc8a3b0.zip",

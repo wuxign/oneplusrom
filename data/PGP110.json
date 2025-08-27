@@ -456,6 +456,18 @@
             ]
         },
         {
+            "version": "ColorOS PGP110_14.0.0.300(CN01) F.52 原神版",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-250ed2c91bc247b2838bf13eaed0d5a8/component-ota/24/01/11/d5d95aa380b34672b75ec61ed7774044.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-250ed2c91bc247b2838bf13eaed0d5a8/component-ota/24/01/11/d5d95aa380b34672b75ec61ed7774044.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-250ed2c91bc247b2838bf13eaed0d5a8/component-ota/24/01/11/d5d95aa380b34672b75ec61ed7774044.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-250ed2c91bc247b2838bf13eaed0d5a8/component-ota/24/01/11/d5d95aa380b34672b75ec61ed7774044.zip",
+                "https://component-ota-afs.coloros.com/component-ota/24/01/11/d5d95aa380b34672b75ec61ed7774044.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/24/01/11/d5d95aa380b34672b75ec61ed7774044.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/24/01/11/d5d95aa380b34672b75ec61ed7774044.zip"
+            ]
+        },
+        {
             "version": "ColorOS PGP110_14.0.0.500(CN01) F.53",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-39d293749c17c805edd81d46432e8c3f/component-ota/24/02/22/7f06a18e809b4f40a87388ac2d83a7aa.zip",
@@ -1106,6 +1118,12 @@
             "version": "降级包ColorOS PGP110_13.1.0.183(CN01) C.43",
             "links": [
                 "https://downgradefs.coloros.com/downgrade/23/08/29/74c9291df6de455bbc08ef38ec6a2984.zip"
+            ]
+        },
+        {
+            "version": "降级包ColorOS PGP110_13.1.0.183(CN01) C.43 原神",
+            "links": [
+                "https://downgradefs.coloros.com/downgrade/23/09/25/b9115a45c3c1465bb42f6e453088883d.zip"
             ]
         },
         {

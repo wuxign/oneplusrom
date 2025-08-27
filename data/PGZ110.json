@@ -378,6 +378,18 @@
             "links": [
                 "https://downgradefs.coloros.com/downgrade/22/12/03/6f9f5017e45241f39cf047e8314bc6fc.zip"
             ]
+        },
+        {
+            "version": "降级包 ColorOS PGZ110_13.1.0.190(CN01) C.35",
+            "links": [
+                "https://downgradefs.coloros.com/downgrade/23/08/31/9f0f9926362c48a3b98b7ac3d6ccf1c4.zip"
+            ]
+        },
+        {
+            "version": "降级包 ColorOS PGZ110_14.0.0.640(CN01) F.36",
+            "links": [
+                "https://downgradefs.coloros.com/downgrade/24/12/11/24f12200a1c849f2a38e39619531300a.zip"
+            ]
         }
     ]
 }

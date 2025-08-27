@@ -76,6 +76,25 @@
                 "https://componentota-auto-cn.allawnfs.com/component-ota/25/07/12/c4337e8285514e3a815ae6c1756e353e.zip",
                 "https://component-ota-afs.coloros.com/component-ota/25/07/12/c4337e8285514e3a815ae6c1756e353e.zip"
             ]
+        },
+        {
+            "version": "ColorOS PLF110_15.0.2.501(CN01) A.25",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f5985d7b58b74deb1a010cd710eef928/component-ota/25/08/07/7c6584f9a21f4c90a5b278eeeed73ac7.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-f5985d7b58b74deb1a010cd710eef928/component-ota/25/08/07/7c6584f9a21f4c90a5b278eeeed73ac7.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-f5985d7b58b74deb1a010cd710eef928/component-ota/25/08/07/7c6584f9a21f4c90a5b278eeeed73ac7.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-f5985d7b58b74deb1a010cd710eef928/component-ota/25/08/07/7c6584f9a21f4c90a5b278eeeed73ac7.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-f5985d7b58b74deb1a010cd710eef928/component-ota/25/08/07/7c6584f9a21f4c90a5b278eeeed73ac7.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-f5985d7b58b74deb1a010cd710eef928/component-ota/25/08/07/7c6584f9a21f4c90a5b278eeeed73ac7.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-f5985d7b58b74deb1a010cd710eef928/component-ota/25/08/07/7c6584f9a21f4c90a5b278eeeed73ac7.zip",
+                "https://gauss-cdnctrltrialauto-cn.allawnfs.com/remove-f5985d7b58b74deb1a010cd710eef928/component-ota/25/08/07/7c6584f9a21f4c90a5b278eeeed73ac7.zip",
+                "https://gauss-cdnctrltrialmanual-cn.allawnfs.com/remove-f5985d7b58b74deb1a010cd710eef928/component-ota/25/08/07/7c6584f9a21f4c90a5b278eeeed73ac7.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/08/07/7c6584f9a21f4c90a5b278eeeed73ac7.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/08/07/7c6584f9a21f4c90a5b278eeeed73ac7.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/08/07/7c6584f9a21f4c90a5b278eeeed73ac7.zip",
+                "https://gauss-cdnctrltrialauto-cn.allawnfs.com/component-ota/25/08/07/7c6584f9a21f4c90a5b278eeeed73ac7.zip",
+                "https://gauss-cdnctrltrialmanual-cn.allawnfs.com/component-ota/25/08/07/7c6584f9a21f4c90a5b278eeeed73ac7.zip"
+            ]
         }
     ]
 }

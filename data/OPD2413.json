@@ -116,6 +116,20 @@
                 "https://gauss-otacostmanual-in.allawnofs.com/remove-3953c3d89a66773dcf93de5c0c4c75c0/component-ota/25/07/11/c2b23807a3954b72b5ed7a825f3ba5d6.zip",
                 "https://gauss-otacostmanual-sg.allawnofs.com/remove-3953c3d89a66773dcf93de5c0c4c75c0/component-ota/25/07/11/c2b23807a3954b72b5ed7a825f3ba5d6.zip"
             ]
+        },
+        {
+            "version": "OxygenOS OPD2415_15.0.1.701(CN01) A.36_EEA",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-37ea434250bbec41c4d0edf1e5541fb3/component-ota/25/08/21/b43b2d510d094e90980954ae17315003.zip",
+                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-37ea434250bbec41c4d0edf1e5541fb3/component-ota/25/08/21/b43b2d510d094e90980954ae17315003.zip",
+                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-37ea434250bbec41c4d0edf1e5541fb3/component-ota/25/08/21/b43b2d510d094e90980954ae17315003.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-37ea434250bbec41c4d0edf1e5541fb3/component-ota/25/08/21/b43b2d510d094e90980954ae17315003.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-37ea434250bbec41c4d0edf1e5541fb3/component-ota/25/08/21/b43b2d510d094e90980954ae17315003.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-37ea434250bbec41c4d0edf1e5541fb3/component-ota/25/08/21/b43b2d510d094e90980954ae17315003.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-37ea434250bbec41c4d0edf1e5541fb3/component-ota/25/08/21/b43b2d510d094e90980954ae17315003.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-37ea434250bbec41c4d0edf1e5541fb3/component-ota/25/08/21/b43b2d510d094e90980954ae17315003.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-37ea434250bbec41c4d0edf1e5541fb3/component-ota/25/08/21/b43b2d510d094e90980954ae17315003.zip"
+            ]
         }
     ]
 }
