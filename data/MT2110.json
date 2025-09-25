@@ -456,6 +456,23 @@
             ]
         },
         {
+            "version": "ColorOS MT2110_14.0.0.2401(CN01) H.25",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-df2ace844ec7825301617e27fe912bae/component-ota/25/08/23/fc588bd9162e47968e2aef79830b0b93.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-df2ace844ec7825301617e27fe912bae/component-ota/25/08/23/fc588bd9162e47968e2aef79830b0b93.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-df2ace844ec7825301617e27fe912bae/component-ota/25/08/23/fc588bd9162e47968e2aef79830b0b93.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-df2ace844ec7825301617e27fe912bae/component-ota/25/08/23/fc588bd9162e47968e2aef79830b0b93.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-df2ace844ec7825301617e27fe912bae/component-ota/25/08/23/fc588bd9162e47968e2aef79830b0b93.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-df2ace844ec7825301617e27fe912bae/component-ota/25/08/23/fc588bd9162e47968e2aef79830b0b93.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-df2ace844ec7825301617e27fe912bae/component-ota/25/08/23/fc588bd9162e47968e2aef79830b0b93.zip",
+                "https://gauss-cdnctrltrialauto-cn.allawnfs.com/remove-df2ace844ec7825301617e27fe912bae/component-ota/25/08/23/fc588bd9162e47968e2aef79830b0b93.zip",
+                "https://gauss-cdnctrltrialmanual-cn.allawnfs.com/remove-df2ace844ec7825301617e27fe912bae/component-ota/25/08/23/fc588bd9162e47968e2aef79830b0b93.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/08/23/fc588bd9162e47968e2aef79830b0b93.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/08/23/fc588bd9162e47968e2aef79830b0b93.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/08/23/fc588bd9162e47968e2aef79830b0b93.zip"
+            ]
+        },
+        {
             "version": "ColorOS MT2110_14.0.0.500(CN01) H.16",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-8273e9d52cfac152948e2ab37fdc7826/component-ota/24/02/27/040383d39c81426e9629c0daf8a4e75c.zip",

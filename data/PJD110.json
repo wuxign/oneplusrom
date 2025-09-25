@@ -418,6 +418,23 @@
             ]
         },
         {
+            "version": "ColorOS PJD110_15.0.0.860(CN01) C.82",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/component-ota/25/09/04/780c853c34dc45c1818d3639e029ed1c.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/component-ota/25/09/04/780c853c34dc45c1818d3639e029ed1c.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/component-ota/25/09/04/780c853c34dc45c1818d3639e029ed1c.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/component-ota/25/09/04/780c853c34dc45c1818d3639e029ed1c.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/component-ota/25/09/04/780c853c34dc45c1818d3639e029ed1c.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/component-ota/25/09/04/780c853c34dc45c1818d3639e029ed1c.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/component-ota/25/09/04/780c853c34dc45c1818d3639e029ed1c.zip",
+                "https://gauss-cdnctrltrialauto-cn.allawnfs.com/component-ota/25/09/04/780c853c34dc45c1818d3639e029ed1c.zip",
+                "https://gauss-cdnctrltrialmanual-cn.allawnfs.com/component-ota/25/09/04/780c853c34dc45c1818d3639e029ed1c.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/09/04/780c853c34dc45c1818d3639e029ed1c.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/09/04/780c853c34dc45c1818d3639e029ed1c.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/09/04/780c853c34dc45c1818d3639e029ed1c.zip"
+            ]
+        },
+        {
             "version": "OxygenOS CPH2573_14.0.0.404(EX01) A.57",
             "links": [
                 "https://gauss-componentotacostmanual-in.allawnofs.com/remove-f1de90ed88d55ad262ac217834d9fca1/component-ota/24/01/29/45e552a7e3c94e1e8754d06156987aaf.zip",
@@ -650,6 +667,20 @@
                 "https://gauss-otacostmanual-eu.allawnofs.com/remove-a86386688fec70f988b31bf34f582e43/component-ota/25/07/14/f9285c94e7a140bb8d1a45e39bcc91c4.zip",
                 "https://gauss-otacostmanual-in.allawnofs.com/remove-a86386688fec70f988b31bf34f582e43/component-ota/25/07/14/f9285c94e7a140bb8d1a45e39bcc91c4.zip",
                 "https://gauss-otacostmanual-sg.allawnofs.com/remove-a86386688fec70f988b31bf34f582e43/component-ota/25/07/14/f9285c94e7a140bb8d1a45e39bcc91c4.zip"
+            ]
+        },
+        {
+            "version": "OxygenOS CPH2573_15.0.0.850(EX01) C.98",
+            "links": [
+                "https://gauss-opexcostmanual-in.allawnofs.com/remove-d877a5b9b17892a8aca4461210229115/component-ota/25/08/14/37516a53cc5b4453bce79cd0e81b5817.zip",
+                "https://gauss-opexcostmanual-sg.allawnofs.com/remove-d877a5b9b17892a8aca4461210229115/component-ota/25/08/14/37516a53cc5b4453bce79cd0e81b5817.zip",
+                "https://gauss-opexcostmanual-eu.allawnofs.com/remove-d877a5b9b17892a8aca4461210229115/component-ota/25/08/14/37516a53cc5b4453bce79cd0e81b5817.zip",
+                "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-d877a5b9b17892a8aca4461210229115/component-ota/25/08/14/37516a53cc5b4453bce79cd0e81b5817.zip",
+                "https://gauss-componentotacostmanual-in.allawnofs.com/remove-d877a5b9b17892a8aca4461210229115/component-ota/25/08/14/37516a53cc5b4453bce79cd0e81b5817.zip",
+                "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-d877a5b9b17892a8aca4461210229115/component-ota/25/08/14/37516a53cc5b4453bce79cd0e81b5817.zip",
+                "https://gauss-otacostmanual-eu.allawnofs.com/remove-d877a5b9b17892a8aca4461210229115/component-ota/25/08/14/37516a53cc5b4453bce79cd0e81b5817.zip",
+                "https://gauss-otacostmanual-in.allawnofs.com/remove-d877a5b9b17892a8aca4461210229115/component-ota/25/08/14/37516a53cc5b4453bce79cd0e81b5817.zip",
+                "https://gauss-otacostmanual-sg.allawnofs.com/remove-d877a5b9b17892a8aca4461210229115/component-ota/25/08/14/37516a53cc5b4453bce79cd0e81b5817.zip"
             ]
         },
         {

@@ -543,6 +543,23 @@
             ]
         },
         {
+            "version": "ColorOS NE2210_15.0.0.1202(CN01) H.87",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b476ecdb45b35c138dd3036e1e46d8c3/component-ota/25/09/01/c5e643b80fa74e5190dfb2ed9e92369e.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-b476ecdb45b35c138dd3036e1e46d8c3/component-ota/25/09/01/c5e643b80fa74e5190dfb2ed9e92369e.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-b476ecdb45b35c138dd3036e1e46d8c3/component-ota/25/09/01/c5e643b80fa74e5190dfb2ed9e92369e.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-b476ecdb45b35c138dd3036e1e46d8c3/component-ota/25/09/01/c5e643b80fa74e5190dfb2ed9e92369e.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-b476ecdb45b35c138dd3036e1e46d8c3/component-ota/25/09/01/c5e643b80fa74e5190dfb2ed9e92369e.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-b476ecdb45b35c138dd3036e1e46d8c3/component-ota/25/09/01/c5e643b80fa74e5190dfb2ed9e92369e.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-b476ecdb45b35c138dd3036e1e46d8c3/component-ota/25/09/01/c5e643b80fa74e5190dfb2ed9e92369e.zip",
+                "https://gauss-cdnctrltrialauto-cn.allawnfs.com/remove-b476ecdb45b35c138dd3036e1e46d8c3/component-ota/25/09/01/c5e643b80fa74e5190dfb2ed9e92369e.zip",
+                "https://gauss-cdnctrltrialmanual-cn.allawnfs.com/remove-b476ecdb45b35c138dd3036e1e46d8c3/component-ota/25/09/01/c5e643b80fa74e5190dfb2ed9e92369e.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/09/01/c5e643b80fa74e5190dfb2ed9e92369e.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/09/01/c5e643b80fa74e5190dfb2ed9e92369e.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/09/01/c5e643b80fa74e5190dfb2ed9e92369e.zip"
+            ]
+        },
+        {
             "version": "ColorOS NE2210_15.0.0.401(CN01) H.82",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-8763f743f27d624b5f997564d2543536/component-ota/25/01/07/2836bdc443e34f42a8f9b9acd3f5e848.zip",

@@ -346,6 +346,12 @@
                 "https://gauss-otacostmanual-in.allawnofs.com/remove-eda90897508a63b06656dc9c51fa5b9f/component-ota/25/05/09/ed51b5b710024d36a089ebfdcf80bee4.zip",
                 "https://gauss-otacostmanual-sg.allawnofs.com/remove-eda90897508a63b06656dc9c51fa5b9f/component-ota/25/05/09/ed51b5b710024d36a089ebfdcf80bee4.zip"
             ]
+        },
+        {
+            "version": "降级包 OxygenOS CPH2691_15.0.0.850(EX01) C.61",
+            "links": [
+                "https://oxygenos.oneplus.com/1351_sign_CPH2691_11_C_OTA_1610_all_LySzHk_00011011.zip"
+            ]
         }
     ]
 }

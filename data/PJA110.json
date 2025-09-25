@@ -336,6 +336,23 @@
             ]
         },
         {
+            "version": "ColorOS PJA110_15.0.0.850(CN01) F.37",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-9852b5b7c80466bc2cf3fe9c5eae06e1/component-ota/25/08/20/09b6acb7d30543b2b0d4ea571936320f.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-9852b5b7c80466bc2cf3fe9c5eae06e1/component-ota/25/08/20/09b6acb7d30543b2b0d4ea571936320f.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-9852b5b7c80466bc2cf3fe9c5eae06e1/component-ota/25/08/20/09b6acb7d30543b2b0d4ea571936320f.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-9852b5b7c80466bc2cf3fe9c5eae06e1/component-ota/25/08/20/09b6acb7d30543b2b0d4ea571936320f.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-9852b5b7c80466bc2cf3fe9c5eae06e1/component-ota/25/08/20/09b6acb7d30543b2b0d4ea571936320f.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-9852b5b7c80466bc2cf3fe9c5eae06e1/component-ota/25/08/20/09b6acb7d30543b2b0d4ea571936320f.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-9852b5b7c80466bc2cf3fe9c5eae06e1/component-ota/25/08/20/09b6acb7d30543b2b0d4ea571936320f.zip",
+                "https://gauss-cdnctrltrialauto-cn.allawnfs.com/remove-9852b5b7c80466bc2cf3fe9c5eae06e1/component-ota/25/08/20/09b6acb7d30543b2b0d4ea571936320f.zip",
+                "https://gauss-cdnctrltrialmanual-cn.allawnfs.com/remove-9852b5b7c80466bc2cf3fe9c5eae06e1/component-ota/25/08/20/09b6acb7d30543b2b0d4ea571936320f.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/08/20/09b6acb7d30543b2b0d4ea571936320f.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/08/20/09b6acb7d30543b2b0d4ea571936320f.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/08/20/09b6acb7d30543b2b0d4ea571936320f.zip"
+            ]
+        },
+        {
             "version": "降级包 ColorOS PJA110_13.1.1.405(CN01) A.12",
             "links": [
                 "https://downgradefs.coloros.com/downgrade/23/09/13/1b9b97dfa2dc42cc8d11b97e0f0688c5.zip"

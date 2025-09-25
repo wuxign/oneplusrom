@@ -148,6 +148,23 @@
             ]
         },
         {
+            "version": "ColorOS OPD2404_15.0.0.1301(CN01) C.24",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b54b5b463fe6103d275bc12f2f0cf8c7/component-ota/25/09/02/d90c9a3b40c34d35b619993947063e25.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-b54b5b463fe6103d275bc12f2f0cf8c7/component-ota/25/09/02/d90c9a3b40c34d35b619993947063e25.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-b54b5b463fe6103d275bc12f2f0cf8c7/component-ota/25/09/02/d90c9a3b40c34d35b619993947063e25.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-b54b5b463fe6103d275bc12f2f0cf8c7/component-ota/25/09/02/d90c9a3b40c34d35b619993947063e25.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-b54b5b463fe6103d275bc12f2f0cf8c7/component-ota/25/09/02/d90c9a3b40c34d35b619993947063e25.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-b54b5b463fe6103d275bc12f2f0cf8c7/component-ota/25/09/02/d90c9a3b40c34d35b619993947063e25.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-b54b5b463fe6103d275bc12f2f0cf8c7/component-ota/25/09/02/d90c9a3b40c34d35b619993947063e25.zip",
+                "https://gauss-cdnctrltrialauto-cn.allawnfs.com/remove-b54b5b463fe6103d275bc12f2f0cf8c7/component-ota/25/09/02/d90c9a3b40c34d35b619993947063e25.zip",
+                "https://gauss-cdnctrltrialmanual-cn.allawnfs.com/remove-b54b5b463fe6103d275bc12f2f0cf8c7/component-ota/25/09/02/d90c9a3b40c34d35b619993947063e25.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/09/02/d90c9a3b40c34d35b619993947063e25.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/09/02/d90c9a3b40c34d35b619993947063e25.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/09/02/d90c9a3b40c34d35b619993947063e25.zip"
+            ]
+        },
+        {
             "version": "ColorOS OPD2404_15.0.0.202(CN01) C.11",
             "links": [
                 "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-461b9494e4de842e5872c05154eada39/component-ota/24/11/27/a50027899d7147d4a7a72ccfb57e77d0.zip",

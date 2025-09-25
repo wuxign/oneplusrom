@@ -17,6 +17,12 @@
             ]
         },
         {
+            "version": "ColorOS OPD2407_15.0.0.1201(CN01) A.38",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-55d4f898d0d78c8fa82fc864ecb5883e/component-ota/25/08/13/de83ef4f71164d12bf0b7f056d6d6875.zip"
+            ]
+        },
+        {
             "version": "ColorOS OPD2407_15.0.0.402(CN01) A.29",
             "links": [
                 "https://gauss-compotacostauto-cn.allawnfs.com/remove-57c75c0179e30f1937f6acc079dd5dbb/component-ota/24/12/31/af326332206e472d872aedd7c9189a03.zip",

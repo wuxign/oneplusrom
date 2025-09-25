@@ -257,6 +257,23 @@
             ]
         },
         {
+            "version": "ColorOS PJF110_15.0.0.860(CN01) C.40",
+            "links": [
+                "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-d46c768b2950220babe7fc0a63f30d10/component-ota/25/09/08/b882c4a98beb4dee9c21702eb7f801c5.zip",
+                "https://gauss-compotacostauto-cn.allawnfs.com/remove-d46c768b2950220babe7fc0a63f30d10/component-ota/25/09/08/b882c4a98beb4dee9c21702eb7f801c5.zip",
+                "https://gauss-otacostmanual-cn.allawnfs.com/remove-d46c768b2950220babe7fc0a63f30d10/component-ota/25/09/08/b882c4a98beb4dee9c21702eb7f801c5.zip",
+                "https://gauss-opexcostmanual-cn.allawnfs.com/remove-d46c768b2950220babe7fc0a63f30d10/component-ota/25/09/08/b882c4a98beb4dee9c21702eb7f801c5.zip",
+                "https://gauss-otacostauto-cn.allawnfs.com/remove-d46c768b2950220babe7fc0a63f30d10/component-ota/25/09/08/b882c4a98beb4dee9c21702eb7f801c5.zip",
+                "https://gauss-opexcostauto-cn.allawnfs.com/remove-d46c768b2950220babe7fc0a63f30d10/component-ota/25/09/08/b882c4a98beb4dee9c21702eb7f801c5.zip",
+                "https://dfs-serverauto-cn.allawnfs.com/remove-d46c768b2950220babe7fc0a63f30d10/component-ota/25/09/08/b882c4a98beb4dee9c21702eb7f801c5.zip",
+                "https://gauss-cdnctrltrialauto-cn.allawnfs.com/remove-d46c768b2950220babe7fc0a63f30d10/component-ota/25/09/08/b882c4a98beb4dee9c21702eb7f801c5.zip",
+                "https://gauss-cdnctrltrialmanual-cn.allawnfs.com/remove-d46c768b2950220babe7fc0a63f30d10/component-ota/25/09/08/b882c4a98beb4dee9c21702eb7f801c5.zip",
+                "https://componentota-manual-cn.allawnfs.com/component-ota/25/09/08/b882c4a98beb4dee9c21702eb7f801c5.zip",
+                "https://componentota-auto-cn.allawnfs.com/component-ota/25/09/08/b882c4a98beb4dee9c21702eb7f801c5.zip",
+                "https://component-ota-afs.coloros.com/component-ota/25/09/08/b882c4a98beb4dee9c21702eb7f801c5.zip"
+            ]
+        },
+        {
             "version": "降级包ColorOS PJF110_14.0.1.630(CN01) A.40",
             "links": [
                 "https://downgradefs.coloros.com/downgrade/24/09/03/7ee905c1e92049c1b03b854f98a9c6d0.zip"
